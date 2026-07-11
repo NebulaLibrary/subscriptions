@@ -5,40 +5,56 @@ import os
 
 url = "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/refs/heads/main/output/singbox.json"
 
+
 output = "singbox/singbox.json"
+temp = "singbox/singbox_temp.json"
+
 
 
 try:
+
     r = requests.get(url, timeout=30)
     r.raise_for_status()
 
     data = r.json()
 
 
-    # تغییر tag همه outbound ها
-    if "outbounds" in data:
-
-        for outbound in data["outbounds"]:
-
-            if "tag" in outbound:
-                outbound["tag"] = "@SystemNebula"
+    if "outbounds" in data and len(data["outbounds"]) > 0:
 
 
-    # ساخت پوشه singbox
-    os.makedirs("singbox", exist_ok=True)
+        for item in data["outbounds"]:
+
+            if "tag" in item:
+                item["tag"] = "@SystemNebula"
 
 
-    with open(output, "w", encoding="utf-8") as f:
-        json.dump(
-            data,
-            f,
-            ensure_ascii=False,
-            indent=2
-        )
+
+        os.makedirs("singbox", exist_ok=True)
 
 
-    print("Sing-box updated successfully")
+        with open(temp, "w", encoding="utf-8") as f:
+
+            json.dump(
+                data,
+                f,
+                ensure_ascii=False,
+                indent=2
+            )
+
+
+        os.replace(temp, output)
+
+
+        print("Singbox updated:", len(data["outbounds"]))
+
+
+    else:
+
+        print("Singbox failed. Old file kept.")
+
 
 
 except Exception as e:
-    print("Error:", e)
+
+    print("Singbox error:", e)
+    print("Old file kept.")
