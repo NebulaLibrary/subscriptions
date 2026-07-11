@@ -26,19 +26,23 @@ jobs:
 
       - name: Install requirements
         run: |
-          pip install requests
+          pip install requests pyyaml
 
       - name: Update V2Ray subscription
         run: |
           python merge_v2ray.py
+
+      - name: Update Clash subscription
+        run: |
+          python merge_clash.py
 
       - name: Commit changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
 
-          git add v2ray/all.txt
+          git add .
 
-          git diff --cached --quiet || git commit -m "Auto Update V2Ray Subscription"
+          git diff --cached --quiet || git commit -m "Auto Update Subscriptions"
 
           git push
