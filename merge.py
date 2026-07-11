@@ -1,4 +1,5 @@
 import requests
+from urllib.parse import quote
 
 urls = [
     "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Subscriptions/Sub1.txt",
@@ -26,10 +27,11 @@ urls = [
     "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Subscriptions/Sub30.txt",
 ]
 
-configs = set()
+configs = []
 
 for url in urls:
-    print("Downloading:", url)
+    print(f"Downloading: {url}")
+
     try:
         r = requests.get(url, timeout=30)
         r.raise_for_status()
@@ -37,16 +39,22 @@ for url in urls:
         for line in r.text.splitlines():
             line = line.strip()
 
-            if line:
-                configs.add(line)
+            if not line:
+                continue
+
+            # حذف تگ قبلی
+            if "#" in line:
+                line = line.split("#", 1)[0]
+
+            # افزودن تگ جدید
+            line += "#" + quote("@SystemNebula")
+
+            configs.append(line)
 
     except Exception as e:
         print(e)
-
-configs = sorted(configs)
 
 with open("all.txt", "w", encoding="utf-8") as f:
     f.write("\n".join(configs))
 
 print("Done")
-print("Configs:", len(configs))
