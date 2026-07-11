@@ -36,6 +36,10 @@ jobs:
         run: |
           python merge_clash.py
 
+      - name: Update Sing-box subscription
+        run: |
+          python merge_singbox.py
+
       - name: Commit changes
         run: |
           git config user.name github-actions
@@ -43,6 +47,6 @@ jobs:
 
           git add .
 
-          git diff --cached --quiet || git commit -m "Auto Update Subscriptions"
+          git diff --cached --quiet || git commit -m "Auto Update All Subscriptions"
 
           git push
