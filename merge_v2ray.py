@@ -1,5 +1,6 @@
 import requests
 import base64
+import os
 from urllib.parse import quote
 
 
@@ -47,25 +48,24 @@ def add_config(line):
     configs.append(line)
 
 
-
 for url in urls:
     try:
         r = requests.get(url, timeout=30)
+        r.raise_for_status()
 
         for line in r.text.splitlines():
             add_config(line)
 
     except Exception as e:
-        print(e)
+        print("Error:", e)
 
 
-
-# اضافه کردن v2ray-base64
-base64_url = "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/refs/heads/main/output/v2ray-base64.txt"
-
-
+# Base64 source
 try:
-    r = requests.get(base64_url, timeout=30)
+    url = "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/refs/heads/main/output/v2ray-base64.txt"
+
+    r = requests.get(url, timeout=30)
+    r.raise_for_status()
 
     decoded = base64.b64decode(r.text).decode()
 
@@ -73,12 +73,24 @@ try:
         add_config(line)
 
 except Exception as e:
-    print(e)
+    print("Base64 error:", e)
 
 
 
-with open("v2ray/all.txt", "w", encoding="utf-8") as f:
-    f.write("\n".join(configs))
+output = "v2ray/all.txt"
+temp = "v2ray/all_temp.txt"
 
 
-print("V2Ray done:", len(configs))
+if len(configs) > 20:
+
+    os.makedirs("v2ray", exist_ok=True)
+
+    with open(temp, "w", encoding="utf-8") as f:
+        f.write("\n".join(configs))
+
+    os.replace(temp, output)
+
+    print("V2Ray updated:", len(configs))
+
+else:
+    print("V2Ray failed. Old file kept.")
