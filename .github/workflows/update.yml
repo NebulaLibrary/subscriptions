@@ -20,11 +20,12 @@ jobs:
 
     steps:
 
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/checkout@v4
 
-
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
@@ -39,6 +40,11 @@ jobs:
           python merge_v2ray.py
 
 
+      - name: Split V2Ray
+        run: |
+          python split_v2ray.py
+
+
       - name: Update Clash
         run: |
           python merge_clash.py
@@ -49,18 +55,14 @@ jobs:
           python merge_singbox.py
 
 
-
       - name: Commit changes
         run: |
 
           git config user.name github-actions
           git config user.email github-actions@github.com
 
-
           git add .
 
-
-          git diff --cached --quiet || git commit -m "Auto Update"
-
+          git diff --cached --quiet || git commit -m "Auto Update Subscription"
 
           git push
