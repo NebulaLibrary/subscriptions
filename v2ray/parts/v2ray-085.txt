@@ -1,2 +1,0 @@
-trojan://humanity@172.64.152.23:443?sni=www.creationlong.org&type=ws#%40SystemNebula
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%40SystemNebula
