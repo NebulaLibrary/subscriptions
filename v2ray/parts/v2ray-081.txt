@@ -1,2 +1,0 @@
-vless://41cbcc75-759f-4707-984e-aea715046830@167.88.167.57:443?flow=xtls-rprx-vision&fp=qq&pbk=vJBCJXM6AYo1zobLsW7-UzJsznfiqzVpz7OphyAbGX0&security=reality&sid=7b661daae97b9789&sni=site.rumedia-cdn.com&type=tcp#%40SystemNebula
-trojan://humanity@172.64.152.23:443?sni=www.creationlong.org&type=ws#%40SystemNebula
