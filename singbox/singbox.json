@@ -1,28 +1,13 @@
 {
   "outbounds": [
     {
-      "method": "chacha20-ietf-poly1305",
-      "password": "hCCWOcIsK5wrFz4OX70rWf",
-      "server": "216.105.168.18",
-      "server_port": 443,
+      "alter_id": 0,
+      "security": "auto",
+      "server": "82.198.246.9",
+      "server_port": 180,
       "tag": "@SystemNebula",
-      "type": "shadowsocks"
-    },
-    {
-      "method": "chacha20-ietf-poly1305",
-      "password": "G5p6ww4o67HB",
-      "server": "108.181.0.177",
-      "server_port": 8388,
-      "tag": "@SystemNebula",
-      "type": "shadowsocks"
-    },
-    {
-      "method": "chacha20-ietf-poly1305",
-      "password": "G5p6ww4o67HB",
-      "server": "108.181.118.10",
-      "server_port": 8388,
-      "tag": "@SystemNebula",
-      "type": "shadowsocks"
+      "type": "vmess",
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552"
     },
     {
       "alter_id": 0,
@@ -36,11 +21,11 @@
     {
       "alter_id": 0,
       "security": "auto",
-      "server": "82.198.246.9",
-      "server_port": 180,
+      "server": "107.161.82.89",
+      "server_port": 27489,
       "tag": "@SystemNebula",
       "type": "vmess",
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552"
+      "uuid": "1f111c76-69ce-4fa9-a55c-1ae21cd1ab2a"
     },
     {
       "alter_id": 0,
@@ -54,20 +39,43 @@
     {
       "alter_id": 0,
       "security": "auto",
-      "server": "107.161.82.89",
-      "server_port": 27489,
-      "tag": "@SystemNebula",
-      "type": "vmess",
-      "uuid": "1f111c76-69ce-4fa9-a55c-1ae21cd1ab2a"
-    },
-    {
-      "alter_id": 0,
-      "security": "auto",
       "server": "128.242.109.20",
       "server_port": 17432,
       "tag": "@SystemNebula",
       "type": "vmess",
       "uuid": "6cc4a312-2d18-4694-b92d-0af1c039e697"
+    },
+    {
+      "method": "chacha20-ietf-poly1305",
+      "password": "hCCWOcIsK5wrFz4OX70rWf",
+      "server": "216.105.168.18",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
+      "method": "chacha20-ietf-poly1305",
+      "password": "G5p6ww4o67HB",
+      "server": "108.181.118.10",
+      "server_port": 8388,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
+      "method": "chacha20-ietf-poly1305",
+      "password": "3t21e/P6fxeSULmI2S4f0mJ3q3b2TiQO",
+      "server": "43.173.98.184",
+      "server_port": 8388,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
+      "method": "chacha20-ietf-poly1305",
+      "password": "G5p6ww4o67HB",
+      "server": "108.181.0.177",
+      "server_port": 8388,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
     },
     {
       "server": "104.16.72.50",
@@ -90,13 +98,13 @@
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": ""
+        "server_name": "gw.alicdn.com"
       },
       "type": "vmess",
       "uuid": "6a89a215-22bf-4bd7-9642-b95b2e09583a"
     },
     {
-      "server": "104.21.227.134",
+      "server": "172.64.40.84",
       "server_port": 443,
       "tag": "@SystemNebula",
       "tls": {
@@ -108,32 +116,16 @@
       "uuid": "eeb6823c-b926-4ea2-866a-5542edd26e59"
     },
     {
-      "password": "bpb-trojan",
-      "server": "vless.herogoing.top",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "server": "173.244.56.9",
       "server_port": 443,
       "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "vless.herogoing.top"
-      },
-      "type": "trojan"
+      "type": "shadowsocks"
     },
     {
-      "server": "172.64.153.235",
+      "server": "162.159.32.29",
       "server_port": 8443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "socks5.revil-time3.workers.dev"
-      },
-      "type": "vless",
-      "uuid": "656bb400-3b7a-47e3-94b0-0362f3865072"
-    },
-    {
-      "server": "172.64.150.130",
-      "server_port": 443,
       "tag": "@SystemNebula",
       "tls": {
         "enabled": true,
@@ -150,23 +142,6 @@
       "server_port": 443,
       "tag": "@SystemNebula",
       "type": "shadowsocks"
-    },
-    {
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "server": "173.244.56.9",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "type": "shadowsocks"
-    },
-    {
-      "alter_id": 0,
-      "security": "auto",
-      "server": "165.140.216.141",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "type": "vmess",
-      "uuid": "e7d72a8d-26f2-4b54-b366-0c43e0bcba7d"
     },
     {
       "method": "aes-128-gcm",
@@ -201,7 +176,16 @@
       "type": "shadowsocks"
     },
     {
-      "server": "172.64.52.18",
+      "alter_id": 0,
+      "security": "auto",
+      "server": "165.140.216.141",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "type": "vmess",
+      "uuid": "e7d72a8d-26f2-4b54-b366-0c43e0bcba7d"
+    },
+    {
+      "server": "162.159.1.37",
       "server_port": 443,
       "tag": "@SystemNebula",
       "tls": {
@@ -211,34 +195,6 @@
       },
       "type": "vless",
       "uuid": "eeb6823c-b926-4ea2-866a-5542edd26e59"
-    },
-    {
-      "method": "chacha20-ietf-poly1305",
-      "password": "3t21e/P6fxeSULmI2S4f0mJ3q3b2TiQO",
-      "server": "43.173.98.184",
-      "server_port": 8388,
-      "tag": "@SystemNebula",
-      "type": "shadowsocks"
-    },
-    {
-      "server": "8.39.125.59",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "vp9.cc.cd"
-      },
-      "type": "vless",
-      "uuid": "663cf772-829c-4bc6-893d-b7d021d42f5b"
-    },
-    {
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "server": "149.22.95.183",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "type": "shadowsocks"
     },
     {
       "flow": "xtls-rprx-vision",
@@ -263,8 +219,8 @@
       "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5"
     },
     {
-      "server": "172.64.40.84",
-      "server_port": 443,
+      "server": "162.159.38.119",
+      "server_port": 8443,
       "tag": "@SystemNebula",
       "tls": {
         "enabled": true,
@@ -275,28 +231,12 @@
       "uuid": "eeb6823c-b926-4ea2-866a-5542edd26e59"
     },
     {
-      "server": "104.25.67.151",
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "server": "149.22.95.183",
       "server_port": 443,
       "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "t1s1.rittbo.kdns.fr"
-      },
-      "type": "vless",
-      "uuid": "eeb6823c-b926-4ea2-866a-5542edd26e59"
-    },
-    {
-      "server": "195.85.23.13",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "edge-4cb23bf6.pages.dev"
-      },
-      "type": "vless",
-      "uuid": "4feb7818-dc02-46cd-b985-abf3fdd0cdc5"
+      "type": "shadowsocks"
     },
     {
       "alter_id": 0,
@@ -313,9 +253,17 @@
       "uuid": "fce3d6a4-0f12-49b5-a810-84bcf0fde202"
     },
     {
+      "method": "aes-256-gcm",
+      "password": "faBAoD54k87UJG7",
+      "server": "172.245.235.84",
+      "server_port": 2375,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
       "method": "aes-128-gcm",
       "password": "shadowsocks",
-      "server": "37.19.198.236",
+      "server": "37.19.198.160",
       "server_port": 443,
       "tag": "@SystemNebula",
       "type": "shadowsocks"
@@ -330,9 +278,9 @@
     },
     {
       "method": "aes-256-gcm",
-      "password": "faBAoD54k87UJG7",
-      "server": "172.245.235.84",
-      "server_port": 2375,
+      "password": "2803361d6c196af8",
+      "server": "50.114.177.235",
+      "server_port": 20111,
       "tag": "@SystemNebula",
       "type": "shadowsocks"
     },
@@ -347,42 +295,10 @@
     {
       "method": "aes-128-gcm",
       "password": "shadowsocks",
-      "server": "37.19.198.160",
+      "server": "37.19.198.236",
       "server_port": 443,
       "tag": "@SystemNebula",
       "type": "shadowsocks"
-    },
-    {
-      "method": "chacha20-ietf-poly1305",
-      "password": "hbGrpfvNrJsUmKmPbR3iY2",
-      "server": "tinkered-pennies-puppies.freesocks.work",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "type": "shadowsocks"
-    },
-    {
-      "password": "CF68213490",
-      "server": "capable-eel.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "capable-eel.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "OD90375861",
-      "server": "nearby-muskrat.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "nearby-muskrat.rooster465.autos"
-      },
-      "type": "trojan"
     },
     {
       "password": "CF68213490",
@@ -393,38 +309,6 @@
         "enabled": true,
         "insecure": true,
         "server_name": "balanced-puma.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "method": "aes-256-gcm",
-      "password": "2803361d6c196af8",
-      "server": "50.114.177.235",
-      "server_port": 20111,
-      "tag": "@SystemNebula",
-      "type": "shadowsocks"
-    },
-    {
-      "password": "CF68213490",
-      "server": "polite-coyote.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "polite-coyote.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "KV63147582",
-      "server": "popular-meerkat.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "popular-meerkat.rooster465.autos"
       },
       "type": "trojan"
     },
@@ -441,6 +325,58 @@
       "type": "trojan"
     },
     {
+      "method": "chacha20-ietf-poly1305",
+      "password": "hbGrpfvNrJsUmKmPbR3iY2",
+      "server": "tinkered-pennies-puppies.freesocks.work",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
+      "server": "195.85.23.13",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "edge-4cb23bf6.pages.dev"
+      },
+      "type": "vless",
+      "uuid": "4feb7818-dc02-46cd-b985-abf3fdd0cdc5"
+    },
+    {
+      "password": "KV63147582",
+      "server": "popular-meerkat.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "popular-meerkat.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "OD90375861",
+      "server": "nearby-muskrat.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "nearby-muskrat.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "amazonskr05",
+      "server": "13.59.31.133",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
       "alter_id": 0,
       "security": "auto",
       "server": "38.110.1.246",
@@ -450,12 +386,28 @@
       "uuid": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe"
     },
     {
-      "method": "aes-256-cfb",
-      "password": "amazonskr05",
-      "server": "13.59.31.133",
+      "password": "CF68213490",
+      "server": "capable-eel.rooster465.autos",
       "server_port": 443,
       "tag": "@SystemNebula",
-      "type": "shadowsocks"
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "capable-eel.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "polite-coyote.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "polite-coyote.rooster465.autos"
+      },
+      "type": "trojan"
     },
     {
       "flow": "xtls-rprx-vision",
@@ -478,14 +430,6 @@
       },
       "type": "vless",
       "uuid": "c8b5f6c9-83ff-4ca1-be9c-f997a5b2f692"
-    },
-    {
-      "method": "aes-256-cfb",
-      "password": "amazonskr05",
-      "server": "3.145.57.90",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "type": "shadowsocks"
     },
     {
       "flow": "xtls-rprx-vision",
@@ -516,48 +460,6 @@
       "server_port": 8080,
       "tag": "@SystemNebula",
       "type": "shadowsocks"
-    },
-    {
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "server": "149.22.87.240",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "type": "shadowsocks"
-    },
-    {
-      "server": "172.64.153.159",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "t1s1.rittbo.kdns.fr"
-      },
-      "type": "vless",
-      "uuid": "eeb6823c-b926-4ea2-866a-5542edd26e59"
-    },
-    {
-      "flow": "xtls-rprx-vision",
-      "server": "159.89.87.21",
-      "server_port": 28190,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno",
-          "short_id": ""
-        },
-        "server_name": "aws.amazon.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "uuid": "14c80e0e-f7ce-4991-94fc-99a1db4a9b1e"
     },
     {
       "server": "198.251.78.29",
@@ -591,7 +493,31 @@
     {
       "method": "aes-128-gcm",
       "password": "shadowsocks",
+      "server": "149.22.87.240",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
       "server": "149.22.87.204",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
+      "method": "chacha20-ietf-poly1305",
+      "password": "lghX3rcG7bqSQ8L6",
+      "server": "128.251.12.23",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "amazonskr05",
+      "server": "3.145.57.90",
       "server_port": 443,
       "tag": "@SystemNebula",
       "type": "shadowsocks"
@@ -600,21 +526,6 @@
       "method": "aes-128-gcm",
       "password": "shadowsocks",
       "server": "158.173.24.73",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "type": "shadowsocks"
-    },
-    {
-      "server": "35.181.217.132",
-      "server_port": 22222,
-      "tag": "@SystemNebula",
-      "type": "vless",
-      "uuid": "e4514801-0d5a-42ba-869f-39bd605aef9e"
-    },
-    {
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "server": "158.173.20.171",
       "server_port": 443,
       "tag": "@SystemNebula",
       "type": "shadowsocks"
@@ -640,6 +551,14 @@
       "type": "hysteria2"
     },
     {
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "server": "158.173.20.171",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
       "method": "chacha20-ietf-poly1305",
       "password": "bIOoi5TuImG2KccxV7-jcA7Cez+vun-c_E",
       "server": "104.156.233.234",
@@ -648,42 +567,10 @@
       "type": "shadowsocks"
     },
     {
-      "method": "chacha20-ietf-poly1305",
-      "password": "CJmTCCx7Ltud",
-      "server": "108.181.58.239",
-      "server_port": 8388,
-      "tag": "@SystemNebula",
-      "type": "shadowsocks"
-    },
-    {
-      "method": "chacha20-ietf-poly1305",
-      "password": "7e731ec3-f8e1-43f6-92cf-3978d14705c4",
-      "server": "36.224.158.182",
-      "server_port": 50099,
-      "tag": "@SystemNebula",
-      "type": "shadowsocks"
-    },
-    {
       "method": "aes-256-gcm",
-      "password": "Y6R9pAtvxxzmGC",
-      "server": "103.106.231.82",
-      "server_port": 5600,
-      "tag": "@SystemNebula",
-      "type": "shadowsocks"
-    },
-    {
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "server": "141.98.101.182",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "type": "shadowsocks"
-    },
-    {
-      "method": "aes-128-gcm",
-      "password": "shadowsocks",
-      "server": "141.98.101.181",
-      "server_port": 443,
+      "password": "RexnBgU7EV5ADxG",
+      "server": "94.156.250.148",
+      "server_port": 7001,
       "tag": "@SystemNebula",
       "type": "shadowsocks"
     },
@@ -698,8 +585,64 @@
     {
       "method": "aes-128-gcm",
       "password": "shadowsocks",
+      "server": "141.98.101.182",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
       "server": "141.98.101.178",
       "server_port": 443,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "server": "141.98.101.181",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
+      "method": "chacha20-ietf-poly1305",
+      "password": "oZIoA69Q8yhcQV8ka3Pa3A",
+      "server": "82.38.31.57",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
+      "method": "chacha20-ietf-poly1305",
+      "password": "oZIoA69Q8yhcQV8ka3Pa3A",
+      "server": "82.38.31.47",
+      "server_port": 8080,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
+      "method": "chacha20-ietf-poly1305",
+      "password": "k1dBOmOB4oqi7Ump37a1bQ",
+      "server": "82.38.31.185",
+      "server_port": 8080,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
+      "method": "chacha20-ietf-poly1305",
+      "password": "7e731ec3-f8e1-43f6-92cf-3978d14705c4",
+      "server": "r3mrcg001286ek2.cybervena.com",
+      "server_port": 50099,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "RexnBgU7EV5ADxG",
+      "server": "141.164.45.187",
+      "server_port": 7001,
       "tag": "@SystemNebula",
       "type": "shadowsocks"
     },
@@ -713,158 +656,33 @@
     },
     {
       "method": "chacha20-ietf-poly1305",
-      "password": "Vr06rU_v1vFPYeXq9zbsAA",
-      "server": "185.156.173.206",
-      "server_port": 1080,
-      "tag": "@SystemNebula",
-      "type": "shadowsocks"
-    },
-    {
-      "alter_id": 0,
-      "security": "auto",
-      "server": "45.76.202.45",
-      "server_port": 4010,
-      "tag": "@SystemNebula",
-      "type": "vmess",
-      "uuid": "071a8a71-c656-4fb6-a908-4e42eb72243d"
-    },
-    {
-      "method": "aes-256-gcm",
-      "password": "RexnBgU7EV5ADxG",
-      "server": "141.164.45.187",
-      "server_port": 7001,
+      "password": "k1dBOmOB4oqi7Ump37a1bQ",
+      "server": "82.38.31.204",
+      "server_port": 8080,
       "tag": "@SystemNebula",
       "type": "shadowsocks"
     },
     {
       "password": "CF68213490",
-      "server": "52.195.207.214",
+      "server": "thankful-mustang.rooster465.autos",
       "server_port": 443,
       "tag": "@SystemNebula",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "rested-osprey.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "PI36027154",
-      "server": "exciting-grizzly.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "exciting-grizzly.rooster465.autos"
+        "server_name": "thankful-mustang.rooster465.autos"
       },
       "type": "trojan"
     },
     {
       "password": "CF68213490",
-      "server": "35.72.9.75",
+      "server": "settling-humpback.rooster465.autos",
       "server_port": 443,
       "tag": "@SystemNebula",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "caring-wallaby.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "rested-osprey.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "rested-osprey.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "13.115.229.63",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "alert-redfish.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "live-drake.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "live-drake.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "43.207.117.135",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "eminent-panther.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "shining-piranha.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "shining-piranha.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "eminent-dogfish.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "eminent-dogfish.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "nearby-egret.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "nearby-egret.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "immune-mullet.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "immune-mullet.rooster465.autos"
+        "server_name": "settling-humpback.rooster465.autos"
       },
       "type": "trojan"
     },
@@ -882,141 +700,25 @@
     },
     {
       "password": "CF68213490",
-      "server": "smashing-fawn.rooster465.autos",
+      "server": "accurate-frog.rooster465.autos",
       "server_port": 443,
       "tag": "@SystemNebula",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "smashing-fawn.rooster465.autos"
+        "server_name": "accurate-frog.rooster465.autos"
       },
       "type": "trojan"
     },
     {
       "password": "CF68213490",
-      "server": "noble-tahr.rooster465.autos",
+      "server": "shining-piranha.rooster465.autos",
       "server_port": 443,
       "tag": "@SystemNebula",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "noble-tahr.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "summary-firefly.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "summary-firefly.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "smiling-fowl.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "smiling-fowl.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "eager-platypus.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "eager-platypus.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "definite-ladybird.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "definite-ladybird.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "evolving-mollusk.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "evolving-mollusk.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "smooth-hornet.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "smooth-hornet.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "composed-sheep.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "composed-sheep.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "method": "aes-256-cfb",
-      "password": "qwerREWQ@@",
-      "server": "218.237.185.230",
-      "server_port": 4652,
-      "tag": "@SystemNebula",
-      "type": "shadowsocks"
-    },
-    {
-      "password": "CF68213490",
-      "server": "in-oriole.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "in-oriole.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "ultimate-jaguar.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "ultimate-jaguar.rooster465.autos"
+        "server_name": "shining-piranha.rooster465.autos"
       },
       "type": "trojan"
     },
@@ -1034,42 +736,6 @@
     },
     {
       "password": "CF68213490",
-      "server": "darling-mongrel.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "darling-mongrel.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "concrete-aardvark.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "concrete-aardvark.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "moved-bluegill.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "moved-bluegill.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
       "server": "funny-hen.rooster465.autos",
       "server_port": 443,
       "tag": "@SystemNebula",
@@ -1081,110 +747,34 @@
       "type": "trojan"
     },
     {
+      "method": "chacha20-ietf-poly1305",
+      "password": "k1dBOmOB4oqi7Ump37a1bQ",
+      "server": "82.38.31.186",
+      "server_port": 8080,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
       "password": "CF68213490",
-      "server": "accurate-frog.rooster465.autos",
+      "server": "eminent-dogfish.rooster465.autos",
       "server_port": 443,
       "tag": "@SystemNebula",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "accurate-frog.rooster465.autos"
+        "server_name": "eminent-dogfish.rooster465.autos"
       },
       "type": "trojan"
     },
     {
       "password": "CF68213490",
-      "server": "star-dodo.rooster465.autos",
+      "server": "43.207.117.135",
       "server_port": 443,
       "tag": "@SystemNebula",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "star-dodo.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "musical-manatee.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "musical-manatee.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "loyal-molly.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "loyal-molly.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "settling-humpback.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "settling-humpback.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "skilled-lioness.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "skilled-lioness.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "equipped-moth.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "equipped-moth.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "sincere-crappie.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "sincere-crappie.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "gentle-honeybee.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "gentle-honeybee.rooster465.autos"
+        "server_name": "eminent-panther.rooster465.autos"
       },
       "type": "trojan"
     },
@@ -1202,241 +792,25 @@
     },
     {
       "password": "CF68213490",
-      "server": "easy-barnacle.rooster465.autos",
+      "server": "35.72.9.75",
       "server_port": 443,
       "tag": "@SystemNebula",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "easy-barnacle.rooster465.autos"
+        "server_name": "caring-wallaby.rooster465.autos"
       },
       "type": "trojan"
     },
     {
       "password": "CF68213490",
-      "server": "informed-stud.rooster465.autos",
+      "server": "13.115.229.63",
       "server_port": 443,
       "tag": "@SystemNebula",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "informed-stud.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "eternal-woodcock.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "eternal-woodcock.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "eternal-perch.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "eternal-perch.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "steady-prawn.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "steady-prawn.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "free-hare.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "free-hare.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "communal-sunbird.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "communal-sunbird.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "adapting-giraffe.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "adapting-giraffe.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "upright-rhino.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "upright-rhino.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "united-molly.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "united-molly.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "welcome-monitor.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "welcome-monitor.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "adapting-basilisk.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "adapting-basilisk.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "innocent-rattler.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "innocent-rattler.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "eminent-panther.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "eminent-panther.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "sacred-anemone.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "sacred-anemone.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "funny-hawk.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "funny-hawk.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "fair-werewolf.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "fair-werewolf.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "wealthy-gobbler.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "wealthy-gobbler.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "careful-penguin.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "careful-penguin.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "password": "CF68213490",
-      "server": "next-turkey.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "next-turkey.rooster465.autos"
+        "server_name": "alert-redfish.rooster465.autos"
       },
       "type": "trojan"
     },
@@ -1454,13 +828,585 @@
     },
     {
       "password": "CF68213490",
-      "server": "thankful-mustang.rooster465.autos",
+      "server": "moved-bluegill.rooster465.autos",
       "server_port": 443,
       "tag": "@SystemNebula",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "thankful-mustang.rooster465.autos"
+        "server_name": "moved-bluegill.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "smooth-hornet.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "smooth-hornet.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "52.195.207.214",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "rested-osprey.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "caring-wallaby.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "caring-wallaby.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "gentle-honeybee.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "gentle-honeybee.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "fair-werewolf.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "fair-werewolf.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "eternal-perch.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "eternal-perch.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "immune-mullet.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "immune-mullet.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "live-drake.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "live-drake.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "communal-sunbird.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "communal-sunbird.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "evolving-mollusk.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "evolving-mollusk.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "funny-hawk.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "funny-hawk.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "smashing-fawn.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "smashing-fawn.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "method": "chacha20-ietf-poly1305",
+      "password": "Vr06rU_v1vFPYeXq9zbsAA",
+      "server": "185.156.173.206",
+      "server_port": 1080,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
+      "password": "CF68213490",
+      "server": "definite-ladybird.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "definite-ladybird.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "darling-mongrel.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "darling-mongrel.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "ultimate-jaguar.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "ultimate-jaguar.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "eminent-panther.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "eminent-panther.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "skilled-lioness.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "skilled-lioness.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "eager-platypus.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "eager-platypus.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "sacred-anemone.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "sacred-anemone.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "wealthy-gobbler.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "wealthy-gobbler.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "adapting-basilisk.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "adapting-basilisk.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "musical-manatee.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "musical-manatee.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "in-oriole.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "in-oriole.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "easy-barnacle.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "easy-barnacle.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "careful-penguin.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "careful-penguin.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "concrete-aardvark.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "concrete-aardvark.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "free-hare.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "free-hare.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "loyal-molly.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "loyal-molly.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "sincere-crappie.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "sincere-crappie.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "welcome-monitor.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "welcome-monitor.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "steady-prawn.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "steady-prawn.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "star-dodo.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "star-dodo.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "PI36027154",
+      "server": "exciting-grizzly.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "exciting-grizzly.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "united-molly.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "united-molly.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "noble-tahr.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "noble-tahr.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "adapting-giraffe.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "adapting-giraffe.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "composed-sheep.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "composed-sheep.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "nearby-egret.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "nearby-egret.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "equipped-moth.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "equipped-moth.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "smiling-fowl.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "smiling-fowl.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "summary-firefly.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "summary-firefly.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "upright-rhino.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "upright-rhino.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "informed-stud.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "informed-stud.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "rested-osprey.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "rested-osprey.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "eternal-woodcock.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "eternal-woodcock.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "next-turkey.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "next-turkey.rooster465.autos"
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "CF68213490",
+      "server": "innocent-rattler.rooster465.autos",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": "innocent-rattler.rooster465.autos"
       },
       "type": "trojan"
     },
@@ -1477,6 +1423,14 @@
       "type": "trojan"
     },
     {
+      "method": "chacha20-ietf-poly1305",
+      "password": "Vr06rU_v1vFPYeXq9zbsAA",
+      "server": "62.113.194.49",
+      "server_port": 1080,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
       "method": "rc4-md5",
       "password": "14fFPrbezE3HDZzsMOr6",
       "server": "146.70.61.37",
@@ -1485,40 +1439,63 @@
       "type": "shadowsocks"
     },
     {
-      "password": "CF68213490",
-      "server": "caring-wallaby.rooster465.autos",
-      "server_port": 443,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "caring-wallaby.rooster465.autos"
-      },
-      "type": "trojan"
-    },
-    {
-      "method": "aes-256-gcm",
-      "password": "XKFKl2rULjIp74",
-      "server": "185.226.172.8",
-      "server_port": 8008,
+      "method": "aes-256-cfb",
+      "password": "qwerREWQ@@",
+      "server": "218.237.185.230",
+      "server_port": 4652,
       "tag": "@SystemNebula",
       "type": "shadowsocks"
     },
     {
-      "password": "dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q",
-      "server": "185.137.157.151",
-      "server_port": 443,
+      "alter_id": 0,
+      "security": "auto",
+      "server": "45.76.202.45",
+      "server_port": 4010,
       "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "server_name": "185.137.157.151"
-      },
-      "type": "trojan"
+      "type": "vmess",
+      "uuid": "071a8a71-c656-4fb6-a908-4e42eb72243d"
+    },
+    {
+      "method": "chacha20-ietf-poly1305",
+      "password": "Vr06rU_v1vFPYeXq9zbsAA",
+      "server": "194.187.251.2",
+      "server_port": 1080,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
+      "method": "chacha20-ietf-poly1305",
+      "password": "Vr06rU_v1vFPYeXq9zbsAA",
+      "server": "62.210.123.100",
+      "server_port": 1080,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
     },
     {
       "flow": "xtls-rprx-vision",
       "server": "51.158.206.96",
+      "server_port": 23576,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
+          "short_id": "01"
+        },
+        "server_name": "fuck.rkn",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "type": "vless",
+      "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5"
+    },
+    {
+      "flow": "xtls-rprx-vision",
+      "server": "51.158.206.19",
       "server_port": 23576,
       "tag": "@SystemNebula",
       "tls": {
@@ -1561,47 +1538,12 @@
       "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5"
     },
     {
-      "server": "51.15.18.50",
-      "server_port": 2053,
+      "method": "chacha20-ietf-poly1305",
+      "password": "Vr06rU_v1vFPYeXq9zbsAA",
+      "server": "188.119.149.27",
+      "server_port": 1080,
       "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "OEKOwbvWeIENbRmu5dsuijAdc4CY6qla_W6_hfaOXS4",
-          "short_id": "03e21cb7c1aa955f"
-        },
-        "server_name": "www.apple.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "uuid": "f7f14ab6-b9fb-4285-ae74-f6913332d30e"
-    },
-    {
-      "flow": "xtls-rprx-vision",
-      "server": "51.158.206.19",
-      "server_port": 23576,
-      "tag": "@SystemNebula",
-      "tls": {
-        "enabled": true,
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-          "short_id": "01"
-        },
-        "server_name": "fuck.rkn",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "type": "vless",
-      "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5"
+      "type": "shadowsocks"
     },
     {
       "method": "chacha20-ietf-poly1305",
@@ -1612,18 +1554,10 @@
       "type": "shadowsocks"
     },
     {
-      "method": "aes-256-gcm",
-      "password": "RexnBgU7EV5ADxG",
-      "server": "213.202.208.199",
-      "server_port": 7001,
-      "tag": "@SystemNebula",
-      "type": "shadowsocks"
-    },
-    {
-      "method": "aes-256-cfb",
-      "password": "qwerREWQ@@",
-      "server": "211.178.105.134",
-      "server_port": 6123,
+      "method": "chacha20-ietf-poly1305",
+      "password": "Vr06rU_v1vFPYeXq9zbsAA",
+      "server": "163.172.244.41",
+      "server_port": 1080,
       "tag": "@SystemNebula",
       "type": "shadowsocks"
     },
@@ -1650,8 +1584,28 @@
       "uuid": "e5573bd4-6b10-4010-a67d-54ea2b51e8bf"
     },
     {
+      "method": "chacha20-ietf-poly1305",
+      "password": "Vr06rU_v1vFPYeXq9zbsAA",
+      "server": "62.113.194.158",
+      "server_port": 1080,
+      "tag": "@SystemNebula",
+      "type": "shadowsocks"
+    },
+    {
       "password": "dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q",
-      "server": "185.137.157.128",
+      "server": "185.137.157.138",
+      "server_port": 443,
+      "tag": "@SystemNebula",
+      "tls": {
+        "enabled": true,
+        "insecure": false,
+        "server_name": ""
+      },
+      "type": "trojan"
+    },
+    {
+      "password": "dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q",
+      "server": "185.137.157.140",
       "server_port": 443,
       "tag": "@SystemNebula",
       "tls": {
@@ -1663,13 +1617,13 @@
     },
     {
       "password": "CF68213490",
-      "server": "devoted-zebra.rooster465.autos",
+      "server": "eternal-horse.rooster465.autos",
       "server_port": 443,
       "tag": "@SystemNebula",
       "tls": {
         "enabled": true,
         "insecure": false,
-        "server_name": "devoted-zebra.rooster465.autos"
+        "server_name": "eternal-horse.rooster465.autos"
       },
       "type": "trojan"
     },
@@ -1697,12 +1651,12 @@
     },
     {
       "password": "humanity",
-      "server": "188.114.98.0",
+      "server": "104.18.12.149",
       "server_port": 443,
       "tag": "@SystemNebula",
       "tls": {
         "enabled": true,
-        "insecure": true,
+        "insecure": false,
         "server_name": "www.calmlunch.com"
       },
       "type": "trojan"
@@ -1710,156 +1664,156 @@
     {
       "interval": "5m",
       "outbounds": [
-        "01-shadowsocks-🇺🇸112177 | ⚡️Telegram = t.me/SOSkeyNET",
-        "02-shadowsocks-🇺🇸US-108.181.0.177-0100",
-        "03-shadowsocks-🇨🇦CA-108.181.118.10-0099",
-        "04-vmess-🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸",
-        "05-vmess-Global 🌐 | @Raydikalx | 3159",
-        "06-vmess-🇺🇸US-107.161.82.89-6027",
-        "07-vmess-🇺🇸US-107.161.82.89-6029",
-        "08-vmess-🇺🇸US-128.242.109.20-6028",
-        "09-vless-node",
-        "10-vmess-🇺🇸US-23.95.248.105-26",
-        "11-vless-美国 CloudFlare节点",
-        "12-trojan-🇺🇸 US 2",
-        "13-vless->>@oneclickvpnkeys::US",
+        "01-vmess-Global 🌐 | @Raydikalx | 3159",
+        "02-vmess-🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸",
+        "03-vmess-🇺🇸US-107.161.82.89-6029",
+        "04-vmess-🇺🇸US-107.161.82.89-6027",
+        "05-vmess-🇺🇸US-128.242.109.20-6028",
+        "06-shadowsocks-🇺🇸US-216.105.168.18-0165",
+        "07-shadowsocks-🇨🇦CA-108.181.118.10-0099",
+        "08-shadowsocks-🇺🇸US-43.173.98.184-5932",
+        "09-shadowsocks-🇺🇸US-108.181.0.177-0100",
+        "10-vless-EPODONIOS",
+        "11-vmess-⚪🏳️_github.com/Ruk1ng001_54d00832",
+        "12-vless-⚡ b2n.ir/v2ray-configs | 772",
+        "13-shadowsocks-🇺🇸US-173.244.56.9-0102",
         "14-vless-美国 CloudFlare节点",
-        "15-shadowsocks-🇺🇸 Join Telegram:@Farah_VPN 🇺🇸",
-        "16-shadowsocks-EPODONIOS",
-        "17-vmess->>@v2ray_configs_pool::US::US::US::US::U",
-        "18-shadowsocks-🇺🇸US-156.146.38.167-3995",
-        "19-shadowsocks-🇺🇸US-156.146.38.170-0106",
-        "20-shadowsocks-🇺🇸US-156.146.38.169-0104",
-        "21-shadowsocks-🇺🇸US-156.146.38.168-4139",
-        "22-vless-美国 CloudFlare节点",
-        "23-shadowsocks-🇺🇸US-43.173.98.184-5932",
-        "24-vless-马来西亚 吉隆坡Cloudflare Warp节点",
-        "25-shadowsocks-🇨🇦CA-149.22.95.183-4005",
-        "26-vless-🇺🇸 418 - US - VLESS/REALITY/PBK/SID/VISI",
-        "27-vless-⚡ b2n.ir/v2ray-configs | 772",
-        "28-vless-美国 CloudFlare节点",
-        "29-vless-⚡ b2n.ir/v2ray-configs | 501",
-        "30-vmess-🏁RELAY-104.21.77.204-6093",
-        "31-shadowsocks-🇺🇸 US 25",
-        "32-shadowsocks-🇺🇸 Join Telegram:@Farah_VPN 🇺🇸",
-        "33-shadowsocks-🇺🇸112043 | ⚡️Telegram = t.me/SOSkeyNET",
-        "34-shadowsocks-🇺🇸 US 20",
-        "35-shadowsocks-🇺🇸 US 22",
-        "36-shadowsocks-🇺🇸US-147.90.234.133-2251",
-        "37-trojan-🇺🇸 美国 | USA 18",
-        "38-trojan-🇺🇸 美国 | USA 5",
-        "39-trojan-🇺🇸 美国 | USA 9",
-        "40-shadowsocks-🟢🇨🇦[🎬🤖📺🎭]_github.com/Ruk1ng001_1bdb0ceb",
+        "15-shadowsocks-🇺🇸 US 7",
+        "16-shadowsocks-🇺🇸US-156.146.38.167-3995",
+        "17-shadowsocks-🇺🇸US-156.146.38.170-0106",
+        "18-shadowsocks-🇺🇸US-156.146.38.169-4169",
+        "19-shadowsocks-🇺🇸 US 9",
+        "20-vmess-@chillguy_vpn",
+        "21-vless-美国 CloudFlare节点",
+        "22-vless-🇺🇸 418 - US - VLESS/REALITY/PBK/SID/VISI",
+        "23-vless-美国 CloudFlare节点",
+        "24-shadowsocks-🇨🇦CA-149.22.95.183-0103",
+        "25-vmess-🏁RELAY-104.21.77.204-6093",
+        "26-shadowsocks-EPODONIOS",
+        "27-shadowsocks-🇺🇸US-37.19.198.160-4079",
+        "28-shadowsocks-🇺🇸 Join Telegram:@Farah_VPN 🇺🇸",
+        "29-shadowsocks-🟢🇨🇦[🎬🤖📺🎭]_github.com/Ruk1ng001_1bdb0ceb",
+        "30-shadowsocks-🇺🇸US-37.19.198.244-0158",
+        "31-shadowsocks-🇺🇸US-37.19.198.236-0155",
+        "32-trojan-🇺🇸 美国 | USA 9",
+        "33-trojan-🇺🇸 美国 | USA 4",
+        "34-shadowsocks-🇺🇸US-147.90.234.133-2251",
+        "35-vless-⚡ b2n.ir/v2ray-configs | 501",
+        "36-trojan-🇺🇸 美国 | USA 20",
+        "37-trojan-🇺🇸 美国 | USA 5",
+        "38-shadowsocks-🇺🇸 US 27",
+        "39-vmess-🇺🇸 US 26",
+        "40-trojan-🇺🇸 美国 | USA 18",
         "41-trojan-🇺🇸 美国 | USA 16",
-        "42-trojan-🇺🇸 美国 | USA 20",
-        "43-trojan-🇺🇸 美国 | USA 4",
-        "44-vmess-🇺🇸 US 26",
-        "45-shadowsocks-🇺🇸 US 27",
-        "46-vless-🇺🇸 美国 | USA 2",
-        "47-shadowsocks-🇺🇸 US 28",
-        "48-vless-🇺🇸 US 13",
-        "49-shadowsocks-🇨🇦CA-137.184.174.93-0117",
-        "50-shadowsocks-🇯🇵JP-149.22.87.240-0168",
-        "51-vless-美国 CloudFlare节点",
-        "52-vless-🇺🇸 140 - US - VLESS/REALITY/PBK/VISION/U",
-        "53-vless-🇺🇸 美国 | USA",
-        "54-shadowsocks-🇯🇵112127 | ⚡️Telegram = t.me/SOSkeyNET",
-        "55-shadowsocks-🇯🇵JP-149.22.87.204-0169",
-        "56-shadowsocks-🇬🇧 GB 1",
-        "57-vless-法国 巴黎Amazon数据中心",
-        "58-shadowsocks-🇳🇱NL-158.173.20.171-0175",
-        "59-shadowsocks-🇳🇱NL-109.201.152.181-0159",
-        "60-hysteria2->>@oneclickvpnkeys::FR",
-        "61-shadowsocks-Proxy_Se7en",
-        "62-shadowsocks-https://t.me/FREE_VPN02",
+        "42-vless-🇺🇸 美国 | USA 2",
+        "43-vless-🇺🇸 US 21",
+        "44-shadowsocks-🇨🇦 CA 2",
+        "45-vless-🇺🇸 美国 | USA",
+        "46-shadowsocks-🇯🇵 JP 2",
+        "47-shadowsocks-🇯🇵JP-149.22.87.240-0168",
+        "48-shadowsocks-🇯🇵 JP 1",
+        "49-shadowsocks-[95356] - Telegram : @V2All",
+        "50-shadowsocks-🇺🇸 US 28",
+        "51-shadowsocks-🇬🇧 GB 1",
+        "52-shadowsocks-🇳🇱NL-109.201.152.181-4178",
+        "53-hysteria2- By EbraSha 🦾",
+        "54-shadowsocks-🇳🇱 NL 6",
+        "55-shadowsocks-🇦🇺AU-104.156.233.234-0185",
+        "56-shadowsocks-🇬🇧GB-94.156.250.148-0192",
+        "57-shadowsocks-🇬🇧 GB 5",
+        "58-shadowsocks-EPODONIOS",
+        "59-shadowsocks-🇬🇧GB-141.98.101.178-0179",
+        "60-shadowsocks-🇬🇧GB-141.98.101.181-0245",
+        "61-shadowsocks-🇬🇧GB-82.38.31.57-0129",
+        "62-shadowsocks-@Soul737",
         "63-shadowsocks-EPODONIOS",
-        "64-shadowsocks-EPODONIOS",
-        "65-shadowsocks-EPODONIOS",
-        "66-shadowsocks-🇬🇧 GB 4",
-        "67-shadowsocks-🇬🇧 GB 5",
-        "68-shadowsocks-🇬🇧 GB 6",
-        "69-shadowsocks-🇰🇷 KR 3",
-        "70-shadowsocks-EPODONIOS",
-        "71-vmess-🇯🇵JP-45.76.202.45-6077",
-        "72-shadowsocks-🇰🇷 KR 4",
-        "73-trojan-🇯🇵JP-52.195.207.214-0601",
-        "74-trojan-🇯🇵 JP 6",
-        "75-trojan-🇯🇵JP-35.72.9.75-0599",
-        "76-trojan-🇯🇵JP-52.195.207.214-3163",
-        "77-trojan-🇯🇵JP-13.115.229.63-0598",
-        "78-trojan-🇯🇵JP-43.207.107.39-0519",
-        "79-trojan-🇯🇵JP-43.207.117.135-0600",
-        "80-trojan-🇯🇵JP-18.177.140.248-0556",
-        "81-trojan-🇯🇵JP-43.207.153.3-0511",
-        "82-trojan-🇯🇵JP-54.199.102.210-0525",
-        "83-trojan-🇯🇵JP-54.178.7.201-0604",
-        "84-trojan-🇯🇵 JP 5",
-        "85-trojan-🇯🇵JP-3.112.212.133-0532",
-        "86-trojan-🇯🇵JP-18.183.164.154-0108",
-        "87-trojan-🇯🇵JP-13.231.188.13-0535",
-        "88-trojan-🇯🇵JP-13.115.80.163-0528",
-        "89-trojan-🇯🇵JP-35.77.85.144-0513",
-        "90-trojan-⚡ b2n.ir/v2ray-configs | 43",
-        "91-trojan-🇯🇵JP-54.248.6.109-3147",
-        "92-trojan-🇯🇵JP-18.183.172.225-0530",
-        "93-trojan-🇯🇵JP-54.65.43.16-0507",
-        "94-shadowsocks-🇰🇷KR-218.237.185.230-0228",
-        "95-trojan-🇯🇵JP-52.198.88.225-0527",
-        "96-trojan-🇯🇵JP-43.207.122.159-3157",
-        "97-trojan-🇯🇵JP-54.248.166.163-0522",
-        "98-trojan-🇯🇵JP-54.238.160.68-0510",
-        "99-trojan-🇯🇵JP-18.176.53.202-0565",
-        "100-trojan-🇯🇵JP-18.177.136.64-0520",
-        "101-trojan-🇯🇵JP-52.197.223.110-0518",
-        "102-trojan-🇯🇵JP-54.65.240.194-0503",
-        "103-trojan-🇯🇵JP-52.196.71.137-0110",
-        "104-trojan-🇯🇵JP-52.197.36.228-0524",
-        "105-trojan-🇯🇵JP-18.183.149.237-0523",
-        "106-trojan-🇯🇵JP-13.112.180.140-3128",
-        "107-trojan-⚡ b2n.ir/v2ray-configs | 12",
-        "108-trojan-🇯🇵JP-54.178.35.10-0112",
-        "109-trojan-🇯🇵JP-18.181.201.45-0531",
-        "110-trojan-🇯🇵JP-54.168.247.156-0517",
-        "111-trojan-⚡ b2n.ir/v2ray-configs | 842",
-        "112-trojan-🇯🇵JP-54.178.0.218-0539",
-        "113-trojan-🇯🇵JP-176.34.18.166-3129",
-        "114-trojan-🇯🇵JP-54.168.65.98-0515",
-        "115-trojan-🇯🇵JP-18.183.224.87-0521",
-        "116-trojan-🇯🇵JP-52.195.215.200-0534",
-        "117-trojan-🇯🇵JP-3.112.234.3-3165",
-        "118-trojan-🇯🇵JP-43.206.235.148-0508",
+        "64-shadowsocks-🇹🇼TW-36.224.158.182-0190",
+        "65-shadowsocks-🇰🇷KR-141.164.45.187-0226",
+        "66-shadowsocks-🇰🇷KR-141.164.45.187-0176",
+        "67-shadowsocks-https://t.me/FREE_VPN02",
+        "68-trojan-🇯🇵JP-52.199.23.158-0536",
+        "69-trojan-🇯🇵JP-13.112.180.140-3128",
+        "70-trojan-🇯🇵 JP 16",
+        "71-trojan-🇯🇵JP-54.65.240.194-0503",
+        "72-trojan-🇯🇵JP-18.177.140.248-0556",
+        "73-trojan-🇯🇵JP-54.248.166.163-0522",
+        "74-trojan-🇯🇵JP-52.197.223.110-0518",
+        "75-shadowsocks-🇬🇧GB-82.38.31.186-0149",
+        "76-trojan-🇯🇵JP-43.207.153.3-0511",
+        "77-trojan-🇯🇵JP-43.207.117.135-0600",
+        "78-trojan-🇯🇵JP-3.112.149.206-0533",
+        "79-trojan-🇯🇵JP-35.72.9.75-0599",
+        "80-trojan-🇯🇵JP-13.115.229.63-0598",
+        "81-trojan-🇯🇵JP-13.115.229.63-0597",
+        "82-trojan-🇯🇵JP-18.177.136.64-0520",
+        "83-trojan-🇯🇵JP-18.183.172.225-0530",
+        "84-trojan-🇯🇵JP-52.195.207.214-0601",
+        "85-trojan-🇯🇵JP-35.72.9.75-3148",
+        "86-trojan-🇯🇵JP-54.168.247.156-0517",
+        "87-trojan-🇯🇵JP-13.231.189.62-0514",
+        "88-trojan-🇯🇵JP-18.183.224.87-0521",
+        "89-trojan-🇯🇵JP-54.178.7.201-0604",
+        "90-trojan-🇯🇵JP-43.207.107.39-0519",
+        "91-trojan-🇯🇵JP-43.206.235.148-0508",
+        "92-trojan-🇯🇵JP-54.248.6.109-3147",
+        "93-trojan-🇯🇵JP-43.207.204.233-0516",
+        "94-trojan-🇯🇵JP-3.112.212.133-0532",
+        "95-shadowsocks-EPODONIOS",
+        "96-trojan-⚡ b2n.ir/v2ray-configs | 43",
+        "97-trojan-🇯🇵JP-54.238.160.68-0510",
+        "98-trojan-🇯🇵JP-43.207.122.159-3157",
+        "99-trojan-🇯🇵JP-43.207.117.135-0512",
+        "100-trojan-⚡ b2n.ir/v2ray-configs | 12",
+        "101-trojan-🇯🇵JP-35.77.85.144-0513",
+        "102-trojan-🇯🇵JP-13.230.252.28-3146",
+        "103-trojan-🇯🇵JP-3.112.189.201-34",
+        "104-trojan-🇯🇵JP-54.250.235.241-0506",
+        "105-trojan-🇯🇵JP-52.197.36.228-0524",
+        "106-trojan-🇯🇵JP-52.198.88.225-0527",
+        "107-trojan-🇯🇵JP-54.178.0.218-0539",
+        "108-trojan-🇯🇵JP-43.207.210.229-0505",
+        "109-trojan-🇯🇵JP-18.176.53.202-0565",
+        "110-trojan-🇯🇵JP-3.112.234.3-3165",
+        "111-trojan-🇯🇵JP-18.183.149.237-0523",
+        "112-trojan-🇯🇵JP-18.181.201.45-0531",
+        "113-trojan-🇯🇵JP-52.68.237.45-0538",
+        "114-trojan-🇯🇵JP-52.195.215.200-0534",
+        "115-trojan-🇯🇵JP-52.196.71.137-0110",
+        "116-trojan-🇯🇵JP-52.194.192.245-0111",
+        "117-trojan-🇯🇵JP-43.207.109.243-0537",
+        "118-trojan-🇯🇵JP-18.183.164.154-0108",
         "119-trojan-🇯🇵JP-52.194.255.244-0595",
-        "120-trojan-🇯🇵JP-3.112.231.253-0540",
-        "121-trojan-🇯🇵JP-43.207.109.243-0537",
-        "122-trojan-🇯🇵JP-52.68.237.45-0538",
-        "123-trojan-🇯🇵JP-54.250.235.241-0506",
-        "124-trojan-🇯🇵JP-54.238.124.150-3159",
-        "125-trojan-🇯🇵JP-43.207.117.135-0512",
-        "126-trojan-🇯🇵JP-13.230.252.28-3146",
-        "127-trojan-🇯🇵JP-43.207.204.233-0516",
-        "128-trojan-🇯🇵JP-13.231.189.62-0514",
-        "129-trojan-🇯🇵JP-3.112.189.201-3134",
-        "130-trojan-🇯🇵JP-43.207.210.229-0505",
-        "131-trojan-🇯🇵JP-13.112.1.163-0526",
-        "132-trojan-🇯🇵JP-13.115.229.63-0597",
-        "133-trojan-🇯🇵JP-52.199.23.158-0536",
-        "134-trojan-🇯🇵JP-43.206.224.40-0504",
-        "135-shadowsocks-🇬🇧GB-146.70.61.37-0276",
-        "136-trojan-🇯🇵JP-35.72.9.75-3148",
-        "137-shadowsocks-🇩🇪 DE 44",
-        "138-trojan-🇩🇪 DE 20",
-        "139-vless-🇳🇱 434 - NL - VLESS/REALITY/PBK/SID/VISI",
+        "120-trojan-🇯🇵JP-54.65.43.16-0507",
+        "121-trojan-🇯🇵JP-54.199.102.210-0525",
+        "122-trojan-🇯🇵JP-54.178.35.10-0112",
+        "123-trojan-🇯🇵JP-13.115.80.163-0528",
+        "124-trojan-🇯🇵JP-13.231.188.13-0535",
+        "125-trojan-🇯🇵JP-3.112.231.253-0540",
+        "126-trojan-🇯🇵JP-176.34.18.166-3129",
+        "127-trojan-🇯🇵JP-52.195.207.214-3163",
+        "128-trojan-🇯🇵JP-54.168.65.98-0515",
+        "129-trojan-🇯🇵JP-13.112.1.163-0526",
+        "130-trojan-🇯🇵JP-54.238.124.150-3159",
+        "131-trojan-🇯🇵JP-43.206.224.40-0504",
+        "132-shadowsocks-🇩🇪DE-🚀@VPNine1",
+        "133-shadowsocks-🇬🇧 GB 9",
+        "134-shadowsocks-🇰🇷KR-218.237.185.230-0228",
+        "135-vmess-🇯🇵JP-45.76.202.45-6077",
+        "136-shadowsocks-🪭60@oneclickvpnkeys",
+        "137-shadowsocks-🇫🇷FR-🚀@VPNine1",
+        "138-vless-🇳🇱 434 - NL - VLESS/REALITY/PBK/SID/VISI",
+        "139-vless-🇳🇱 423 - NL - VLESS/REALITY/PBK/SID/VISI",
         "140-vless-🇳🇱 426 - NL - VLESS/REALITY/PBK/SID/VISI",
-        "141-vless-🇳🇱 荷兰 | NLD 11",
-        "142-vless-🇳🇱 423 - NL - VLESS/REALITY/PBK/SID/VISI",
-        "143-shadowsocks-🇩🇪DE-8.209.74.72-0180",
-        "144-shadowsocks-🇩🇪DE-213.202.208.199-0218",
-        "145-shadowsocks-🇰🇷KR-211.178.105.134-0232",
-        "146-vless-🇳🇱 荷兰 | NLD",
-        "147-trojan-🇩🇪DE-185.137.157.128-0207",
-        "148-trojan-🇰🇷KR-54.180.248.218-0147",
+        "141-shadowsocks-🇬🇧112283 | ⚡️Telegram = t.me/SOSkeyNET",
+        "142-shadowsocks-🇩🇪DE-8.209.74.72-0180",
+        "143-shadowsocks-🪭57@oneclickvpnkeys",
+        "144-vless-🇳🇱 荷兰 | NLD",
+        "145-shadowsocks-🇩🇪DE-🚀@VPNine1",
+        "146-trojan-🇩🇪 DE 49",
+        "147-trojan-🇩🇪 DE 21",
+        "148-trojan-🇰🇷KR-54.180.235.223-0123",
         "149-vless-🇹🇷 土耳其 | TUR",
-        "150-trojan-@filembad"
+        "150-trojan-🇺🇸 30 - US - Trojan/WS/TLS - 443"
       ],
       "tag": "@SystemNebula",
       "type": "urltest",
@@ -1868,156 +1822,156 @@
     {
       "outbounds": [
         "auto",
-        "01-shadowsocks-🇺🇸112177 | ⚡️Telegram = t.me/SOSkeyNET",
-        "02-shadowsocks-🇺🇸US-108.181.0.177-0100",
-        "03-shadowsocks-🇨🇦CA-108.181.118.10-0099",
-        "04-vmess-🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸",
-        "05-vmess-Global 🌐 | @Raydikalx | 3159",
-        "06-vmess-🇺🇸US-107.161.82.89-6027",
-        "07-vmess-🇺🇸US-107.161.82.89-6029",
-        "08-vmess-🇺🇸US-128.242.109.20-6028",
-        "09-vless-node",
-        "10-vmess-🇺🇸US-23.95.248.105-26",
-        "11-vless-美国 CloudFlare节点",
-        "12-trojan-🇺🇸 US 2",
-        "13-vless->>@oneclickvpnkeys::US",
+        "01-vmess-Global 🌐 | @Raydikalx | 3159",
+        "02-vmess-🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸",
+        "03-vmess-🇺🇸US-107.161.82.89-6029",
+        "04-vmess-🇺🇸US-107.161.82.89-6027",
+        "05-vmess-🇺🇸US-128.242.109.20-6028",
+        "06-shadowsocks-🇺🇸US-216.105.168.18-0165",
+        "07-shadowsocks-🇨🇦CA-108.181.118.10-0099",
+        "08-shadowsocks-🇺🇸US-43.173.98.184-5932",
+        "09-shadowsocks-🇺🇸US-108.181.0.177-0100",
+        "10-vless-EPODONIOS",
+        "11-vmess-⚪🏳️_github.com/Ruk1ng001_54d00832",
+        "12-vless-⚡ b2n.ir/v2ray-configs | 772",
+        "13-shadowsocks-🇺🇸US-173.244.56.9-0102",
         "14-vless-美国 CloudFlare节点",
-        "15-shadowsocks-🇺🇸 Join Telegram:@Farah_VPN 🇺🇸",
-        "16-shadowsocks-EPODONIOS",
-        "17-vmess->>@v2ray_configs_pool::US::US::US::US::U",
-        "18-shadowsocks-🇺🇸US-156.146.38.167-3995",
-        "19-shadowsocks-🇺🇸US-156.146.38.170-0106",
-        "20-shadowsocks-🇺🇸US-156.146.38.169-0104",
-        "21-shadowsocks-🇺🇸US-156.146.38.168-4139",
-        "22-vless-美国 CloudFlare节点",
-        "23-shadowsocks-🇺🇸US-43.173.98.184-5932",
-        "24-vless-马来西亚 吉隆坡Cloudflare Warp节点",
-        "25-shadowsocks-🇨🇦CA-149.22.95.183-4005",
-        "26-vless-🇺🇸 418 - US - VLESS/REALITY/PBK/SID/VISI",
-        "27-vless-⚡ b2n.ir/v2ray-configs | 772",
-        "28-vless-美国 CloudFlare节点",
-        "29-vless-⚡ b2n.ir/v2ray-configs | 501",
-        "30-vmess-🏁RELAY-104.21.77.204-6093",
-        "31-shadowsocks-🇺🇸 US 25",
-        "32-shadowsocks-🇺🇸 Join Telegram:@Farah_VPN 🇺🇸",
-        "33-shadowsocks-🇺🇸112043 | ⚡️Telegram = t.me/SOSkeyNET",
-        "34-shadowsocks-🇺🇸 US 20",
-        "35-shadowsocks-🇺🇸 US 22",
-        "36-shadowsocks-🇺🇸US-147.90.234.133-2251",
-        "37-trojan-🇺🇸 美国 | USA 18",
-        "38-trojan-🇺🇸 美国 | USA 5",
-        "39-trojan-🇺🇸 美国 | USA 9",
-        "40-shadowsocks-🟢🇨🇦[🎬🤖📺🎭]_github.com/Ruk1ng001_1bdb0ceb",
+        "15-shadowsocks-🇺🇸 US 7",
+        "16-shadowsocks-🇺🇸US-156.146.38.167-3995",
+        "17-shadowsocks-🇺🇸US-156.146.38.170-0106",
+        "18-shadowsocks-🇺🇸US-156.146.38.169-4169",
+        "19-shadowsocks-🇺🇸 US 9",
+        "20-vmess-@chillguy_vpn",
+        "21-vless-美国 CloudFlare节点",
+        "22-vless-🇺🇸 418 - US - VLESS/REALITY/PBK/SID/VISI",
+        "23-vless-美国 CloudFlare节点",
+        "24-shadowsocks-🇨🇦CA-149.22.95.183-0103",
+        "25-vmess-🏁RELAY-104.21.77.204-6093",
+        "26-shadowsocks-EPODONIOS",
+        "27-shadowsocks-🇺🇸US-37.19.198.160-4079",
+        "28-shadowsocks-🇺🇸 Join Telegram:@Farah_VPN 🇺🇸",
+        "29-shadowsocks-🟢🇨🇦[🎬🤖📺🎭]_github.com/Ruk1ng001_1bdb0ceb",
+        "30-shadowsocks-🇺🇸US-37.19.198.244-0158",
+        "31-shadowsocks-🇺🇸US-37.19.198.236-0155",
+        "32-trojan-🇺🇸 美国 | USA 9",
+        "33-trojan-🇺🇸 美国 | USA 4",
+        "34-shadowsocks-🇺🇸US-147.90.234.133-2251",
+        "35-vless-⚡ b2n.ir/v2ray-configs | 501",
+        "36-trojan-🇺🇸 美国 | USA 20",
+        "37-trojan-🇺🇸 美国 | USA 5",
+        "38-shadowsocks-🇺🇸 US 27",
+        "39-vmess-🇺🇸 US 26",
+        "40-trojan-🇺🇸 美国 | USA 18",
         "41-trojan-🇺🇸 美国 | USA 16",
-        "42-trojan-🇺🇸 美国 | USA 20",
-        "43-trojan-🇺🇸 美国 | USA 4",
-        "44-vmess-🇺🇸 US 26",
-        "45-shadowsocks-🇺🇸 US 27",
-        "46-vless-🇺🇸 美国 | USA 2",
-        "47-shadowsocks-🇺🇸 US 28",
-        "48-vless-🇺🇸 US 13",
-        "49-shadowsocks-🇨🇦CA-137.184.174.93-0117",
-        "50-shadowsocks-🇯🇵JP-149.22.87.240-0168",
-        "51-vless-美国 CloudFlare节点",
-        "52-vless-🇺🇸 140 - US - VLESS/REALITY/PBK/VISION/U",
-        "53-vless-🇺🇸 美国 | USA",
-        "54-shadowsocks-🇯🇵112127 | ⚡️Telegram = t.me/SOSkeyNET",
-        "55-shadowsocks-🇯🇵JP-149.22.87.204-0169",
-        "56-shadowsocks-🇬🇧 GB 1",
-        "57-vless-法国 巴黎Amazon数据中心",
-        "58-shadowsocks-🇳🇱NL-158.173.20.171-0175",
-        "59-shadowsocks-🇳🇱NL-109.201.152.181-0159",
-        "60-hysteria2->>@oneclickvpnkeys::FR",
-        "61-shadowsocks-Proxy_Se7en",
-        "62-shadowsocks-https://t.me/FREE_VPN02",
+        "42-vless-🇺🇸 美国 | USA 2",
+        "43-vless-🇺🇸 US 21",
+        "44-shadowsocks-🇨🇦 CA 2",
+        "45-vless-🇺🇸 美国 | USA",
+        "46-shadowsocks-🇯🇵 JP 2",
+        "47-shadowsocks-🇯🇵JP-149.22.87.240-0168",
+        "48-shadowsocks-🇯🇵 JP 1",
+        "49-shadowsocks-[95356] - Telegram : @V2All",
+        "50-shadowsocks-🇺🇸 US 28",
+        "51-shadowsocks-🇬🇧 GB 1",
+        "52-shadowsocks-🇳🇱NL-109.201.152.181-4178",
+        "53-hysteria2- By EbraSha 🦾",
+        "54-shadowsocks-🇳🇱 NL 6",
+        "55-shadowsocks-🇦🇺AU-104.156.233.234-0185",
+        "56-shadowsocks-🇬🇧GB-94.156.250.148-0192",
+        "57-shadowsocks-🇬🇧 GB 5",
+        "58-shadowsocks-EPODONIOS",
+        "59-shadowsocks-🇬🇧GB-141.98.101.178-0179",
+        "60-shadowsocks-🇬🇧GB-141.98.101.181-0245",
+        "61-shadowsocks-🇬🇧GB-82.38.31.57-0129",
+        "62-shadowsocks-@Soul737",
         "63-shadowsocks-EPODONIOS",
-        "64-shadowsocks-EPODONIOS",
-        "65-shadowsocks-EPODONIOS",
-        "66-shadowsocks-🇬🇧 GB 4",
-        "67-shadowsocks-🇬🇧 GB 5",
-        "68-shadowsocks-🇬🇧 GB 6",
-        "69-shadowsocks-🇰🇷 KR 3",
-        "70-shadowsocks-EPODONIOS",
-        "71-vmess-🇯🇵JP-45.76.202.45-6077",
-        "72-shadowsocks-🇰🇷 KR 4",
-        "73-trojan-🇯🇵JP-52.195.207.214-0601",
-        "74-trojan-🇯🇵 JP 6",
-        "75-trojan-🇯🇵JP-35.72.9.75-0599",
-        "76-trojan-🇯🇵JP-52.195.207.214-3163",
-        "77-trojan-🇯🇵JP-13.115.229.63-0598",
-        "78-trojan-🇯🇵JP-43.207.107.39-0519",
-        "79-trojan-🇯🇵JP-43.207.117.135-0600",
-        "80-trojan-🇯🇵JP-18.177.140.248-0556",
-        "81-trojan-🇯🇵JP-43.207.153.3-0511",
-        "82-trojan-🇯🇵JP-54.199.102.210-0525",
-        "83-trojan-🇯🇵JP-54.178.7.201-0604",
-        "84-trojan-🇯🇵 JP 5",
-        "85-trojan-🇯🇵JP-3.112.212.133-0532",
-        "86-trojan-🇯🇵JP-18.183.164.154-0108",
-        "87-trojan-🇯🇵JP-13.231.188.13-0535",
-        "88-trojan-🇯🇵JP-13.115.80.163-0528",
-        "89-trojan-🇯🇵JP-35.77.85.144-0513",
-        "90-trojan-⚡ b2n.ir/v2ray-configs | 43",
-        "91-trojan-🇯🇵JP-54.248.6.109-3147",
-        "92-trojan-🇯🇵JP-18.183.172.225-0530",
-        "93-trojan-🇯🇵JP-54.65.43.16-0507",
-        "94-shadowsocks-🇰🇷KR-218.237.185.230-0228",
-        "95-trojan-🇯🇵JP-52.198.88.225-0527",
-        "96-trojan-🇯🇵JP-43.207.122.159-3157",
-        "97-trojan-🇯🇵JP-54.248.166.163-0522",
-        "98-trojan-🇯🇵JP-54.238.160.68-0510",
-        "99-trojan-🇯🇵JP-18.176.53.202-0565",
-        "100-trojan-🇯🇵JP-18.177.136.64-0520",
-        "101-trojan-🇯🇵JP-52.197.223.110-0518",
-        "102-trojan-🇯🇵JP-54.65.240.194-0503",
-        "103-trojan-🇯🇵JP-52.196.71.137-0110",
-        "104-trojan-🇯🇵JP-52.197.36.228-0524",
-        "105-trojan-🇯🇵JP-18.183.149.237-0523",
-        "106-trojan-🇯🇵JP-13.112.180.140-3128",
-        "107-trojan-⚡ b2n.ir/v2ray-configs | 12",
-        "108-trojan-🇯🇵JP-54.178.35.10-0112",
-        "109-trojan-🇯🇵JP-18.181.201.45-0531",
-        "110-trojan-🇯🇵JP-54.168.247.156-0517",
-        "111-trojan-⚡ b2n.ir/v2ray-configs | 842",
-        "112-trojan-🇯🇵JP-54.178.0.218-0539",
-        "113-trojan-🇯🇵JP-176.34.18.166-3129",
-        "114-trojan-🇯🇵JP-54.168.65.98-0515",
-        "115-trojan-🇯🇵JP-18.183.224.87-0521",
-        "116-trojan-🇯🇵JP-52.195.215.200-0534",
-        "117-trojan-🇯🇵JP-3.112.234.3-3165",
-        "118-trojan-🇯🇵JP-43.206.235.148-0508",
+        "64-shadowsocks-🇹🇼TW-36.224.158.182-0190",
+        "65-shadowsocks-🇰🇷KR-141.164.45.187-0226",
+        "66-shadowsocks-🇰🇷KR-141.164.45.187-0176",
+        "67-shadowsocks-https://t.me/FREE_VPN02",
+        "68-trojan-🇯🇵JP-52.199.23.158-0536",
+        "69-trojan-🇯🇵JP-13.112.180.140-3128",
+        "70-trojan-🇯🇵 JP 16",
+        "71-trojan-🇯🇵JP-54.65.240.194-0503",
+        "72-trojan-🇯🇵JP-18.177.140.248-0556",
+        "73-trojan-🇯🇵JP-54.248.166.163-0522",
+        "74-trojan-🇯🇵JP-52.197.223.110-0518",
+        "75-shadowsocks-🇬🇧GB-82.38.31.186-0149",
+        "76-trojan-🇯🇵JP-43.207.153.3-0511",
+        "77-trojan-🇯🇵JP-43.207.117.135-0600",
+        "78-trojan-🇯🇵JP-3.112.149.206-0533",
+        "79-trojan-🇯🇵JP-35.72.9.75-0599",
+        "80-trojan-🇯🇵JP-13.115.229.63-0598",
+        "81-trojan-🇯🇵JP-13.115.229.63-0597",
+        "82-trojan-🇯🇵JP-18.177.136.64-0520",
+        "83-trojan-🇯🇵JP-18.183.172.225-0530",
+        "84-trojan-🇯🇵JP-52.195.207.214-0601",
+        "85-trojan-🇯🇵JP-35.72.9.75-3148",
+        "86-trojan-🇯🇵JP-54.168.247.156-0517",
+        "87-trojan-🇯🇵JP-13.231.189.62-0514",
+        "88-trojan-🇯🇵JP-18.183.224.87-0521",
+        "89-trojan-🇯🇵JP-54.178.7.201-0604",
+        "90-trojan-🇯🇵JP-43.207.107.39-0519",
+        "91-trojan-🇯🇵JP-43.206.235.148-0508",
+        "92-trojan-🇯🇵JP-54.248.6.109-3147",
+        "93-trojan-🇯🇵JP-43.207.204.233-0516",
+        "94-trojan-🇯🇵JP-3.112.212.133-0532",
+        "95-shadowsocks-EPODONIOS",
+        "96-trojan-⚡ b2n.ir/v2ray-configs | 43",
+        "97-trojan-🇯🇵JP-54.238.160.68-0510",
+        "98-trojan-🇯🇵JP-43.207.122.159-3157",
+        "99-trojan-🇯🇵JP-43.207.117.135-0512",
+        "100-trojan-⚡ b2n.ir/v2ray-configs | 12",
+        "101-trojan-🇯🇵JP-35.77.85.144-0513",
+        "102-trojan-🇯🇵JP-13.230.252.28-3146",
+        "103-trojan-🇯🇵JP-3.112.189.201-34",
+        "104-trojan-🇯🇵JP-54.250.235.241-0506",
+        "105-trojan-🇯🇵JP-52.197.36.228-0524",
+        "106-trojan-🇯🇵JP-52.198.88.225-0527",
+        "107-trojan-🇯🇵JP-54.178.0.218-0539",
+        "108-trojan-🇯🇵JP-43.207.210.229-0505",
+        "109-trojan-🇯🇵JP-18.176.53.202-0565",
+        "110-trojan-🇯🇵JP-3.112.234.3-3165",
+        "111-trojan-🇯🇵JP-18.183.149.237-0523",
+        "112-trojan-🇯🇵JP-18.181.201.45-0531",
+        "113-trojan-🇯🇵JP-52.68.237.45-0538",
+        "114-trojan-🇯🇵JP-52.195.215.200-0534",
+        "115-trojan-🇯🇵JP-52.196.71.137-0110",
+        "116-trojan-🇯🇵JP-52.194.192.245-0111",
+        "117-trojan-🇯🇵JP-43.207.109.243-0537",
+        "118-trojan-🇯🇵JP-18.183.164.154-0108",
         "119-trojan-🇯🇵JP-52.194.255.244-0595",
-        "120-trojan-🇯🇵JP-3.112.231.253-0540",
-        "121-trojan-🇯🇵JP-43.207.109.243-0537",
-        "122-trojan-🇯🇵JP-52.68.237.45-0538",
-        "123-trojan-🇯🇵JP-54.250.235.241-0506",
-        "124-trojan-🇯🇵JP-54.238.124.150-3159",
-        "125-trojan-🇯🇵JP-43.207.117.135-0512",
-        "126-trojan-🇯🇵JP-13.230.252.28-3146",
-        "127-trojan-🇯🇵JP-43.207.204.233-0516",
-        "128-trojan-🇯🇵JP-13.231.189.62-0514",
-        "129-trojan-🇯🇵JP-3.112.189.201-3134",
-        "130-trojan-🇯🇵JP-43.207.210.229-0505",
-        "131-trojan-🇯🇵JP-13.112.1.163-0526",
-        "132-trojan-🇯🇵JP-13.115.229.63-0597",
-        "133-trojan-🇯🇵JP-52.199.23.158-0536",
-        "134-trojan-🇯🇵JP-43.206.224.40-0504",
-        "135-shadowsocks-🇬🇧GB-146.70.61.37-0276",
-        "136-trojan-🇯🇵JP-35.72.9.75-3148",
-        "137-shadowsocks-🇩🇪 DE 44",
-        "138-trojan-🇩🇪 DE 20",
-        "139-vless-🇳🇱 434 - NL - VLESS/REALITY/PBK/SID/VISI",
+        "120-trojan-🇯🇵JP-54.65.43.16-0507",
+        "121-trojan-🇯🇵JP-54.199.102.210-0525",
+        "122-trojan-🇯🇵JP-54.178.35.10-0112",
+        "123-trojan-🇯🇵JP-13.115.80.163-0528",
+        "124-trojan-🇯🇵JP-13.231.188.13-0535",
+        "125-trojan-🇯🇵JP-3.112.231.253-0540",
+        "126-trojan-🇯🇵JP-176.34.18.166-3129",
+        "127-trojan-🇯🇵JP-52.195.207.214-3163",
+        "128-trojan-🇯🇵JP-54.168.65.98-0515",
+        "129-trojan-🇯🇵JP-13.112.1.163-0526",
+        "130-trojan-🇯🇵JP-54.238.124.150-3159",
+        "131-trojan-🇯🇵JP-43.206.224.40-0504",
+        "132-shadowsocks-🇩🇪DE-🚀@VPNine1",
+        "133-shadowsocks-🇬🇧 GB 9",
+        "134-shadowsocks-🇰🇷KR-218.237.185.230-0228",
+        "135-vmess-🇯🇵JP-45.76.202.45-6077",
+        "136-shadowsocks-🪭60@oneclickvpnkeys",
+        "137-shadowsocks-🇫🇷FR-🚀@VPNine1",
+        "138-vless-🇳🇱 434 - NL - VLESS/REALITY/PBK/SID/VISI",
+        "139-vless-🇳🇱 423 - NL - VLESS/REALITY/PBK/SID/VISI",
         "140-vless-🇳🇱 426 - NL - VLESS/REALITY/PBK/SID/VISI",
-        "141-vless-🇳🇱 荷兰 | NLD 11",
-        "142-vless-🇳🇱 423 - NL - VLESS/REALITY/PBK/SID/VISI",
-        "143-shadowsocks-🇩🇪DE-8.209.74.72-0180",
-        "144-shadowsocks-🇩🇪DE-213.202.208.199-0218",
-        "145-shadowsocks-🇰🇷KR-211.178.105.134-0232",
-        "146-vless-🇳🇱 荷兰 | NLD",
-        "147-trojan-🇩🇪DE-185.137.157.128-0207",
-        "148-trojan-🇰🇷KR-54.180.248.218-0147",
+        "141-shadowsocks-🇬🇧112283 | ⚡️Telegram = t.me/SOSkeyNET",
+        "142-shadowsocks-🇩🇪DE-8.209.74.72-0180",
+        "143-shadowsocks-🪭57@oneclickvpnkeys",
+        "144-vless-🇳🇱 荷兰 | NLD",
+        "145-shadowsocks-🇩🇪DE-🚀@VPNine1",
+        "146-trojan-🇩🇪 DE 49",
+        "147-trojan-🇩🇪 DE 21",
+        "148-trojan-🇰🇷KR-54.180.235.223-0123",
         "149-vless-🇹🇷 土耳其 | TUR",
-        "150-trojan-@filembad"
+        "150-trojan-🇺🇸 30 - US - Trojan/WS/TLS - 443"
       ],
       "tag": "@SystemNebula",
       "type": "selector"
