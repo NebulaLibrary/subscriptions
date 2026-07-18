@@ -1,0 +1,4 @@
+trojan://CF68213490@funny-hen.rooster465.autos:443?sni=funny-hen.rooster465.autos&type=tcp#%40SystemNebula
+trojan://NQ26071394@upright-caribou.rooster465.autos:443?sni=upright-caribou.rooster465.autos&type=tcp#%40SystemNebula
+trojan://CF68213490@concrete-aardvark.rooster465.autos:443?sni=concrete-aardvark.rooster465.autos&type=tcp#%40SystemNebula
+trojan://CF68213490@skilled-lioness.rooster465.autos:443?sni=skilled-lioness.rooster465.autos&type=tcp#%40SystemNebula
