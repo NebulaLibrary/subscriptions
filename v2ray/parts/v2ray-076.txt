@@ -1,0 +1,4 @@
+trojan://CF68213490@star-dodo.rooster465.autos:443?sni=star-dodo.rooster465.autos&type=tcp#%40SystemNebula
+trojan://CF68213490@free-hare.rooster465.autos:443?sni=free-hare.rooster465.autos&type=tcp#%40SystemNebula
+trojan://CF68213490@eternal-woodcock.rooster465.autos:443?sni=eternal-woodcock.rooster465.autos&type=tcp#%40SystemNebula
+trojan://NQ26071394@expert-muskrat.rooster465.autos:443?sni=expert-muskrat.rooster465.autos&type=tcp#%40SystemNebula
