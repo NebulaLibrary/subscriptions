@@ -1,9 +1,16 @@
 proxies:
-- cipher: aes-128-gcm
+- cipher: chacha20-ietf-poly1305
   name: '@SystemNebula'
-  password: shadowsocks
-  port: 443
-  server: 173.244.56.6
+  password: G5p6ww4o67HB
+  port: 8388
+  server: 108.181.0.177
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '@SystemNebula'
+  password: G5p6ww4o67HB
+  port: 8388
+  server: 108.181.118.10
   type: ss
   udp: true
 - alterId: 0
@@ -22,20 +29,30 @@ proxies:
   server: 216.105.168.18
   type: ss
   udp: true
-- cipher: chacha20-ietf-poly1305
+- cipher: aes-128-gcm
   name: '@SystemNebula'
-  password: G5p6ww4o67HB
-  port: 8388
-  server: 108.181.0.177
+  password: shadowsocks
+  port: 443
+  server: 173.244.56.9
   type: ss
   udp: true
-- cipher: chacha20-ietf-poly1305
+- cipher: aes-128-gcm
   name: '@SystemNebula'
-  password: G5p6ww4o67HB
-  port: 8388
-  server: 108.181.118.10
+  password: shadowsocks
+  port: 443
+  server: 173.244.56.6
   type: ss
   udp: true
+- name: '@SystemNebula'
+  network: ws
+  port: 443
+  server: 104.16.72.20
+  servername: t1s1.rittbo.kdns.fr
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
 - name: '@SystemNebula'
   network: ws
   port: 443
@@ -49,7 +66,7 @@ proxies:
 - name: '@SystemNebula'
   network: ws
   port: 443
-  server: 104.16.72.20
+  server: 162.159.38.119
   servername: t1s1.rittbo.kdns.fr
   skip-cert-verify: false
   tls: true
@@ -60,30 +77,19 @@ proxies:
   name: '@SystemNebula'
   password: shadowsocks
   port: 443
-  server: 173.244.56.9
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  name: '@SystemNebula'
-  password: shadowsocks
-  port: 443
   server: 156.146.38.170
   type: ss
   udp: true
-- cipher: aes-128-gcm
-  name: '@SystemNebula'
-  password: shadowsocks
+- name: '@SystemNebula'
+  network: ws
   port: 443
-  server: 156.146.38.169
-  type: ss
+  server: 104.16.72.2
+  servername: t1s1.rittbo.kdns.fr
+  skip-cert-verify: false
+  tls: true
+  type: vless
   udp: true
-- cipher: aes-128-gcm
-  name: '@SystemNebula'
-  password: shadowsocks
-  port: 443
-  server: 156.146.38.168
-  type: ss
-  udp: true
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
 - cipher: aes-128-gcm
   name: '@SystemNebula'
   password: shadowsocks
@@ -101,16 +107,29 @@ proxies:
   type: vless
   udp: true
   uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
-- name: '@SystemNebula'
-  network: ws
+- alterId: 0
+  cipher: auto
+  name: '@SystemNebula'
+  network: tcp
   port: 443
-  server: 104.16.72.2
-  servername: t1s1.rittbo.kdns.fr
-  skip-cert-verify: false
-  tls: true
-  type: vless
+  server: 165.140.216.141
+  type: vmess
   udp: true
-  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
+  uuid: e7d72a8d-26f2-4b54-b366-0c43e0bcba7d
+- cipher: aes-128-gcm
+  name: '@SystemNebula'
+  password: shadowsocks
+  port: 443
+  server: 156.146.38.168
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: '@SystemNebula'
+  password: shadowsocks
+  port: 443
+  server: 156.146.38.169
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: '@SystemNebula'
@@ -125,14 +144,24 @@ proxies:
   uuid: 6a89a215-22bf-4bd7-9642-b95b2e09583a
 - name: '@SystemNebula'
   network: ws
-  port: 2053
-  server: 104.26.14.149
-  servername: vp41.cc.cd
+  port: 443
+  server: 162.159.41.103
+  servername: vp9.cc.cd
   skip-cert-verify: false
   tls: true
   type: vless
   udp: true
-  uuid: 7b102311-43fd-4e8f-877e-8090623c101d
+  uuid: 663cf772-829c-4bc6-893d-b7d021d42f5b
+- name: '@SystemNebula'
+  network: ws
+  port: 443
+  server: store.ubi.com
+  servername: t1s1.rittbo.kdns.fr
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
 - name: '@SystemNebula'
   network: ws
   port: 2087
@@ -143,13 +172,6 @@ proxies:
   type: vless
   udp: true
   uuid: 7b102311-43fd-4e8f-877e-8090623c101d
-- cipher: aes-128-gcm
-  name: '@SystemNebula'
-  password: shadowsocks
-  port: 443
-  server: 149.22.95.183
-  type: ss
-  udp: true
 - name: '@SystemNebula'
   network: ws
   port: 2053
@@ -174,51 +196,28 @@ proxies:
   type: vless
   udp: true
   uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-- alterId: 0
-  cipher: auto
-  name: '@SystemNebula'
-  network: tcp
-  port: 18000
-  server: 38.110.1.246
-  type: vmess
-  udp: true
-  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
 - cipher: aes-128-gcm
   name: '@SystemNebula'
   password: shadowsocks
   port: 443
-  server: 37.19.198.243
+  server: 149.22.95.183
   type: ss
   udp: true
+- name: '@SystemNebula'
+  network: ws
+  port: 2053
+  server: 104.26.14.149
+  servername: vp41.cc.cd
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 7b102311-43fd-4e8f-877e-8090623c101d
 - cipher: aes-128-gcm
   name: '@SystemNebula'
   password: shadowsocks
   port: 443
   server: 37.19.198.244
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  name: '@SystemNebula'
-  password: shadowsocks
-  port: 443
-  server: 37.19.198.160
-  type: ss
-  udp: true
-- name: '@SystemNebula'
-  network: ws
-  port: 443
-  server: 162.159.41.103
-  servername: vp9.cc.cd
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 663cf772-829c-4bc6-893d-b7d021d42f5b
-- cipher: aes-128-gcm
-  name: '@SystemNebula'
-  password: shadowsocks
-  port: 443
-  server: 37.19.198.236
   type: ss
   udp: true
 - name: '@SystemNebula'
@@ -230,12 +229,57 @@ proxies:
   type: trojan
   udp: true
 - name: '@SystemNebula'
+  password: NQ26071394
+  port: 443
+  server: 44.243.31.46
+  skip-cert-verify: false
+  sni: sharing-porpoise.rooster465.autos
+  type: trojan
+  udp: true
+- cipher: aes-128-gcm
+  name: '@SystemNebula'
+  password: shadowsocks
+  port: 443
+  server: 37.19.198.160
+  type: ss
+  udp: true
+- name: '@SystemNebula'
   password: CF68213490
   port: 443
-  server: balanced-puma.rooster465.autos
+  server: 44.251.239.102
   skip-cert-verify: false
-  sni: balanced-puma.rooster465.autos
+  sni: polite-coyote.rooster465.autos
   type: trojan
+  udp: true
+- cipher: aes-128-gcm
+  name: '@SystemNebula'
+  password: shadowsocks
+  port: 443
+  server: 37.19.198.236
+  type: ss
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: fast-bunny.rooster465.autos
+  skip-cert-verify: false
+  sni: fast-bunny.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: capable-eel.rooster465.autos
+  skip-cert-verify: false
+  sni: capable-eel.rooster465.autos
+  type: trojan
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '@SystemNebula'
+  password: hbGrpfvNrJsUmKmPbR3iY2
+  port: 443
+  server: tinkered-pennies-puppies.freesocks.work
+  type: ss
   udp: true
 - name: '@SystemNebula'
   password: NQ26071394
@@ -246,11 +290,19 @@ proxies:
   type: trojan
   udp: true
 - name: '@SystemNebula'
+  password: NQ26071394
+  port: 443
+  server: 52.26.202.76
+  skip-cert-verify: false
+  sni: learning-fawn.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
   password: CF68213490
   port: 443
   server: tolerant-rattler.rooster465.autos
   skip-cert-verify: false
-  sni: ''
+  sni: tolerant-rattler.rooster465.autos
   type: trojan
   udp: true
 - name: '@SystemNebula'
@@ -264,49 +316,9 @@ proxies:
 - name: '@SystemNebula'
   password: CF68213490
   port: 443
-  server: fast-bunny.rooster465.autos
+  server: alert-monster.rooster465.autos
   skip-cert-verify: false
-  sni: fast-bunny.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: NQ26071394
-  port: 443
-  server: better-silkworm.rooster465.autos
-  skip-cert-verify: false
-  sni: better-silkworm.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: capable-eel.rooster465.autos
-  skip-cert-verify: false
-  sni: capable-eel.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: NQ26071394
-  port: 443
-  server: engaging-elephant.rooster465.autos
-  skip-cert-verify: false
-  sni: engaging-elephant.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: 44.251.239.102
-  skip-cert-verify: false
-  sni: polite-coyote.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: NQ26071394
-  port: 443
-  server: emerging-hagfish.rooster465.autos
-  skip-cert-verify: false
-  sni: emerging-hagfish.rooster465.autos
+  sni: alert-monster.rooster465.autos
   type: trojan
   udp: true
 - name: '@SystemNebula'
@@ -320,25 +332,57 @@ proxies:
 - name: '@SystemNebula'
   password: NQ26071394
   port: 443
-  server: 44.243.31.46
+  server: emerging-hagfish.rooster465.autos
   skip-cert-verify: false
-  sni: sharing-porpoise.rooster465.autos
+  sni: emerging-hagfish.rooster465.autos
   type: trojan
   udp: true
 - name: '@SystemNebula'
   password: CF68213490
   port: 443
-  server: alert-monster.rooster465.autos
+  server: popular-meerkat.rooster465.autos
   skip-cert-verify: false
-  sni: alert-monster.rooster465.autos
+  sni: popular-meerkat.rooster465.autos
+  type: trojan
+  udp: true
+- cipher: aes-128-gcm
+  name: '@SystemNebula'
+  password: shadowsocks
+  port: 443
+  server: 37.19.198.243
+  type: ss
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: balanced-puma.rooster465.autos
+  skip-cert-verify: false
+  sni: balanced-puma.rooster465.autos
   type: trojan
   udp: true
 - name: '@SystemNebula'
   password: NQ26071394
   port: 443
-  server: 52.26.202.76
+  server: engaging-elephant.rooster465.autos
   skip-cert-verify: false
-  sni: learning-fawn.rooster465.autos
+  sni: engaging-elephant.rooster465.autos
+  type: trojan
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: '@SystemNebula'
+  network: tcp
+  port: 18000
+  server: 38.110.1.246
+  type: vmess
+  udp: true
+  uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
+- name: '@SystemNebula'
+  password: NQ26071394
+  port: 443
+  server: better-silkworm.rooster465.autos
+  skip-cert-verify: false
+  sni: better-silkworm.rooster465.autos
   type: trojan
   udp: true
 - name: '@SystemNebula'
@@ -358,22 +402,6 @@ proxies:
   type: trojan
   udp: true
 - name: '@SystemNebula'
-  password: NQ26071394
-  port: 443
-  server: crack-martin.rooster465.autos
-  skip-cert-verify: false
-  sni: crack-martin.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: popular-meerkat.rooster465.autos
-  skip-cert-verify: false
-  sni: popular-meerkat.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
   password: JA96378052
   port: 443
   server: pleasing-monkfish.rooster465.autos
@@ -387,6 +415,14 @@ proxies:
   server: firm-squid.rooster465.autos
   skip-cert-verify: true
   sni: firm-squid.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: NQ26071394
+  port: 443
+  server: crack-martin.rooster465.autos
+  skip-cert-verify: false
+  sni: crack-martin.rooster465.autos
   type: trojan
   udp: true
 - client-fingerprint: chrome
@@ -414,14 +450,14 @@ proxies:
   name: '@SystemNebula'
   password: shadowsocks
   port: 443
-  server: 149.22.87.240
+  server: 149.22.87.204
   type: ss
   udp: true
-- cipher: aes-128-gcm
+- cipher: aes-256-cfb
   name: '@SystemNebula'
-  password: shadowsocks
+  password: amazonskr05
   port: 443
-  server: 149.22.87.204
+  server: 13.135.248.162
   type: ss
   udp: true
 - cipher: aes-128-gcm
@@ -431,6 +467,23 @@ proxies:
   server: 149.22.87.241
   type: ss
   udp: true
+- cipher: aes-128-gcm
+  name: '@SystemNebula'
+  password: shadowsocks
+  port: 443
+  server: 149.22.87.240
+  type: ss
+  udp: true
+- name: '@SystemNebula'
+  network: ws
+  port: 443
+  server: cdn.9889888.xyz
+  servername: t1s1.rittbo.kdns.fr
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
 - cipher: chacha20-ietf-poly1305
   name: '@SystemNebula'
   password: 9g5FMKiBS7Lw1ooW
@@ -440,9 +493,9 @@ proxies:
   udp: true
 - cipher: aes-256-cfb
   name: '@SystemNebula'
-  password: amazonskr05
-  port: 443
-  server: 18.133.180.164
+  password: BNmAXXxAHYpTRdzu
+  port: 9020
+  server: 5.188.181.201
   type: ss
   udp: true
 - cipher: aes-128-cfb
@@ -450,6 +503,13 @@ proxies:
   password: shadowsocks
   port: 443
   server: 109.201.152.181
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '@SystemNebula'
+  password: CJmTCCx7Ltud
+  port: 8388
+  server: 108.181.126.122
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
@@ -466,21 +526,18 @@ proxies:
   skip-cert-verify: true
   sni: www.microsoft.com
   type: hysteria2
-- name: '@SystemNebula'
-  network: ws
-  port: 443
-  server: 162.159.38.119
-  servername: t1s1.rittbo.kdns.fr
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: eeb6823c-b926-4ea2-866a-5542edd26e59
 - cipher: aes-128-gcm
   name: '@SystemNebula'
   password: shadowsocks
   port: 443
-  server: 141.98.101.179
+  server: 158.173.20.208
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: '@SystemNebula'
+  password: TEzjfAYq2IjtuoS
+  port: 6679
+  server: 141.164.45.187
   type: ss
   udp: true
 - cipher: aes-128-gcm
@@ -488,6 +545,13 @@ proxies:
   password: shadowsocks
   port: 443
   server: 141.98.101.181
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '@SystemNebula'
+  password: Vr06rU_v1vFPYeXq9zbsAA
+  port: 1080
+  server: 184.75.221.134
   type: ss
   udp: true
 - cipher: aes-256-gcm
@@ -504,20 +568,6 @@ proxies:
   server: 141.98.101.182
   type: ss
   udp: true
-- cipher: aes-128-gcm
-  name: '@SystemNebula'
-  password: shadowsocks
-  port: 443
-  server: 141.98.101.178
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: '@SystemNebula'
-  password: faBAoD54k87UJG7
-  port: 2375
-  server: 109.104.154.163
-  type: ss
-  udp: true
 - alterId: 0
   cipher: auto
   name: '@SystemNebula'
@@ -527,13 +577,6 @@ proxies:
   type: vmess
   udp: true
   uuid: 071a8a71-c656-4fb6-a908-4e42eb72243d
-- cipher: aes-256-gcm
-  name: '@SystemNebula'
-  password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 141.164.45.187
-  type: ss
-  udp: true
 - alterId: 0
   cipher: auto
   name: '@SystemNebula'
@@ -544,19 +587,34 @@ proxies:
   udp: true
   uuid: 1610f8dc-0661-4032-ac6a-a7250603f608
 - name: '@SystemNebula'
+  password: NQ26071394
+  port: 443
+  server: brief-hare.rooster465.autos
+  skip-cert-verify: false
+  sni: brief-hare.rooster465.autos
+  type: trojan
+  udp: true
+- cipher: aes-256-gcm
+  name: '@SystemNebula'
+  password: RexnBgU7EV5ADxG
+  port: 7001
+  server: 94.156.250.148
+  type: ss
+  udp: true
+- name: '@SystemNebula'
   password: CF68213490
   port: 443
-  server: noble-tahr.rooster465.autos
+  server: 52.195.207.214
   skip-cert-verify: false
-  sni: noble-tahr.rooster465.autos
+  sni: rested-osprey.rooster465.autos
   type: trojan
   udp: true
 - name: '@SystemNebula'
   password: CF68213490
   port: 443
-  server: 52.197.223.110
+  server: moved-bluegill.rooster465.autos
   skip-cert-verify: false
-  sni: funny-hen.rooster465.autos
+  sni: moved-bluegill.rooster465.autos
   type: trojan
   udp: true
 - name: '@SystemNebula'
@@ -570,295 +628,9 @@ proxies:
 - name: '@SystemNebula'
   password: CF68213490
   port: 443
-  server: welcome-monitor.rooster465.autos
+  server: 52.68.237.45
   skip-cert-verify: false
   sni: welcome-monitor.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: 35.77.91.8
-  skip-cert-verify: false
-  sni: definite-ladybird.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: eternal-woodcock.rooster465.autos
-  skip-cert-verify: false
-  sni: eternal-woodcock.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: 43.207.117.135
-  skip-cert-verify: false
-  sni: eminent-panther.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: informed-stud.rooster465.autos
-  skip-cert-verify: false
-  sni: ''
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: 52.195.207.214
-  skip-cert-verify: false
-  sni: rested-osprey.rooster465.autos
-  type: trojan
-  udp: true
-- cipher: aes-256-cfb
-  name: '@SystemNebula'
-  password: amazonskr05
-  port: 443
-  server: 18.175.139.211
-  type: ss
-  udp: true
-- name: '@SystemNebula'
-  password: PI36027154
-  port: 443
-  server: exciting-grizzly.rooster465.autos
-  skip-cert-verify: false
-  sni: exciting-grizzly.rooster465.autos
-  type: trojan
-  udp: true
-- cipher: aes-256-gcm
-  name: '@SystemNebula'
-  password: RexnBgU7EV5ADxG
-  port: 7001
-  server: 94.156.250.148
-  type: ss
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: adapting-giraffe.rooster465.autos
-  skip-cert-verify: false
-  sni: adapting-giraffe.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: nearby-egret.rooster465.autos
-  skip-cert-verify: false
-  sni: nearby-egret.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: alert-redfish.rooster465.autos
-  skip-cert-verify: false
-  sni: alert-redfish.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: eminent-dogfish.rooster465.autos
-  skip-cert-verify: false
-  sni: eminent-dogfish.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: NQ26071394
-  port: 443
-  server: alert-wren.rooster465.autos
-  skip-cert-verify: false
-  sni: alert-wren.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: NQ26071394
-  port: 443
-  server: gentle-turtle.rooster465.autos
-  skip-cert-verify: false
-  sni: gentle-turtle.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: HW85960347
-  port: 443
-  server: fleet-pony.rooster465.autos
-  skip-cert-verify: true
-  sni: fleet-pony.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: NQ26071394
-  port: 443
-  server: firm-krill.rooster465.autos
-  skip-cert-verify: false
-  sni: firm-krill.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: fair-werewolf.rooster465.autos
-  skip-cert-verify: false
-  sni: fair-werewolf.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: adapting-basilisk.rooster465.autos
-  skip-cert-verify: false
-  sni: adapting-basilisk.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: sacred-shepherd.rooster465.autos
-  skip-cert-verify: false
-  sni: sacred-shepherd.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: NQ26071394
-  port: 443
-  server: 3.112.43.104
-  skip-cert-verify: false
-  sni: worthy-labrador.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: musical-manatee.rooster465.autos
-  skip-cert-verify: false
-  sni: ''
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: star-moray.rooster465.autos
-  skip-cert-verify: false
-  sni: star-moray.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: JA96378052
-  port: 443
-  server: square-skink.rooster465.autos
-  skip-cert-verify: true
-  sni: square-skink.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: eminent-panther.rooster465.autos
-  skip-cert-verify: false
-  sni: eminent-panther.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: 3.112.231.253
-  skip-cert-verify: false
-  sni: upright-rhino.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: JA96378052
-  port: 443
-  server: stable-racer.rooster465.autos
-  skip-cert-verify: true
-  sni: stable-racer.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: PD07395842
-  port: 443
-  server: frank-turtle.rooster465.autos
-  skip-cert-verify: true
-  sni: frank-turtle.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: NQ26071394
-  port: 443
-  server: stunning-mastodon.rooster465.autos
-  skip-cert-verify: false
-  sni: stunning-mastodon.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: funny-hawk.rooster465.autos
-  skip-cert-verify: false
-  sni: funny-hawk.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: NQ26071394
-  port: 443
-  server: grateful-crawdad.rooster465.autos
-  skip-cert-verify: false
-  sni: grateful-crawdad.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: JA96378052
-  port: 443
-  server: certain-kit.rooster465.autos
-  skip-cert-verify: true
-  sni: certain-kit.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: concrete-aardvark.rooster465.autos
-  skip-cert-verify: false
-  sni: concrete-aardvark.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: HW85960347
-  port: 443
-  server: cunning-grub.rooster465.autos
-  skip-cert-verify: true
-  sni: cunning-grub.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: rested-osprey.rooster465.autos
-  skip-cert-verify: false
-  sni: ''
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: smashing-fawn.rooster465.autos
-  skip-cert-verify: false
-  sni: smashing-fawn.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: PD07395842
-  port: 443
-  server: key-pony.rooster465.autos
-  skip-cert-verify: true
-  sni: key-pony.rooster465.autos
   type: trojan
   udp: true
 - name: '@SystemNebula'
@@ -872,138 +644,9 @@ proxies:
 - name: '@SystemNebula'
   password: CF68213490
   port: 443
-  server: careful-penguin.rooster465.autos
+  server: wealthy-gobbler.rooster465.autos
   skip-cert-verify: false
-  sni: careful-penguin.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: NQ26071394
-  port: 443
-  server: hot-tapir.rooster465.autos
-  skip-cert-verify: false
-  sni: hot-tapir.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: steady-prawn.rooster465.autos
-  skip-cert-verify: false
-  sni: steady-prawn.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: eternal-perch.rooster465.autos
-  skip-cert-verify: false
-  sni: eternal-perch.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: gentle-honeybee.rooster465.autos
-  skip-cert-verify: false
-  sni: gentle-honeybee.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: NQ26071394
-  port: 443
-  server: magical-prawn.rooster465.autos
-  skip-cert-verify: false
-  sni: magical-prawn.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: thankful-mustang.rooster465.autos
-  skip-cert-verify: false
-  sni: thankful-mustang.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: eager-platypus.rooster465.autos
-  skip-cert-verify: false
-  sni: eager-platypus.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: darling-mongrel.rooster465.autos
-  skip-cert-verify: false
-  sni: darling-mongrel.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: NQ26071394
-  port: 443
-  server: legible-ram.rooster465.autos
-  skip-cert-verify: false
-  sni: legible-ram.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: HW85960347
-  port: 443
-  server: together-mayfly.rooster465.autos
-  skip-cert-verify: true
-  sni: together-mayfly.rooster465.autos
-  type: trojan
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: '@SystemNebula'
-  network: ws
-  port: 80
-  server: 168.138.43.75
-  type: vmess
-  udp: true
-  uuid: 11c3627f-31e8-4695-dfbd-34076e2f1f5d
-- name: '@SystemNebula'
-  password: NQ26071394
-  port: 443
-  server: arriving-koala.rooster465.autos
-  skip-cert-verify: false
-  sni: ''
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: HW85960347
-  port: 443
-  server: harmless-gobbler.rooster465.autos
-  skip-cert-verify: true
-  sni: harmless-gobbler.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: definite-ladybird.rooster465.autos
-  skip-cert-verify: false
-  sni: definite-ladybird.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: NQ26071394
-  port: 443
-  server: brief-hare.rooster465.autos
-  skip-cert-verify: false
-  sni: brief-hare.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: NQ26071394
-  port: 443
-  server: real-ewe.rooster465.autos
-  skip-cert-verify: false
-  sni: real-ewe.rooster465.autos
+  sni: wealthy-gobbler.rooster465.autos
   type: trojan
   udp: true
 - name: '@SystemNebula'
@@ -1017,25 +660,57 @@ proxies:
 - name: '@SystemNebula'
   password: CF68213490
   port: 443
-  server: 52.68.237.45
+  server: live-drake.rooster465.autos
   skip-cert-verify: false
-  sni: welcome-monitor.rooster465.autos
+  sni: live-drake.rooster465.autos
   type: trojan
   udp: true
 - name: '@SystemNebula'
   password: CF68213490
   port: 443
-  server: caring-wallaby.rooster465.autos
+  server: 35.77.91.8
   skip-cert-verify: false
-  sni: caring-wallaby.rooster465.autos
+  sni: definite-ladybird.rooster465.autos
   type: trojan
   udp: true
 - name: '@SystemNebula'
   password: CF68213490
   port: 443
-  server: sincere-crappie.rooster465.autos
+  server: skilled-lioness.rooster465.autos
   skip-cert-verify: false
-  sni: sincere-crappie.rooster465.autos
+  sni: skilled-lioness.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: 43.207.117.135
+  skip-cert-verify: false
+  sni: eminent-panther.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: steady-prawn.rooster465.autos
+  skip-cert-verify: false
+  sni: steady-prawn.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: NQ26071394
+  port: 443
+  server: legible-ram.rooster465.autos
+  skip-cert-verify: false
+  sni: legible-ram.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: smashing-fawn.rooster465.autos
+  skip-cert-verify: false
+  sni: smashing-fawn.rooster465.autos
   type: trojan
   udp: true
 - name: '@SystemNebula'
@@ -1049,17 +724,97 @@ proxies:
 - name: '@SystemNebula'
   password: CF68213490
   port: 443
-  server: next-turkey.rooster465.autos
+  server: eminent-dogfish.rooster465.autos
   skip-cert-verify: false
-  sni: next-turkey.rooster465.autos
+  sni: eminent-dogfish.rooster465.autos
   type: trojan
   udp: true
 - name: '@SystemNebula'
-  password: HW85960347
+  password: CF68213490
   port: 443
-  server: normal-dory.rooster465.autos
+  server: funny-hen.rooster465.autos
+  skip-cert-verify: false
+  sni: funny-hen.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: communal-sunbird.rooster465.autos
+  skip-cert-verify: false
+  sni: communal-sunbird.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: 3.112.231.253
+  skip-cert-verify: false
+  sni: upright-rhino.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: 52.197.223.110
+  skip-cert-verify: false
+  sni: funny-hen.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: thankful-mustang.rooster465.autos
+  skip-cert-verify: false
+  sni: thankful-mustang.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: NQ26071394
+  port: 443
+  server: optimal-penguin.rooster465.autos
+  skip-cert-verify: false
+  sni: optimal-penguin.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: PD07395842
+  port: 443
+  server: frank-turtle.rooster465.autos
   skip-cert-verify: true
-  sni: normal-dory.rooster465.autos
+  sni: frank-turtle.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: 54.248.166.163
+  skip-cert-verify: false
+  sni: sacred-shepherd.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: JA96378052
+  port: 443
+  server: square-skink.rooster465.autos
+  skip-cert-verify: true
+  sni: square-skink.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: eternal-woodcock.rooster465.autos
+  skip-cert-verify: false
+  sni: eternal-woodcock.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: in-oriole.rooster465.autos
+  skip-cert-verify: false
+  sni: in-oriole.rooster465.autos
   type: trojan
   udp: true
 - name: '@SystemNebula'
@@ -1073,9 +828,249 @@ proxies:
 - name: '@SystemNebula'
   password: CF68213490
   port: 443
+  server: musical-manatee.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: caring-wallaby.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: NQ26071394
+  port: 443
+  server: upright-caribou.rooster465.autos
+  skip-cert-verify: false
+  sni: upright-caribou.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: JA96378052
+  port: 443
+  server: proven-stud.rooster465.autos
+  skip-cert-verify: true
+  sni: proven-stud.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: 13.115.229.63
+  skip-cert-verify: false
+  sni: alert-redfish.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: loyal-molly.rooster465.autos
+  skip-cert-verify: false
+  sni: loyal-molly.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: concrete-aardvark.rooster465.autos
+  skip-cert-verify: false
+  sni: concrete-aardvark.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
   server: shining-piranha.rooster465.autos
   skip-cert-verify: false
   sni: shining-piranha.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: NQ26071394
+  port: 443
+  server: expert-muskrat.rooster465.autos
+  skip-cert-verify: false
+  sni: expert-muskrat.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: settling-humpback.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: star-cheetah.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: adapting-giraffe.rooster465.autos
+  skip-cert-verify: false
+  sni: adapting-giraffe.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: immune-mullet.rooster465.autos
+  skip-cert-verify: false
+  sni: immune-mullet.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: NQ26071394
+  port: 443
+  server: 3.112.43.104
+  skip-cert-verify: false
+  sni: worthy-labrador.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: gentle-honeybee.rooster465.autos
+  skip-cert-verify: false
+  sni: gentle-honeybee.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: NQ26071394
+  port: 443
+  server: grateful-crawdad.rooster465.autos
+  skip-cert-verify: false
+  sni: grateful-crawdad.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: rested-osprey.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: eminent-panther.rooster465.autos
+  skip-cert-verify: false
+  sni: eminent-panther.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: sacred-shepherd.rooster465.autos
+  skip-cert-verify: false
+  sni: sacred-shepherd.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: darling-mongrel.rooster465.autos
+  skip-cert-verify: false
+  sni: darling-mongrel.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: NQ26071394
+  port: 443
+  server: harmless-pegasus.rooster465.autos
+  skip-cert-verify: false
+  sni: harmless-pegasus.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: NQ26071394
+  port: 443
+  server: alert-wren.rooster465.autos
+  skip-cert-verify: false
+  sni: alert-wren.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: ultimate-jaguar.rooster465.autos
+  skip-cert-verify: false
+  sni: ultimate-jaguar.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: alert-fish.rooster465.autos
+  skip-cert-verify: false
+  sni: alert-fish.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: eternal-perch.rooster465.autos
+  skip-cert-verify: false
+  sni: eternal-perch.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: NQ26071394
+  port: 443
+  server: bursting-racer.rooster465.autos
+  skip-cert-verify: false
+  sni: bursting-racer.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: adapting-basilisk.rooster465.autos
+  skip-cert-verify: false
+  sni: adapting-basilisk.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: HW85960347
+  port: 443
+  server: cunning-grub.rooster465.autos
+  skip-cert-verify: true
+  sni: cunning-grub.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: NQ26071394
+  port: 443
+  server: arriving-koala.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: eager-platypus.rooster465.autos
+  skip-cert-verify: false
+  sni: eager-platypus.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: NQ26071394
+  port: 443
+  server: warm-bass.rooster465.autos
+  skip-cert-verify: false
+  sni: warm-bass.rooster465.autos
   type: trojan
   udp: true
 - name: '@SystemNebula'
@@ -1087,11 +1082,90 @@ proxies:
   type: trojan
   udp: true
 - name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: sacred-anemone.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
   password: NQ26071394
   port: 443
-  server: warm-bass.rooster465.autos
+  server: adapting-spider.rooster465.autos
   skip-cert-verify: false
-  sni: warm-bass.rooster465.autos
+  sni: adapting-spider.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: PI36027154
+  port: 443
+  server: exciting-grizzly.rooster465.autos
+  skip-cert-verify: false
+  sni: exciting-grizzly.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: NQ26071394
+  port: 443
+  server: working-tomcat.rooster465.autos
+  skip-cert-verify: false
+  sni: working-tomcat.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: informed-stud.rooster465.autos
+  skip-cert-verify: false
+  sni: informed-stud.rooster465.autos
+  type: trojan
+  udp: true
+- cipher: aes-256-cfb
+  name: '@SystemNebula'
+  password: qwerREWQ@@
+  port: 6123
+  server: 211.178.105.134
+  type: ss
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: composed-sheep.rooster465.autos
+  skip-cert-verify: false
+  sni: composed-sheep.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: smiling-fowl.rooster465.autos
+  skip-cert-verify: false
+  sni: smiling-fowl.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: NQ26071394
+  port: 443
+  server: skilled-polliwog.rooster465.autos
+  skip-cert-verify: false
+  sni: ''
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: alert-redfish.rooster465.autos
+  skip-cert-verify: false
+  sni: alert-redfish.rooster465.autos
+  type: trojan
+  udp: true
+- name: '@SystemNebula'
+  password: CF68213490
+  port: 443
+  server: sincere-crappie.rooster465.autos
+  skip-cert-verify: false
+  sni: sincere-crappie.rooster465.autos
   type: trojan
   udp: true
 - name: '@SystemNebula'
@@ -1105,17 +1179,9 @@ proxies:
 - name: '@SystemNebula'
   password: NQ26071394
   port: 443
-  server: upright-caribou.rooster465.autos
+  server: stunning-mastodon.rooster465.autos
   skip-cert-verify: false
-  sni: upright-caribou.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: upright-rhino.rooster465.autos
-  skip-cert-verify: false
-  sni: upright-rhino.rooster465.autos
+  sni: stunning-mastodon.rooster465.autos
   type: trojan
   udp: true
 - name: '@SystemNebula'
@@ -1129,391 +1195,328 @@ proxies:
 - name: '@SystemNebula'
   password: CF68213490
   port: 443
-  server: star-cheetah.rooster465.autos
+  server: welcome-monitor.rooster465.autos
   skip-cert-verify: false
-  sni: ''
-  type: trojan
-  udp: true
-- cipher: aes-256-cfb
-  name: '@SystemNebula'
-  password: qwerREWQ@@
-  port: 4652
-  server: 218.237.185.230
-  type: ss
-  udp: true
-- name: '@SystemNebula'
-  password: NQ26071394
-  port: 443
-  server: inviting-rabbit.rooster465.autos
-  skip-cert-verify: false
-  sni: ''
+  sni: welcome-monitor.rooster465.autos
   type: trojan
   udp: true
 - name: '@SystemNebula'
   password: CF68213490
   port: 443
-  server: wealthy-gobbler.rooster465.autos
+  server: fair-werewolf.rooster465.autos
   skip-cert-verify: false
-  sni: wealthy-gobbler.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: smiling-fowl.rooster465.autos
-  skip-cert-verify: false
-  sni: smiling-fowl.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: evolving-mollusk.rooster465.autos
-  skip-cert-verify: false
-  sni: evolving-mollusk.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: NQ26071394
-  port: 443
-  server: grand-grub.rooster465.autos
-  skip-cert-verify: false
-  sni: ''
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: star-dodo.rooster465.autos
-  skip-cert-verify: false
-  sni: star-dodo.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: summary-firefly.rooster465.autos
-  skip-cert-verify: false
-  sni: summary-firefly.rooster465.autos
-  type: trojan
-  udp: true
-- name: '@SystemNebula'
-  password: CF68213490
-  port: 443
-  server: moved-bluegill.rooster465.autos
-  skip-cert-verify: false
-  sni: moved-bluegill.rooster465.autos
+  sni: fair-werewolf.rooster465.autos
   type: trojan
   udp: true
 proxy-groups:
 - interval: 300
   name: auto
   proxies:
-  - 01-shadowsocks-🇺🇸US-173.244.56.6-0113
-  - 02-vmess-🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
-  - 03-shadowsocks-🇺🇸US-🚀@VPNine1
-  - 04-shadowsocks-🇺🇸 Join Telegram:@Farah_VPN 🇺🇸
-  - 05-shadowsocks-🇨🇦CA-108.181.118.10-0102
-  - 06-vless-node
+  - 01-shadowsocks-🇺🇸US-108.181.0.177-0101
+  - 02-shadowsocks-🇨🇦CA-108.181.118.10-0102
+  - 03-vmess-🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
+  - 04-shadowsocks-EPODONIOS
+  - 05-shadowsocks-🇺🇸US-173.244.56.9-0107
+  - 06-shadowsocks-🇺🇸US-173.244.56.6-3876
   - 07-vless-⚡ b2n.ir/v2ray-configs | 249
-  - 08-shadowsocks-🇺🇸US-173.244.56.9-0107
-  - 09-shadowsocks-🇺🇸US-156.146.38.170-4074
-  - 10-shadowsocks-🇺🇸US-156.146.38.169-0095
-  - 11-shadowsocks-🇺🇸US-156.146.38.168-0098
-  - 12-shadowsocks-🇺🇸US-156.146.38.167-0099
+  - 08-vless-EPODONIOS
+  - 09-vless-⚡ b2n.ir/v2ray-configs | 681
+  - 10-shadowsocks-EPODONIOS
+  - 11-vless-美国 CloudFlare节点
+  - 12-shadowsocks-🇺🇸US-156.146.38.167-3995
   - 13-vless-⚡ b2n.ir/v2ray-configs | 516
-  - 14-vless-美国 CloudFlare节点
-  - 15-vmess-⚪🏳️_github.com/Ruk1ng001_54d00832
-  - 16-vless-美国 CloudFlare节点
-  - 17-vless-荷兰 V2CROSS.COM
-  - 18-shadowsocks-🇨🇦CA-149.22.95.183-0115
-  - 19-vless-美国 CloudFlare节点
-  - 20-vless-🇺🇸 418 - US - VLESS/REALITY/PBK/SID/VISI
-  - 21-vmess-🇺🇸 US 42
-  - 22-shadowsocks-🇺🇸US-37.19.198.243-4267
-  - 23-shadowsocks-🇺🇸US-37.19.198.244-0073
-  - 24-shadowsocks-🇺🇸US-37.19.198.160-0075
-  - 25-vless-美国 CloudFlare节点
-  - 26-shadowsocks-🇺🇸US-37.19.198.236-0145
-  - 27-trojan-🇺🇸US-44.251.239.102-0087
-  - 28-trojan-🇺🇸 US 27
-  - 29-trojan-🇺🇸 US 40
-  - 30-trojan-🇺🇸US-54.245.167.246-6043
-  - 31-trojan-🇺🇸 US 9
-  - 32-trojan-🇺🇸 US 38
-  - 33-trojan-🇺🇸 US 25
-  - 34-trojan-🇺🇸 US 37
-  - 35-trojan-🇺🇸 US 32
-  - 36-trojan-🇺🇸 US 26
-  - 37-trojan-🇺🇸 US 28
-  - 38-trojan-🇺🇸 美国 | USA
-  - 39-trojan-🇺🇸 US 7
-  - 40-trojan-🇺🇸 US 10
-  - 41-trojan-🇺🇸 US 34
-  - 42-trojan-🇺🇸 US 16
-  - 43-trojan-🇺🇸 美国 | USA 4
-  - 44-trojan-🇺🇸 US 41
-  - 45-trojan-🇺🇸 US 18
-  - 46-trojan-🏴‍☠️ 未知地区 | Unknown 3
-  - 47-trojan-🇺🇸 美国 | USA 2
-  - 48-vless-🇺🇸 140 - US - VLESS/REALITY/PBK/VISION/U
-  - 49-shadowsocks-🇨🇦CA-137.184.174.93-0078
-  - 50-shadowsocks-🇯🇵JP-149.22.87.240-0245
-  - 51-shadowsocks-🇯🇵JP-149.22.87.204-3716
-  - 52-shadowsocks-🇯🇵JP-149.22.87.241-0246
-  - 53-shadowsocks-EPODONIOS
-  - 54-shadowsocks-EPODONIOS
-  - 55-shadowsocks-🇳🇱NL-109.201.152.181-0104
-  - 56-shadowsocks-EPODONIOS
-  - 57-hysteria2- By EbraSha 🧨
-  - 58-vless-⚡ b2n.ir/v2ray-configs | 681
-  - 59-shadowsocks-🇬🇧GB-141.98.101.179-5919
-  - 60-shadowsocks-🇬🇧GB-141.98.101.181-5920
-  - 61-shadowsocks-🇰🇷KR-141.164.45.187-6113
-  - 62-shadowsocks-🇬🇧 GB | SS | @netfreedom0 1
-  - 63-shadowsocks-🇬🇧GB-141.98.101.178-5928
-  - 64-shadowsocks-EPODONIOS
-  - 65-vmess-🇯🇵JP-45.76.202.45-6112
+  - '14-vmess-Channel : @FreeConfigForYou🏴🏳'
+  - 15-shadowsocks-🇺🇸US-156.146.38.168-4139
+  - 16-shadowsocks-🇺🇸US-156.146.38.169-0095
+  - 17-vmess-⚪🏳️_github.com/Ruk1ng001_54d00832
+  - 18-vless-美国 CloudFlare节点
+  - 19-vless-⚡ b2n.ir/v2ray-configs | 762
+  - 20-vless-荷兰 V2CROSS.COM
+  - 21-vless-美国 CloudFlare节点
+  - 22-vless-🇺🇸 418 - US - VLESS/REALITY/PBK/SID/VISI
+  - 23-shadowsocks-🇨🇦CA-149.22.95.183-4005
+  - 24-vless-美国 CloudFlare节点
+  - 25-shadowsocks-🇺🇸US-37.19.198.244-0073
+  - 26-trojan-🇺🇸 US 8
+  - 27-trojan-🇺🇸 US 7
+  - 28-shadowsocks-🇺🇸US-37.19.198.160-0075
+  - 29-trojan-🇺🇸 US 26
+  - 30-shadowsocks-🇺🇸US-37.19.198.236-4101
+  - 31-trojan-🇺🇸 US 36
+  - 32-trojan-🇺🇸 US 35
+  - 33-shadowsocks-🇺🇸 US美国(mibei77.com 米贝节点分享)
+  - 34-trojan-🇺🇸 US 40
+  - 35-trojan-🇺🇸 US 34
+  - 36-trojan-🇺🇸 US 20
+  - 37-trojan-🇺🇸 US 9
+  - 38-trojan-🇺🇸 US 12
+  - 39-trojan-🇺🇸 美国 | USA
+  - 40-trojan-🇺🇸 US 28
+  - 41-trojan-🇺🇸 US 18
+  - 42-shadowsocks-🇺🇸US-37.19.198.243-4267
+  - 43-trojan-🇺🇸 US 30
+  - 44-trojan-🇺🇸 US 33
+  - 45-vmess-🇺🇸 US 42
+  - 46-trojan-🇺🇸 US 25
+  - 47-trojan-🇺🇸 US 16
+  - 48-trojan-🇺🇸 美国 | USA 4
+  - 49-trojan-🏴‍☠️ 未知地区 | Unknown 3
+  - 50-trojan-🇺🇸 美国 | USA 2
+  - 51-trojan-🇺🇸 US 41
+  - 52-vless-🇺🇸 140 - US - VLESS/REALITY/PBK/VISION/U
+  - 53-shadowsocks-🇨🇦CA-137.184.174.93-0078
+  - 54-shadowsocks-🇯🇵JP-149.22.87.204-0244
+  - 55-shadowsocks-🟠🇬🇧[🎬🤖📺🎭]_github.com/Ruk1ng001_2bf36e44
+  - 56-shadowsocks-🇯🇵JP-149.22.87.241-0246
+  - 57-shadowsocks-🇯🇵JP-149.22.87.240-0245
+  - 58-vless-美国 CloudFlare节点
+  - 59-shadowsocks-EPODONIOS
+  - 60-shadowsocks-🇪🇸ES-5.188.181.201-4034
+  - 61-shadowsocks-🇳🇱NL-109.201.152.181-0104
+  - 62-shadowsocks-🇳🇱NL-108.181.126.122-0180
+  - 63-shadowsocks-TEL:Father_vpn
+  - 64-hysteria2- By EbraSha 🔥
+  - 65-shadowsocks-EPODONIOS
   - 66-shadowsocks-🇰🇷KR-141.164.45.187-0232
-  - 67-vmess-未知21 2.1MB/s
-  - 68-trojan-🇯🇵JP-18.183.164.154-0151
-  - 69-trojan-🇯🇵 JP 17
-  - 70-trojan-🇯🇵JP-54.238.124.150-0135
-  - 71-trojan-🇯🇵JP-52.68.237.45-0175
-  - 72-trojan-🇯🇵 JP 9
-  - 73-trojan-🇯🇵 JP 11
-  - 74-trojan-🇯🇵JP-43.207.117.135-0155
-  - 75-trojan-🇯🇵JP-176.34.18.166-0134
-  - 76-trojan-🇯🇵JP-52.195.207.214-0166
-  - 77-shadowsocks-EPODONIOS
-  - 78-trojan-🇯🇵JP-52.194.192.245-0123
-  - 79-shadowsocks-EPODONIOS
-  - 80-trojan-🇯🇵JP-52.194.255.244-0117
-  - 81-trojan-🇯🇵JP-54.199.102.210-0157
-  - 82-trojan-🇯🇵 JP 15
-  - 83-trojan-🇯🇵JP-43.207.153.3-0133
-  - 84-trojan-🇯🇵JP-43.207.149.215-0512
-  - 85-trojan-🇯🇵JP-13.114.217.149-0144
-  - 86-trojan-🇯🇵 日本 | JPN 22
-  - 87-trojan-🇯🇵JP-54.199.79.137-0510
-  - 88-trojan-🇯🇵JP-13.231.189.62-0164
-  - 89-trojan-🇯🇵JP-54.250.235.241-0177
-  - 90-trojan-🇯🇵JP-54.248.166.163-0119
-  - 91-trojan-🇯🇵 JP 7
-  - 92-trojan-🇯🇵 JP 21
-  - 93-trojan-🇯🇵JP-3.112.149.206-0130
-  - 94-trojan-🇯🇵 日本 | JPN 5
-  - 95-trojan-🇯🇵JP-43.207.117.135-0163
-  - 96-trojan-🇯🇵 JP 20
-  - 97-trojan-🇯🇵 日本 | JPN
-  - 98-trojan-🇯🇵 日本 | JPN 15
-  - 99-trojan-🇯🇵JP-13.231.146.129-2315
-  - 100-trojan-🇯🇵JP-43.207.204.233-0121
-  - 101-trojan-🇯🇵JP-54.95.15.6-0417
-  - 102-trojan-🇯🇵 日本 | JPN 9
-  - 103-trojan-🇯🇵JP-18.176.53.202-0159
-  - 104-trojan-🇯🇵 日本 | JPN 10
-  - 105-trojan-🇯🇵JP-52.195.207.214-0153
-  - 106-trojan-🇯🇵JP-3.112.212.133-0176
-  - 107-trojan-🇯🇵 日本 | JPN 18
-  - 108-trojan-🇯🇵JP-35.72.9.75-0152
-  - 109-trojan-🇯🇵JP-43.207.210.229-0128
-  - 110-trojan-🇯🇵JP-13.230.239.115-0508
-  - 111-trojan-🇯🇵JP-52.195.215.200-0127
-  - 112-trojan-🇯🇵JP-18.183.224.87-0161
-  - 113-trojan-🇯🇵JP-54.168.247.156-0160
-  - 114-trojan-🇯🇵JP-18.176.60.79-0506
-  - 115-trojan-🇯🇵JP-52.199.23.158-0169
-  - 116-trojan-🇯🇵JP-35.77.85.144-0141
-  - 117-trojan-🇯🇵JP-54.238.160.68-0156
-  - 118-trojan-🇯🇵JP-18.183.220.94-0509
-  - 119-trojan-🇯🇵 日本 | JPN 3
-  - 120-vmess-JP 🇯🇵 | @Raydikalx | 4350
-  - 121-trojan-🇯🇵JP-52.198.192.193-5955
-  - 122-trojan-🇯🇵 日本 | JPN 23
-  - 123-trojan-🇯🇵JP-35.77.91.8-0165
-  - 124-trojan-🇯🇵 JP 2
-  - 125-trojan-🇯🇵JP-54.238.178.157-0507
-  - 126-trojan-🇯🇵JP-54.248.151.227-0518
-  - 127-trojan-🇯🇵 JP 13
-  - 128-trojan-🇯🇵 JP 3
-  - 129-trojan-🇯🇵JP-18.181.201.45-0122
-  - 130-trojan-🇯🇵 日本 | JPN 14
-  - 131-trojan-🇯🇵JP-13.112.1.163-0149
-  - 132-trojan-🇯🇵 日本 | JPN 17
-  - 133-trojan-🇯🇵 JP 24
-  - 134-trojan-🇯🇵JP-18.177.140.248-0142
-  - 135-trojan-🇯🇵 JP 25
-  - 136-trojan-🇯🇵JP-13.192.169.230-0421
-  - 137-trojan-🇯🇵 日本 | JPN 8
-  - 138-trojan-🇯🇵JP-52.197.108.120-0519
-  - 139-trojan-🇯🇵JP-3.112.231.253-0125
-  - 140-trojan-🇯🇵JP-54.249.164.14-0415
-  - 141-trojan-🇯🇵JP-18.183.215.94-0118
-  - 142-shadowsocks-🇰🇷KR-218.237.185.230-6114
-  - 143-trojan-🇯🇵JP-52.194.191.229-5953
-  - 144-trojan-🇯🇵JP-3.112.189.201-0140
-  - 145-trojan-🇯🇵JP-13.115.80.163-0120
-  - 146-trojan-🇯🇵JP-54.248.6.109-0137
-  - 147-trojan-🇯🇵JP-52.196.115.139-5951
-  - 148-trojan-🇯🇵JP-52.196.71.137-0158
-  - 149-trojan-🇯🇵JP-13.231.188.13-0139
-  - 150-trojan-🇯🇵JP-18.177.136.64-0136
+  - 67-shadowsocks-🇬🇧GB-141.98.101.181-5920
+  - 68-shadowsocks-EPODONIOS
+  - 69-shadowsocks-🇰🇷KR-141.164.45.187-6113
+  - 70-shadowsocks-🇬🇧 GB | SS | @netfreedom0 1
+  - 71-vmess-🇯🇵JP-45.76.202.45-6112
+  - 72-vmess-未知21 2.1MB/s
+  - 73-trojan-🇯🇵 JP 2
+  - 74-shadowsocks-🇬🇧 Join Telegram:@Farah_VPN 🇬🇧
+  - 75-trojan-🇯🇵JP-52.195.207.214-0166
+  - 76-trojan-🇯🇵JP-18.177.136.64-0136
+  - 77-trojan-🇯🇵JP-54.238.124.150-0135
+  - 78-trojan-🇯🇵 JP 13
+  - 79-trojan-🇯🇵JP-35.72.9.75-0152
+  - 80-trojan-🇯🇵JP-3.112.189.201-0140
+  - 81-trojan-🇯🇵JP-54.248.151.227-0518
+  - 82-trojan-🇯🇵 JP 12
+  - 83-trojan-🇯🇵 JP 9
+  - 84-trojan-🇯🇵JP-52.198.124.62-0174
+  - 85-trojan-🇯🇵JP-43.207.117.135-0155
+  - 86-trojan-🇯🇵JP-52.195.215.200-0127
+  - 87-trojan-🇯🇵JP-18.183.220.94-0509
+  - 88-trojan-🇯🇵JP-3.112.212.133-0176
+  - 89-trojan-🇯🇵 日本 | JPN 14
+  - 90-trojan-🇯🇵JP-43.207.153.3-0133
+  - 91-trojan-🇯🇵JP-52.197.223.110-0171
+  - 92-trojan-🇯🇵JP-43.206.235.148-0172
+  - 93-trojan-🇯🇵 JP 20
+  - 94-trojan-🇯🇵 JP 17
+  - 95-trojan-🇯🇵JP-52.199.23.158-0169
+  - 96-trojan-🇯🇵JP-18.181.211.197-2301
+  - 97-trojan-🇯🇵 日本 | JPN 15
+  - 98-trojan-🇯🇵 JP 26
+  - 99-trojan-🇯🇵 日本 | JPN 5
+  - 100-trojan-🇯🇵 JP 11
+  - 101-trojan-🇯🇵JP-52.198.88.225-0181
+  - 102-trojan-🇯🇵 JP 24
+  - 103-trojan-🇯🇵 JP 21
+  - 104-trojan-🇯🇵JP-35.72.9.75-0132
+  - 105-trojan-🇯🇵JP-52.197.108.120-0519
+  - 106-trojan-🇯🇵 日本 | JPN 19
+  - 107-trojan-🇯🇵JP-13.115.229.63-0150
+  - 108-trojan-🇯🇵JP-18.183.149.237-0173
+  - 109-trojan-🇯🇵JP-18.176.53.202-0159
+  - 110-trojan-🇯🇵JP-18.177.140.248-0142
+  - 111-trojan-🇯🇵JP-13.158.56.149-2310
+  - 112-trojan-🇯🇵JP-13.112.180.140-0170
+  - 113-trojan-🇯🇵JP-18.183.215.94-0118
+  - 114-trojan-🇯🇵JP-52.194.255.244-0117
+  - 115-trojan-🇯🇵JP-54.178.7.201-0179
+  - 116-trojan-🇯🇵 JP 7
+  - 117-trojan-🇯🇵JP-54.168.247.156-0160
+  - 118-trojan-🇯🇵JP-54.95.15.6-0417
+  - 119-trojan-🇯🇵JP-52.195.207.214-0153
+  - 120-trojan-🇯🇵JP-43.207.117.135-0163
+  - 121-trojan-🇯🇵JP-54.248.166.163-0119
+  - 122-trojan-🇯🇵JP-54.238.160.68-0156
+  - 123-trojan-🇯🇵JP-43.207.214.141-0408
+  - 124-trojan-🇯🇵JP-43.207.149.215-0512
+  - 125-trojan-🇯🇵JP-43.207.122.159-0154
+  - 126-trojan-🇯🇵JP-43.206.224.40-0146
+  - 127-trojan-🇯🇵JP-18.183.224.87-0161
+  - 128-trojan-🇯🇵 JP 10
+  - 129-trojan-🇯🇵 JP 14
+  - 130-trojan-🇯🇵 日本 | JPN 10
+  - 131-trojan-🇯🇵JP-52.198.192.193-5955
+  - 132-trojan-🇯🇵JP-35.77.85.144-0141
+  - 133-trojan-🇯🇵JP-13.192.169.230-0421
+  - 134-trojan-🇯🇵 JP 25
+  - 135-trojan-🇯🇵JP-13.230.252.28-0145
+  - 136-trojan-🇯🇵JP-57.181.37.50-2300
+  - 137-trojan-🇯🇵JP-52.194.192.245-0123
+  - 138-trojan-🇯🇵JP-43.207.145.254-0520
+  - 139-trojan-🇯🇵 JP 6
+  - 140-shadowsocks-🇰🇷KR-211.178.105.134-5989
+  - 141-trojan-🇯🇵JP-54.65.43.16-0124
+  - 142-trojan-🇯🇵JP-13.115.80.163-0120
+  - 143-trojan-🇯🇵JP-57.181.32.234-5886
+  - 144-trojan-🇯🇵JP-13.115.229.63-0131
+  - 145-trojan-🇯🇵JP-18.181.201.45-0122
+  - 146-trojan-🇯🇵 日本 | JPN 8
+  - 147-trojan-🇯🇵JP-13.231.146.129-2315
+  - 148-trojan-🇯🇵JP-54.249.164.14-0415
+  - 149-trojan-🇯🇵JP-52.68.237.45-0175
+  - 150-trojan-🇯🇵JP-13.231.189.62-0164
   type: url-test
   url: https://www.gstatic.com/generate_204
 - name: select
   proxies:
   - auto
-  - 01-shadowsocks-🇺🇸US-173.244.56.6-0113
-  - 02-vmess-🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
-  - 03-shadowsocks-🇺🇸US-🚀@VPNine1
-  - 04-shadowsocks-🇺🇸 Join Telegram:@Farah_VPN 🇺🇸
-  - 05-shadowsocks-🇨🇦CA-108.181.118.10-0102
-  - 06-vless-node
+  - 01-shadowsocks-🇺🇸US-108.181.0.177-0101
+  - 02-shadowsocks-🇨🇦CA-108.181.118.10-0102
+  - 03-vmess-🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
+  - 04-shadowsocks-EPODONIOS
+  - 05-shadowsocks-🇺🇸US-173.244.56.9-0107
+  - 06-shadowsocks-🇺🇸US-173.244.56.6-3876
   - 07-vless-⚡ b2n.ir/v2ray-configs | 249
-  - 08-shadowsocks-🇺🇸US-173.244.56.9-0107
-  - 09-shadowsocks-🇺🇸US-156.146.38.170-4074
-  - 10-shadowsocks-🇺🇸US-156.146.38.169-0095
-  - 11-shadowsocks-🇺🇸US-156.146.38.168-0098
-  - 12-shadowsocks-🇺🇸US-156.146.38.167-0099
+  - 08-vless-EPODONIOS
+  - 09-vless-⚡ b2n.ir/v2ray-configs | 681
+  - 10-shadowsocks-EPODONIOS
+  - 11-vless-美国 CloudFlare节点
+  - 12-shadowsocks-🇺🇸US-156.146.38.167-3995
   - 13-vless-⚡ b2n.ir/v2ray-configs | 516
-  - 14-vless-美国 CloudFlare节点
-  - 15-vmess-⚪🏳️_github.com/Ruk1ng001_54d00832
-  - 16-vless-美国 CloudFlare节点
-  - 17-vless-荷兰 V2CROSS.COM
-  - 18-shadowsocks-🇨🇦CA-149.22.95.183-0115
-  - 19-vless-美国 CloudFlare节点
-  - 20-vless-🇺🇸 418 - US - VLESS/REALITY/PBK/SID/VISI
-  - 21-vmess-🇺🇸 US 42
-  - 22-shadowsocks-🇺🇸US-37.19.198.243-4267
-  - 23-shadowsocks-🇺🇸US-37.19.198.244-0073
-  - 24-shadowsocks-🇺🇸US-37.19.198.160-0075
-  - 25-vless-美国 CloudFlare节点
-  - 26-shadowsocks-🇺🇸US-37.19.198.236-0145
-  - 27-trojan-🇺🇸US-44.251.239.102-0087
-  - 28-trojan-🇺🇸 US 27
-  - 29-trojan-🇺🇸 US 40
-  - 30-trojan-🇺🇸US-54.245.167.246-6043
-  - 31-trojan-🇺🇸 US 9
-  - 32-trojan-🇺🇸 US 38
-  - 33-trojan-🇺🇸 US 25
-  - 34-trojan-🇺🇸 US 37
-  - 35-trojan-🇺🇸 US 32
-  - 36-trojan-🇺🇸 US 26
-  - 37-trojan-🇺🇸 US 28
-  - 38-trojan-🇺🇸 美国 | USA
-  - 39-trojan-🇺🇸 US 7
-  - 40-trojan-🇺🇸 US 10
-  - 41-trojan-🇺🇸 US 34
-  - 42-trojan-🇺🇸 US 16
-  - 43-trojan-🇺🇸 美国 | USA 4
-  - 44-trojan-🇺🇸 US 41
-  - 45-trojan-🇺🇸 US 18
-  - 46-trojan-🏴‍☠️ 未知地区 | Unknown 3
-  - 47-trojan-🇺🇸 美国 | USA 2
-  - 48-vless-🇺🇸 140 - US - VLESS/REALITY/PBK/VISION/U
-  - 49-shadowsocks-🇨🇦CA-137.184.174.93-0078
-  - 50-shadowsocks-🇯🇵JP-149.22.87.240-0245
-  - 51-shadowsocks-🇯🇵JP-149.22.87.204-3716
-  - 52-shadowsocks-🇯🇵JP-149.22.87.241-0246
-  - 53-shadowsocks-EPODONIOS
-  - 54-shadowsocks-EPODONIOS
-  - 55-shadowsocks-🇳🇱NL-109.201.152.181-0104
-  - 56-shadowsocks-EPODONIOS
-  - 57-hysteria2- By EbraSha 🧨
-  - 58-vless-⚡ b2n.ir/v2ray-configs | 681
-  - 59-shadowsocks-🇬🇧GB-141.98.101.179-5919
-  - 60-shadowsocks-🇬🇧GB-141.98.101.181-5920
-  - 61-shadowsocks-🇰🇷KR-141.164.45.187-6113
-  - 62-shadowsocks-🇬🇧 GB | SS | @netfreedom0 1
-  - 63-shadowsocks-🇬🇧GB-141.98.101.178-5928
-  - 64-shadowsocks-EPODONIOS
-  - 65-vmess-🇯🇵JP-45.76.202.45-6112
+  - '14-vmess-Channel : @FreeConfigForYou🏴🏳'
+  - 15-shadowsocks-🇺🇸US-156.146.38.168-4139
+  - 16-shadowsocks-🇺🇸US-156.146.38.169-0095
+  - 17-vmess-⚪🏳️_github.com/Ruk1ng001_54d00832
+  - 18-vless-美国 CloudFlare节点
+  - 19-vless-⚡ b2n.ir/v2ray-configs | 762
+  - 20-vless-荷兰 V2CROSS.COM
+  - 21-vless-美国 CloudFlare节点
+  - 22-vless-🇺🇸 418 - US - VLESS/REALITY/PBK/SID/VISI
+  - 23-shadowsocks-🇨🇦CA-149.22.95.183-4005
+  - 24-vless-美国 CloudFlare节点
+  - 25-shadowsocks-🇺🇸US-37.19.198.244-0073
+  - 26-trojan-🇺🇸 US 8
+  - 27-trojan-🇺🇸 US 7
+  - 28-shadowsocks-🇺🇸US-37.19.198.160-0075
+  - 29-trojan-🇺🇸 US 26
+  - 30-shadowsocks-🇺🇸US-37.19.198.236-4101
+  - 31-trojan-🇺🇸 US 36
+  - 32-trojan-🇺🇸 US 35
+  - 33-shadowsocks-🇺🇸 US美国(mibei77.com 米贝节点分享)
+  - 34-trojan-🇺🇸 US 40
+  - 35-trojan-🇺🇸 US 34
+  - 36-trojan-🇺🇸 US 20
+  - 37-trojan-🇺🇸 US 9
+  - 38-trojan-🇺🇸 US 12
+  - 39-trojan-🇺🇸 美国 | USA
+  - 40-trojan-🇺🇸 US 28
+  - 41-trojan-🇺🇸 US 18
+  - 42-shadowsocks-🇺🇸US-37.19.198.243-4267
+  - 43-trojan-🇺🇸 US 30
+  - 44-trojan-🇺🇸 US 33
+  - 45-vmess-🇺🇸 US 42
+  - 46-trojan-🇺🇸 US 25
+  - 47-trojan-🇺🇸 US 16
+  - 48-trojan-🇺🇸 美国 | USA 4
+  - 49-trojan-🏴‍☠️ 未知地区 | Unknown 3
+  - 50-trojan-🇺🇸 美国 | USA 2
+  - 51-trojan-🇺🇸 US 41
+  - 52-vless-🇺🇸 140 - US - VLESS/REALITY/PBK/VISION/U
+  - 53-shadowsocks-🇨🇦CA-137.184.174.93-0078
+  - 54-shadowsocks-🇯🇵JP-149.22.87.204-0244
+  - 55-shadowsocks-🟠🇬🇧[🎬🤖📺🎭]_github.com/Ruk1ng001_2bf36e44
+  - 56-shadowsocks-🇯🇵JP-149.22.87.241-0246
+  - 57-shadowsocks-🇯🇵JP-149.22.87.240-0245
+  - 58-vless-美国 CloudFlare节点
+  - 59-shadowsocks-EPODONIOS
+  - 60-shadowsocks-🇪🇸ES-5.188.181.201-4034
+  - 61-shadowsocks-🇳🇱NL-109.201.152.181-0104
+  - 62-shadowsocks-🇳🇱NL-108.181.126.122-0180
+  - 63-shadowsocks-TEL:Father_vpn
+  - 64-hysteria2- By EbraSha 🔥
+  - 65-shadowsocks-EPODONIOS
   - 66-shadowsocks-🇰🇷KR-141.164.45.187-0232
-  - 67-vmess-未知21 2.1MB/s
-  - 68-trojan-🇯🇵JP-18.183.164.154-0151
-  - 69-trojan-🇯🇵 JP 17
-  - 70-trojan-🇯🇵JP-54.238.124.150-0135
-  - 71-trojan-🇯🇵JP-52.68.237.45-0175
-  - 72-trojan-🇯🇵 JP 9
-  - 73-trojan-🇯🇵 JP 11
-  - 74-trojan-🇯🇵JP-43.207.117.135-0155
-  - 75-trojan-🇯🇵JP-176.34.18.166-0134
-  - 76-trojan-🇯🇵JP-52.195.207.214-0166
-  - 77-shadowsocks-EPODONIOS
-  - 78-trojan-🇯🇵JP-52.194.192.245-0123
-  - 79-shadowsocks-EPODONIOS
-  - 80-trojan-🇯🇵JP-52.194.255.244-0117
-  - 81-trojan-🇯🇵JP-54.199.102.210-0157
-  - 82-trojan-🇯🇵 JP 15
-  - 83-trojan-🇯🇵JP-43.207.153.3-0133
-  - 84-trojan-🇯🇵JP-43.207.149.215-0512
-  - 85-trojan-🇯🇵JP-13.114.217.149-0144
-  - 86-trojan-🇯🇵 日本 | JPN 22
-  - 87-trojan-🇯🇵JP-54.199.79.137-0510
-  - 88-trojan-🇯🇵JP-13.231.189.62-0164
-  - 89-trojan-🇯🇵JP-54.250.235.241-0177
-  - 90-trojan-🇯🇵JP-54.248.166.163-0119
-  - 91-trojan-🇯🇵 JP 7
-  - 92-trojan-🇯🇵 JP 21
-  - 93-trojan-🇯🇵JP-3.112.149.206-0130
-  - 94-trojan-🇯🇵 日本 | JPN 5
-  - 95-trojan-🇯🇵JP-43.207.117.135-0163
-  - 96-trojan-🇯🇵 JP 20
-  - 97-trojan-🇯🇵 日本 | JPN
-  - 98-trojan-🇯🇵 日本 | JPN 15
-  - 99-trojan-🇯🇵JP-13.231.146.129-2315
-  - 100-trojan-🇯🇵JP-43.207.204.233-0121
-  - 101-trojan-🇯🇵JP-54.95.15.6-0417
-  - 102-trojan-🇯🇵 日本 | JPN 9
-  - 103-trojan-🇯🇵JP-18.176.53.202-0159
-  - 104-trojan-🇯🇵 日本 | JPN 10
-  - 105-trojan-🇯🇵JP-52.195.207.214-0153
-  - 106-trojan-🇯🇵JP-3.112.212.133-0176
-  - 107-trojan-🇯🇵 日本 | JPN 18
-  - 108-trojan-🇯🇵JP-35.72.9.75-0152
-  - 109-trojan-🇯🇵JP-43.207.210.229-0128
-  - 110-trojan-🇯🇵JP-13.230.239.115-0508
-  - 111-trojan-🇯🇵JP-52.195.215.200-0127
-  - 112-trojan-🇯🇵JP-18.183.224.87-0161
-  - 113-trojan-🇯🇵JP-54.168.247.156-0160
-  - 114-trojan-🇯🇵JP-18.176.60.79-0506
-  - 115-trojan-🇯🇵JP-52.199.23.158-0169
-  - 116-trojan-🇯🇵JP-35.77.85.144-0141
-  - 117-trojan-🇯🇵JP-54.238.160.68-0156
-  - 118-trojan-🇯🇵JP-18.183.220.94-0509
-  - 119-trojan-🇯🇵 日本 | JPN 3
-  - 120-vmess-JP 🇯🇵 | @Raydikalx | 4350
-  - 121-trojan-🇯🇵JP-52.198.192.193-5955
-  - 122-trojan-🇯🇵 日本 | JPN 23
-  - 123-trojan-🇯🇵JP-35.77.91.8-0165
-  - 124-trojan-🇯🇵 JP 2
-  - 125-trojan-🇯🇵JP-54.238.178.157-0507
-  - 126-trojan-🇯🇵JP-54.248.151.227-0518
-  - 127-trojan-🇯🇵 JP 13
-  - 128-trojan-🇯🇵 JP 3
-  - 129-trojan-🇯🇵JP-18.181.201.45-0122
-  - 130-trojan-🇯🇵 日本 | JPN 14
-  - 131-trojan-🇯🇵JP-13.112.1.163-0149
-  - 132-trojan-🇯🇵 日本 | JPN 17
-  - 133-trojan-🇯🇵 JP 24
-  - 134-trojan-🇯🇵JP-18.177.140.248-0142
-  - 135-trojan-🇯🇵 JP 25
-  - 136-trojan-🇯🇵JP-13.192.169.230-0421
-  - 137-trojan-🇯🇵 日本 | JPN 8
-  - 138-trojan-🇯🇵JP-52.197.108.120-0519
-  - 139-trojan-🇯🇵JP-3.112.231.253-0125
-  - 140-trojan-🇯🇵JP-54.249.164.14-0415
-  - 141-trojan-🇯🇵JP-18.183.215.94-0118
-  - 142-shadowsocks-🇰🇷KR-218.237.185.230-6114
-  - 143-trojan-🇯🇵JP-52.194.191.229-5953
-  - 144-trojan-🇯🇵JP-3.112.189.201-0140
-  - 145-trojan-🇯🇵JP-13.115.80.163-0120
-  - 146-trojan-🇯🇵JP-54.248.6.109-0137
-  - 147-trojan-🇯🇵JP-52.196.115.139-5951
-  - 148-trojan-🇯🇵JP-52.196.71.137-0158
-  - 149-trojan-🇯🇵JP-13.231.188.13-0139
-  - 150-trojan-🇯🇵JP-18.177.136.64-0136
+  - 67-shadowsocks-🇬🇧GB-141.98.101.181-5920
+  - 68-shadowsocks-EPODONIOS
+  - 69-shadowsocks-🇰🇷KR-141.164.45.187-6113
+  - 70-shadowsocks-🇬🇧 GB | SS | @netfreedom0 1
+  - 71-vmess-🇯🇵JP-45.76.202.45-6112
+  - 72-vmess-未知21 2.1MB/s
+  - 73-trojan-🇯🇵 JP 2
+  - 74-shadowsocks-🇬🇧 Join Telegram:@Farah_VPN 🇬🇧
+  - 75-trojan-🇯🇵JP-52.195.207.214-0166
+  - 76-trojan-🇯🇵JP-18.177.136.64-0136
+  - 77-trojan-🇯🇵JP-54.238.124.150-0135
+  - 78-trojan-🇯🇵 JP 13
+  - 79-trojan-🇯🇵JP-35.72.9.75-0152
+  - 80-trojan-🇯🇵JP-3.112.189.201-0140
+  - 81-trojan-🇯🇵JP-54.248.151.227-0518
+  - 82-trojan-🇯🇵 JP 12
+  - 83-trojan-🇯🇵 JP 9
+  - 84-trojan-🇯🇵JP-52.198.124.62-0174
+  - 85-trojan-🇯🇵JP-43.207.117.135-0155
+  - 86-trojan-🇯🇵JP-52.195.215.200-0127
+  - 87-trojan-🇯🇵JP-18.183.220.94-0509
+  - 88-trojan-🇯🇵JP-3.112.212.133-0176
+  - 89-trojan-🇯🇵 日本 | JPN 14
+  - 90-trojan-🇯🇵JP-43.207.153.3-0133
+  - 91-trojan-🇯🇵JP-52.197.223.110-0171
+  - 92-trojan-🇯🇵JP-43.206.235.148-0172
+  - 93-trojan-🇯🇵 JP 20
+  - 94-trojan-🇯🇵 JP 17
+  - 95-trojan-🇯🇵JP-52.199.23.158-0169
+  - 96-trojan-🇯🇵JP-18.181.211.197-2301
+  - 97-trojan-🇯🇵 日本 | JPN 15
+  - 98-trojan-🇯🇵 JP 26
+  - 99-trojan-🇯🇵 日本 | JPN 5
+  - 100-trojan-🇯🇵 JP 11
+  - 101-trojan-🇯🇵JP-52.198.88.225-0181
+  - 102-trojan-🇯🇵 JP 24
+  - 103-trojan-🇯🇵 JP 21
+  - 104-trojan-🇯🇵JP-35.72.9.75-0132
+  - 105-trojan-🇯🇵JP-52.197.108.120-0519
+  - 106-trojan-🇯🇵 日本 | JPN 19
+  - 107-trojan-🇯🇵JP-13.115.229.63-0150
+  - 108-trojan-🇯🇵JP-18.183.149.237-0173
+  - 109-trojan-🇯🇵JP-18.176.53.202-0159
+  - 110-trojan-🇯🇵JP-18.177.140.248-0142
+  - 111-trojan-🇯🇵JP-13.158.56.149-2310
+  - 112-trojan-🇯🇵JP-13.112.180.140-0170
+  - 113-trojan-🇯🇵JP-18.183.215.94-0118
+  - 114-trojan-🇯🇵JP-52.194.255.244-0117
+  - 115-trojan-🇯🇵JP-54.178.7.201-0179
+  - 116-trojan-🇯🇵 JP 7
+  - 117-trojan-🇯🇵JP-54.168.247.156-0160
+  - 118-trojan-🇯🇵JP-54.95.15.6-0417
+  - 119-trojan-🇯🇵JP-52.195.207.214-0153
+  - 120-trojan-🇯🇵JP-43.207.117.135-0163
+  - 121-trojan-🇯🇵JP-54.248.166.163-0119
+  - 122-trojan-🇯🇵JP-54.238.160.68-0156
+  - 123-trojan-🇯🇵JP-43.207.214.141-0408
+  - 124-trojan-🇯🇵JP-43.207.149.215-0512
+  - 125-trojan-🇯🇵JP-43.207.122.159-0154
+  - 126-trojan-🇯🇵JP-43.206.224.40-0146
+  - 127-trojan-🇯🇵JP-18.183.224.87-0161
+  - 128-trojan-🇯🇵 JP 10
+  - 129-trojan-🇯🇵 JP 14
+  - 130-trojan-🇯🇵 日本 | JPN 10
+  - 131-trojan-🇯🇵JP-52.198.192.193-5955
+  - 132-trojan-🇯🇵JP-35.77.85.144-0141
+  - 133-trojan-🇯🇵JP-13.192.169.230-0421
+  - 134-trojan-🇯🇵 JP 25
+  - 135-trojan-🇯🇵JP-13.230.252.28-0145
+  - 136-trojan-🇯🇵JP-57.181.37.50-2300
+  - 137-trojan-🇯🇵JP-52.194.192.245-0123
+  - 138-trojan-🇯🇵JP-43.207.145.254-0520
+  - 139-trojan-🇯🇵 JP 6
+  - 140-shadowsocks-🇰🇷KR-211.178.105.134-5989
+  - 141-trojan-🇯🇵JP-54.65.43.16-0124
+  - 142-trojan-🇯🇵JP-13.115.80.163-0120
+  - 143-trojan-🇯🇵JP-57.181.32.234-5886
+  - 144-trojan-🇯🇵JP-13.115.229.63-0131
+  - 145-trojan-🇯🇵JP-18.181.201.45-0122
+  - 146-trojan-🇯🇵 日本 | JPN 8
+  - 147-trojan-🇯🇵JP-13.231.146.129-2315
+  - 148-trojan-🇯🇵JP-54.249.164.14-0415
+  - 149-trojan-🇯🇵JP-52.68.237.45-0175
+  - 150-trojan-🇯🇵JP-13.231.189.62-0164
   type: select
 rules:
 - MATCH,select
