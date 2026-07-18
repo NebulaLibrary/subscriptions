@@ -1,4 +1,12 @@
-trojan://CF68213490@star-dodo.rooster465.autos:443?sni=star-dodo.rooster465.autos&type=tcp#%40SystemNebula
-trojan://CF68213490@free-hare.rooster465.autos:443?sni=free-hare.rooster465.autos&type=tcp#%40SystemNebula
-trojan://CF68213490@eternal-woodcock.rooster465.autos:443?sni=eternal-woodcock.rooster465.autos&type=tcp#%40SystemNebula
-trojan://NQ26071394@expert-muskrat.rooster465.autos:443?sni=expert-muskrat.rooster465.autos&type=tcp#%40SystemNebula
+trojan://NQ26071394@new-eagle.rooster465.autos:443?sni=new-eagle.rooster465.autos&type=tcp#%40SystemNebula
+trojan://CF68213490@musical-manatee.rooster465.autos:443?sni=musical-manatee.rooster465.autos&type=tcp#%40SystemNebula
+trojan://CF68213490@54.248.166.163:443?sni=sacred-shepherd.rooster465.autos&type=tcp#%40SystemNebula
+trojan://CF68213490@smashing-fawn.rooster465.autos:443?sni=smashing-fawn.rooster465.autos&type=tcp#%40SystemNebula
+trojan://NQ26071394@working-tomcat.rooster465.autos:443?sni=working-tomcat.rooster465.autos&type=tcp#%40SystemNebula
+trojan://CF68213490@eminent-panther.rooster465.autos:443?sni=eminent-panther.rooster465.autos&type=tcp#%40SystemNebula
+trojan://HW85960347@proper-mouse.rooster465.autos:443?allowInsecure=1&sni=proper-mouse.rooster465.autos&type=tcp#%40SystemNebula
+trojan://CF68213490@eternal-perch.rooster465.autos:443?sni=eternal-perch.rooster465.autos&type=tcp#%40SystemNebula
+trojan://CF68213490@sacred-shepherd.rooster465.autos:443?sni=sacred-shepherd.rooster465.autos&type=tcp#%40SystemNebula
+trojan://NQ26071394@alert-wren.rooster465.autos:443?sni=alert-wren.rooster465.autos&type=tcp#%40SystemNebula
+trojan://CF68213490@star-cheetah.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://NQ26071394@stunning-mastodon.rooster465.autos:443?sni=stunning-mastodon.rooster465.autos&type=tcp#%40SystemNebula
