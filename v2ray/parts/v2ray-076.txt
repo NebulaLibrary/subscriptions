@@ -1,6 +1,0 @@
-trojan://NQ26071394@prime-quail.rooster465.autos:443?sni=prime-quail.rooster465.autos&type=tcp#%40SystemNebula
-trojan://NQ26071394@infinite-killdeer.rooster465.autos:443?sni=infinite-killdeer.rooster465.autos&type=tcp#%40SystemNebula
-trojan://CF68213490@skilled-lioness.rooster465.autos:443?sni=skilled-lioness.rooster465.autos&type=tcp#%40SystemNebula
-trojan://CF68213490@live-drake.rooster465.autos:443?sni=live-drake.rooster465.autos&type=tcp#%40SystemNebula
-trojan://NQ26071394@better-molly.rooster465.autos:443?sni=better-molly.rooster465.autos&type=tcp#%40SystemNebula
-trojan://CF68213490@nearby-egret.rooster465.autos:443?sni=nearby-egret.rooster465.autos&type=tcp#%40SystemNebula
