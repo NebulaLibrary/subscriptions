@@ -1,8 +1,0 @@
-trojan://CF68213490@relevant-oryx.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://CF68213490@evolving-platypus.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://CF68213490@13.251.115.17:443?sni=intimate-moray.rooster465.autos&type=tcp#%40SystemNebula
-trojan://CF68213490@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&type=tcp#%40SystemNebula
-trojan://CF68213490@powerful-troll.rooster465.autos:443?sni=powerful-troll.rooster465.autos&type=tcp#%40SystemNebula
-trojan://CF68213490@immense-eagle.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://CF68213490@star-hagfish.rooster465.autos:443?sni=star-hagfish.rooster465.autos&type=tcp#%40SystemNebula
-trojan://CF68213490@relevant-oryx.rooster465.autos:443?sni=relevant-oryx.rooster465.autos&type=tcp#%40SystemNebula
