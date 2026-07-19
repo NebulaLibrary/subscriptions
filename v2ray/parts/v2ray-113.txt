@@ -1,0 +1,6 @@
+trojan://humanity@188.114.98.0:443?sni=www.multiplydose.com&type=ws#%40SystemNebula
+trojan://CF68213490@evolving-platypus.rooster465.autos:443?sni=evolving-platypus.rooster465.autos&type=tcp#%40SystemNebula
+trojan://CF68213490@powerful-troll.rooster465.autos:443?sni=powerful-troll.rooster465.autos&type=tcp#%40SystemNebula
+trojan://CF68213490@18.141.239.172:443?sni=star-hagfish.rooster465.autos&type=tcp#%40SystemNebula
+trojan://NQ26071394@allowed-moose.rooster465.autos:443?sni=allowed-moose.rooster465.autos&type=tcp#%40SystemNebula
+trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?sni=grape-power-sg.roxa.org&type=tcp#%40SystemNebula
