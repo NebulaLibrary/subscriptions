@@ -3,11 +3,14 @@ trojan://CF68213490@brief-warthog.rooster465.autos:443?allowInsecure=1&sni=brief
 trojan://CF68213490@summary-lemming.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
 trojan://CF68213490@3.38.213.204:443?sni=allowing-halibut.rooster465.autos&type=tcp#%40SystemNebula
 trojan://CF68213490@sharp-scorpion.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://CF68213490@bright-cicada.rooster465.autos:443?sni=bright-cicada.rooster465.autos&type=tcp#%40SystemNebula
+trojan://CF68213490@internal-krill.rooster465.autos:443?sni=internal-krill.rooster465.autos&type=tcp#%40SystemNebula
 trojan://CF68213490@54.255.251.6:443?sni=grateful-owl.rooster465.autos&type=tcp#%40SystemNebula
 trojan://CF68213490@54.169.255.31:443?sni=gentle-raptor.rooster465.autos&type=tcp#%40SystemNebula
 trojan://CF68213490@intimate-moray.rooster465.autos:443?type=tcp#%40SystemNebula
 trojan://CF68213490@powerful-troll.rooster465.autos:443?allowInsecure=1&sni=powerful-troll.rooster465.autos&type=tcp#%40SystemNebula
 trojan://CF68213490@3.38.213.204:443?sni=allowing-halibut.rooster465.autos&type=tcp#%40SystemNebula
+trojan://CF68213490@prime-buzzard.rooster465.autos:443?sni=prime-buzzard.rooster465.autos&type=tcp#%40SystemNebula
 trojan://humanity@www.multiplydose.com:443?allowInsecure=1&type=ws#%40SystemNebula
 trojan://CF68213490@star-moray.rooster465.autos:443?sni=star-moray.rooster465.autos&type=tcp#%40SystemNebula
 trojan://CF68213490@saved-tuna.rooster465.autos:443?sni=saved-tuna.rooster465.autos&type=tcp#%40SystemNebula
@@ -19,10 +22,9 @@ trojan://CF68213490@real-cardinal.rooster465.autos:443?sni=real-cardinal.rooster
 trojan://CF68213490@prime-buzzard.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
 trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?allowInsecure=1&sni=139.59.238.97&type=tcp#%40SystemNebula
 trojan://NQ26071394@alert-titmouse.rooster465.autos:443?allowInsecure=1&sni=alert-titmouse.rooster465.autos&type=tcp#%40SystemNebula
-trojan://CF68213490@relevant-oryx.rooster465.autos:443?sni=relevant-oryx.rooster465.autos&type=tcp#%40SystemNebula
 trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?sni=grape-power-sg.roxa.org&type=tcp#%40SystemNebula
 trojan://humanity@188.114.98.0:443?sni=www.multiplydose.com&type=ws#%40SystemNebula
 trojan://CF68213490@evolving-platypus.rooster465.autos:443?sni=evolving-platypus.rooster465.autos&type=tcp#%40SystemNebula
+trojan://CF68213490@powerful-troll.rooster465.autos:443?sni=powerful-troll.rooster465.autos&type=tcp#%40SystemNebula
 trojan://CF68213490@18.141.239.172:443?sni=star-hagfish.rooster465.autos&type=tcp#%40SystemNebula
 trojan://NQ26071394@allowed-moose.rooster465.autos:443?sni=allowed-moose.rooster465.autos&type=tcp#%40SystemNebula
-trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?sni=grape-power-sg.roxa.org&type=tcp#%40SystemNebula
