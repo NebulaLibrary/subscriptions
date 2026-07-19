@@ -1,3 +1,7 @@
+vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@89.105.220.228:443?encryption=none&fp=firefox&pbk=Lij6_wEY1WQ8p9wjOyErAAmY8ce4oZmEO4QtYXH-WiU&security=reality&serviceName=node.v1.MetricsService&sid=b9707fe704eb1415&sni=get.oneokgames.com&type=grpc#%40SystemNebula
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@154.197.64.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=cf11.evan00.dpdns.org&type=ws#%40SystemNebula
+vless://f040b49a-14d3-4b83-af82-1f84ec7317c2@147.45.136.213:40443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1XGOxBopp223HFaTlswL3QE_1KW3WLgEbcHMA5cX9iM&security=reality&sid=80ba&sni=deepl.com&type=tcp#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqam1qZHZua2Z5OWFsOGpi@mmd.radanjami.org:37309#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqdVRjenVDSTlMYk04TVV3@98.71.82.228:443#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#%40SystemNebula
@@ -16,6 +20,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%40SystemNebula
+trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:23780?fp=chrome&mode=gun&sni=chi.yahoo.com&spx=/&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&type=grpc&security=reality#%40SystemNebula
 trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:23780?fp=chrome&sni=chi.yahoo.com&type=grpc&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&security=reality&mode=gun&spx=/#%40SystemNebula
 trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:23780?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#%40SystemNebula
 trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#%40SystemNebula
@@ -23,8 +28,3 @@ trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:3626
 trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:61383?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#%40SystemNebula
 trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:2711?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/zDBshpA8sZgGge5&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=a68956#%40SystemNebula
 trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:3000?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/apqq2TlWdX215hg&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=63#%40SystemNebula
-trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:4818?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/0c0fz1NdfScP3Lq&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=162666c3acca7a#%40SystemNebula
-trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:5272?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/hGIZOTj80yD8GPJ&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=f4b34559dd56#%40SystemNebula
-trojan://-----BanV2ray----@edededededededededededede-66.poki-pakipon.ir:16267?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#%40SystemNebula
-trojan://-----BanV2ray----@edededededededededededede-66.poki-pakipon.ir:62816?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=chrome&spx=/&type=grpc&sni=chi.yahoo.com#%40SystemNebula
-trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#%40SystemNebula

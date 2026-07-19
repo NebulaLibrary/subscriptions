@@ -1,1 +1,5 @@
-trojan://CF68213490@relevant-oryx.rooster465.autos:443?allowInsecure=1&sni=relevant-oryx.rooster465.autos&type=tcp#%40SystemNebula
+trojan://CF68213490@prime-buzzard.rooster465.autos:443?sni=prime-buzzard.rooster465.autos&type=tcp#%40SystemNebula
+trojan://CF68213490@summary-lemming.rooster465.autos:443?sni=summary-lemming.rooster465.autos&type=tcp#%40SystemNebula
+trojan://CF68213490@lucky-chimp.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
+trojan://CF68213490@18.183.149.237:443?sni=loyal-molly.rooster465.autos&type=tcp#%40SystemNebula
+trojan://humanity@104.16.174.37:443?allowInsecure=1&sni=www.ignitelimit.com&type=ws#%40SystemNebula

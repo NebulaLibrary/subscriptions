@@ -1,3 +1,7 @@
+vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwgImFkZCI6ICIxNzguMTI4LjIzNy42IiwgInBvcnQiOiAiMzM4OSIsICJpZCI6ICI5YzA1MGE4Ni1kNjEyLTQ4ZjEtZWMzMi1lNTczZGYwOGExYjciLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogImh0dHAiLCAiaG9zdCI6ICJpbnRlcm5ldC5saWZlLmNvbS5ieSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICIyNSJ9#%40SystemNebula
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.110.9:22222?encryption=none&security=none&type=tcp#%40SystemNebula
+ss://bm9uZTpiYWFjYWNiLWFiYWMtYWFjYi1kYWNiLWJiYWFjYWJjYmNhYw==@127.0.0.1:8080#%40SystemNebula
+trojan://tg-dns68@162.159.152.133:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%40SystemNebula
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.110.9:22223?encryption=none&security=none&type=tcp#%40SystemNebula
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=%2Frsedgws&security=tls&encryption=none&insecure=1&host=shegeftihaaa.net&type=ws&allowInsecure=1&sni=shegeftihaaa.net#%40SystemNebula
 vless://1957c8bf-9895-6623-8944-6399b3da150c@diyakoteam-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=diyakoteam-production.up.railway.app&path=/ws/1957c8bf-9895-6623-8944-6399b3da150c&sni=diyakoteam-production.up.railway.app&fp=android&alpn=http/1.1#%40SystemNebula
@@ -24,7 +28,3 @@ trojan://-----------BanV2ray-----------@uupupupuppupupupuuppupupupupuup-11.poki-
 trojan://-----------BanV2ray-----------@uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir:52662?mode=gun&security=reality&pbk=6PX0SCkt6TANowjz80Ugiv4cSg0vF8g0mVt4WbyIGhI&fp=firefox&spx=%2F185c45c838cb9ee&type=grpc&sni=chi.yahoo.com&sid=c4c98f8a8b98#%40SystemNebula
 trojan://-----------BanV2ray-----------@uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir:28998?mode=gun&security=reality&pbk=6PX0SCkt6TANowjz80Ugiv4cSg0vF8g0mVt4WbyIGhI&fp=firefox&spx=%2F185c45c838cb9ee&type=grpc&sni=chi.yahoo.com&sid=c5#%40SystemNebula
 vless://783e3a33-7aa3-402a-95e4-e863ddaca78e@fi.sv.temas-bor.ir:22010?security=reality&type=tcp&headerType=&path=&host=&sni=login.yahoo.com&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=%2F#%40SystemNebula
-vless://9d9686d3-dcde-431b-a14a-cb32db6c3e32@91.224.74.21:34634?encryption=none&host=play.google.com&path=%2F&security=none&type=ws#%40SystemNebula
-trojan://-----------BanV2ray-----------@uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir:47375?mode=gun&security=reality&pbk=6PX0SCkt6TANowjz80Ugiv4cSg0vF8g0mVt4WbyIGhI&fp=firefox&spx=%2F185c45c838cb9ee&type=grpc&sni=chi.yahoo.com&sid=05626eef4c#%40SystemNebula
-vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@nexigen.pro:443?path=%2Fapi-emad&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=emad.babyoda.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=emad.babyoda.qzz.io#%40SystemNebula
-trojan://-----------BanV2ray-----------@uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir:47154?mode=gun&security=reality&pbk=6PX0SCkt6TANowjz80Ugiv4cSg0vF8g0mVt4WbyIGhI&fp=firefox&spx=%2F185c45c838cb9ee&type=grpc&sni=chi.yahoo.com&sid=c5#%40SystemNebula
