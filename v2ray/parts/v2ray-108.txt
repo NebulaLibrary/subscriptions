@@ -1,6 +1,0 @@
-trojan://CF68213490@13.251.115.17:443?sni=intimate-moray.rooster465.autos&type=tcp#%40SystemNebula
-trojan://CF68213490@logical-koala.rooster465.autos:443?sni=logical-koala.rooster465.autos&type=tcp#%40SystemNebula
-trojan://CF68213490@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&type=tcp#%40SystemNebula
-trojan://CF68213490@internal-krill.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
-trojan://CF68213490@47.129.229.87:443?sni=brief-warthog.rooster465.autos&type=tcp#%40SystemNebula
-trojan://CF68213490@vast-werewolf.rooster465.autos:443?sni=vast-werewolf.rooster465.autos&type=tcp#%40SystemNebula
