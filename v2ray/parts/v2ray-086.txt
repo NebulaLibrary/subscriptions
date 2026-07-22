@@ -1,1 +1,0 @@
-trojan://KV63147582@popular-meerkat.rooster465.autos:443?sni=popular-meerkat.rooster465.autos&type=tcp#%40SystemNebula
