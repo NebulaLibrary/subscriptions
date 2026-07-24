@@ -1,0 +1,10 @@
+trojan://HW85960347@firm-squid.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://CF68213490@polite-coyote.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
+trojan://KV63147582@52.43.195.42:443?sni=winning-manatee.rooster465.autos&type=tcp#%40SystemNebula
+trojan://XG59623478@possible-pup.rooster465.autos:443?allowInsecure=1&sni=possible-pup.rooster465.autos&type=tcp#%40SystemNebula
+trojan://NQ26071394@learning-fawn.rooster465.autos:443?sni=learning-fawn.rooster465.autos&type=tcp#%40SystemNebula
+trojan://KV63147582@35.89.158.133:443?sni=popular-meerkat.rooster465.autos&type=tcp#%40SystemNebula
+trojan://KV63147582@popular-meerkat.rooster465.autos:443?sni=popular-meerkat.rooster465.autos&type=tcp#%40SystemNebula
+trojan://KV63147582@35.89.158.133:443?sni=popular-meerkat.rooster465.autos&type=tcp#%40SystemNebula
+trojan://OD90375861@54.184.22.123:443?sni=nearby-muskrat.rooster465.autos&type=tcp#%40SystemNebula
+trojan://KV63147582@popular-meerkat.rooster465.autos:443?sni=popular-meerkat.rooster465.autos&type=tcp#%40SystemNebula
