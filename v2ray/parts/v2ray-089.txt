@@ -1,0 +1,2 @@
+trojan://FC60532879@stirred-sunbeam.rooster465.autos:443?sni=stirred-sunbeam.rooster465.autos&type=tcp#%40SystemNebula
+trojan://NQ26071394@powerful-squid.rooster465.autos:443?sni=powerful-squid.rooster465.autos&type=tcp#%40SystemNebula
