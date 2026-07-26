@@ -25,6 +25,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@92.112.126.90:443#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:8080#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#%40SystemNebula
-vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@144.31.14.168:25060?path=%2Fxray&security=none&encryption=none&type=ws#%40SystemNebula
-vless://8755c911-f14a-4d4e-b933-882b4acb0bed@85.133.202.219:2626?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=hBTi8-ZyCqFGio30s5fekBrPM9rUZmuIxnfWEAZRZE4&sid=b9&spx=%2F&type=grpc#%40SystemNebula
-vless://f2e80e46-1f66-44d2-8905-e79cd083c6cd@104.26.15.16:8880?security=none&type=httpupgrade&host=unlimiteddev-vpn.unlimiteddev.Community.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev#%40SystemNebula
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.38.252:22223?encryption=none&security=none&type=tcp&headerType=none#%40SystemNebula
+vless://a54c1ab6-0547-4533-b949-dd2f30a7a08c@104.21.94.168:8080?type=httpupgrade&host=join-to.vmessorg.Community.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080#%40SystemNebula
+ss://bm9uZTpjYWJjYmFhLWJhYWMtY2FiYS1iZGNhLWFiY2FiY2NjYWJhYg==@127.0.0.1:1080#%40SystemNebula
