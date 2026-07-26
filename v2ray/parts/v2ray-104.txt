@@ -1,10 +1,16 @@
-trojan://IQ68037294@select-marmoset.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://IQ68037294@wealthy-bengal.rooster465.autos:443?sni=wealthy-bengal.rooster465.autos&type=tcp#%40SystemNebula
+trojan://IQ68037294@free-tuna.rooster465.autos:443?sni=free-tuna.rooster465.autos&type=tcp#%40SystemNebula
+trojan://WG39087154@proud-pheasant.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://IQ68037294@82.117.226.72:443?sni=flowing-gobbler.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FC60532879@harmless-imp.rooster465.autos:443?sni=harmless-imp.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FC60532879@absolute-boxer.rooster465.autos:443?sni=absolute-boxer.rooster465.autos&type=tcp#%40SystemNebula
 trojan://humanity@199.181.197.169:443?sni=www.calmloud.com&type=ws#%40SystemNebula
 trojan://IQ68037294@62.112.222.60:443?sni=dear-ferret.rooster465.autos&type=tcp#%40SystemNebula
 trojan://IQ68037294@stirred-sunbeam.rooster465.autos:443?sni=stirred-sunbeam.rooster465.autos&type=tcp#%40SystemNebula
 trojan://UZ15382649@15.188.75.92:443?sni=moral-dolphin.rooster465.autos&type=tcp#%40SystemNebula
 trojan://WG39087154@whole-perch.rooster465.autos:443?sni=whole-perch.rooster465.autos&type=tcp#%40SystemNebula
 trojan://WG39087154@grown-rhino.rooster465.autos:443?sni=grown-rhino.rooster465.autos&type=tcp#%40SystemNebula
+trojan://KV63147582@62.112.222.46:443?sni=legible-possum.rooster465.autos&type=tcp#%40SystemNebula
 trojan://IQ68037294@healthy-ewe.rooster465.autos:443?sni=healthy-ewe.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FC60532879@stirred-sunbeam.rooster465.autos:443?sni=stirred-sunbeam.rooster465.autos&type=tcp#%40SystemNebula
 trojan://WG39087154@outgoing-cockatoo.rooster465.autos:443?sni=outgoing-cockatoo.rooster465.autos&type=tcp#%40SystemNebula
@@ -22,9 +28,3 @@ trojan://IQ68037294@growing-tuna.rooster465.autos:443?sni=growing-tuna.rooster46
 trojan://IQ68037294@13.39.249.40:443?sni=one-quail.rooster465.autos&type=tcp#%40SystemNebula
 trojan://IQ68037294@109.61.127.121:443?sni=closing-sailfish.rooster465.autos&type=tcp#%40SystemNebula
 trojan://WG39087154@healthy-ewe.rooster465.autos:443?sni=healthy-ewe.rooster465.autos&type=tcp#%40SystemNebula
-trojan://IQ68037294@main-dragon.rooster465.autos:443?sni=main-dragon.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FC60532879@picked-hippo.rooster465.autos:443?sni=picked-hippo.rooster465.autos&type=tcp#%40SystemNebula
-trojan://IQ68037294@109.61.127.151:443?sni=picked-hippo.rooster465.autos&type=tcp#%40SystemNebula
-trojan://NQ26071394@62.112.222.177:443?sni=kind-unicorn.rooster465.autos&type=tcp#%40SystemNebula
-trojan://WG39087154@109.61.127.127:443?sni=direct-goose.rooster465.autos&type=tcp#%40SystemNebula
-trojan://WG39087154@89.39.70.159:443?sni=upward-hedgehog.rooster465.autos&type=tcp#%40SystemNebula

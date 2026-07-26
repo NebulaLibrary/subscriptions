@@ -1,11 +1,9 @@
+trojan://IQ68037294@polite-martin.rooster465.autos:443?sni=polite-martin.rooster465.autos&type=tcp#%40SystemNebula
 trojan://WG39087154@95.85.94.112:443?sni=sweeping-parakeet.rooster465.autos&type=tcp#%40SystemNebula
-trojan://KV63147582@62.112.222.46:443?sni=legible-possum.rooster465.autos&type=tcp#%40SystemNebula
 trojan://IQ68037294@picked-hippo.rooster465.autos:443?sni=picked-hippo.rooster465.autos&type=tcp#%40SystemNebula
 trojan://IQ68037294@whole-perch.rooster465.autos:443?sni=whole-perch.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PD07395842@enough-basilisk.rooster465.autos:443?sni=enough-basilisk.rooster465.autos&type=tcp#%40SystemNebula
 trojan://WG39087154@legible-possum.rooster465.autos:443?sni=legible-possum.rooster465.autos&type=tcp#%40SystemNebula
-trojan://KV63147582@62.112.222.46:443?sni=legible-possum.rooster465.autos&type=tcp#%40SystemNebula
-trojan://IQ68037294@quick-tiger.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
 trojan://IQ68037294@accurate-drake.rooster465.autos:443?sni=accurate-drake.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FC60532879@ideal-robin.rooster465.autos:443?sni=ideal-robin.rooster465.autos&type=tcp#%40SystemNebula
 trojan://WG39087154@89.39.70.49:443?sni=eager-louse.rooster465.autos&type=tcp#%40SystemNebula
@@ -18,6 +16,7 @@ trojan://FC60532879@exotic-chicken.rooster465.autos:443?sni=exotic-chicken.roost
 trojan://IQ68037294@109.61.127.43:443?sni=shining-haddock.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FC60532879@kind-unicorn.rooster465.autos:443?sni=kind-unicorn.rooster465.autos&type=tcp#%40SystemNebula
 trojan://IQ68037294@109.61.127.24:443?sni=artistic-pigeon.rooster465.autos&type=tcp#%40SystemNebula
+trojan://IQ68037294@62.112.222.60:443?sni=dear-ferret.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PD07395842@35.181.65.111:443?sni=ready-kangaroo.rooster465.autos&type=tcp#%40SystemNebula
 trojan://IQ68037294@82.117.226.47:443?sni=growing-tuna.rooster465.autos&type=tcp#%40SystemNebula
 trojan://humanity@104.18.9.83:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
@@ -28,3 +27,4 @@ trojan://NQ26071394@ready-kangaroo.rooster465.autos:443?type=tcp#%40SystemNebula
 trojan://KV63147582@legible-possum.rooster465.autos:443?allowInsecure=1&sni=legible-possum.rooster465.autos&type=tcp#%40SystemNebula
 trojan://KV63147582@legible-possum.rooster465.autos:443?sni=legible-possum.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FC60532879@true-pony.rooster465.autos:443?sni=true-pony.rooster465.autos&type=tcp#%40SystemNebula
+trojan://NQ26071394@62.112.222.177:443?sni=kind-unicorn.rooster465.autos&type=tcp#%40SystemNebula
