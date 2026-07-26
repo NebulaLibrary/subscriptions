@@ -1,0 +1,8 @@
+trojan://ON38567014@smiling-ray.rooster465.autos:443?sni=smiling-ray.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FC60532879@classic-pug.rooster465.autos:443?sni=classic-pug.rooster465.autos&type=tcp#%40SystemNebula
+trojan://IQ68037294@patient-gannet.rooster465.autos:443?sni=patient-gannet.rooster465.autos&type=tcp#%40SystemNebula
+trojan://OD90375861@ideal-robin.rooster465.autos:443?sni=ideal-robin.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FC60532879@ideal-robin.rooster465.autos:443?sni=ideal-robin.rooster465.autos&type=tcp#%40SystemNebula
+trojan://CF68213490@62.112.222.151:443?sni=emerging-weevil.rooster465.autos&type=tcp#%40SystemNebula
+trojan://NQ26071394@kind-unicorn.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
+trojan://KV63147582@more-trout.rooster465.autos:443?allowInsecure=1&sni=more-trout.rooster465.autos&type=tcp#%40SystemNebula
