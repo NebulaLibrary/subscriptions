@@ -1,9 +1,0 @@
-trojan://FC60532879@fleet-hawk.rooster465.autos:443?sni=fleet-hawk.rooster465.autos&type=tcp#%40SystemNebula
-trojan://XG59623478@82.117.225.216:443?sni=concise-buck.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PD07395842@pro-crane.rooster465.autos:443?sni=pro-crane.rooster465.autos&type=tcp#%40SystemNebula
-trojan://IQ68037294@82.117.226.129:443?sni=absolute-boxer.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FC60532879@109.61.127.43:443?sni=shining-haddock.rooster465.autos&type=tcp#%40SystemNebula
-trojan://IQ68037294@82.117.226.221:443?sni=accurate-drake.rooster465.autos&type=tcp#%40SystemNebula
-trojan://IQ68037294@109.61.127.34:443?sni=harmless-imp.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FC60532879@classic-pug.rooster465.autos:443?sni=classic-pug.rooster465.autos&type=tcp#%40SystemNebula
-trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
