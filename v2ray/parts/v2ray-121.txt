@@ -1,0 +1,1 @@
+trojan://IQ68037294@fair-reptile.rooster465.autos:443?sni=fair-reptile.rooster465.autos&type=tcp#%40SystemNebula
