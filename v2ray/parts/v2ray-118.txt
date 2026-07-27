@@ -1,0 +1,15 @@
+trojan://IQ68037294@polite-martin.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://IQ68037294@dear-ferret.rooster465.autos:443?sni=dear-ferret.rooster465.autos&type=tcp#%40SystemNebula
+trojan://NQ26071394@lucky-marmot.rooster465.autos:443?sni=lucky-marmot.rooster465.autos&type=tcp#%40SystemNebula
+trojan://KV63147582@62.112.222.212:443?sni=more-trout.rooster465.autos&type=tcp#%40SystemNebula
+trojan://IQ68037294@absolute-boxer.rooster465.autos:443?sni=absolute-boxer.rooster465.autos&type=tcp#%40SystemNebula
+trojan://WG39087154@upright-hamster.rooster465.autos:443?sni=upright-hamster.rooster465.autos&type=tcp#%40SystemNebula
+trojan://IQ68037294@62.112.222.60:443?sni=dear-ferret.rooster465.autos&type=tcp#%40SystemNebula
+trojan://humanity@188.114.96.3:443?sni=www.calmloud.com&type=ws#%40SystemNebula
+trojan://PD07395842@strong-haddock.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://humanity@188.114.97.3:443?sni=www.calmloud.com&type=ws#%40SystemNebula
+trojan://IQ68037294@select-marmoset.rooster465.autos:443?allowInsecure=1&sni=select-marmoset.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FC60532879@82.117.226.45:443?sni=right-seahorse.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FC60532879@picked-hippo.rooster465.autos:443?sni=picked-hippo.rooster465.autos&type=tcp#%40SystemNebula
+trojan://WG39087154@emerging-weevil.rooster465.autos:443?sni=emerging-weevil.rooster465.autos&type=tcp#%40SystemNebula
+trojan://IQ68037294@95.85.94.17:443?sni=major-duckling.rooster465.autos&type=tcp#%40SystemNebula
