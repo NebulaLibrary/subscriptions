@@ -1,1 +1,0 @@
-trojan://WG39087154@emerging-weevil.rooster465.autos:443?sni=emerging-weevil.rooster465.autos&type=tcp#%40SystemNebula
