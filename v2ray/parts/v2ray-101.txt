@@ -1,0 +1,5 @@
+trojan://humanity@141.101.90.101:443?allowInsecure=1&sni=www.ignitelimit.com&type=ws#%40SystemNebula
+trojan://humanity@www.ignitelimit.com:443?sni=www.ignitelimit.com&type=ws#%40SystemNebula
+trojan://humanity@104.18.152.230:443?sni=www.ignitelimit.com&type=ws#%40SystemNebula
+trojan://humanity@188.114.97.6:443?sni=www.ignitelimit.com&type=ws#%40SystemNebula
+trojan://humanity@www.creationlong.org:443?sni=www.creationlong.org&type=ws#%40SystemNebula
