@@ -1,4 +1,3 @@
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?sni=hk.catxstar.com&type=tcp#%40SystemNebula
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@rr1.tube-cat.com:9450?allowInsecure=1&type=tcp#%40SystemNebula
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&type=tcp#%40SystemNebula
 trojan://humanity@45.130.125.75:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40SystemNebula
@@ -6,8 +5,7 @@ trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allo
 trojan://humanity@165.215.250.14:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40SystemNebula
 trojan://humanity@104.19.229.21:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40SystemNebula
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&type=tcp#%40SystemNebula
-trojan://humanity@sourceforge.net:443?allowInsecure=1&sni=www.calmloud.com&type=ws#%40SystemNebula
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&type=tcp#%40SystemNebula
+trojan://humanity@172.64.152.23:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&sni=de.catxstar.com&type=tcp#%40SystemNebula
 trojan://humanity@www.calmlunch.com:443?type=ws#%40SystemNebula
 trojan://humanity@172.64.152.23:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
@@ -28,3 +26,5 @@ trojan://humanity@104.19.229.21:443?sni=www.calmlunch.com&type=ws#%40SystemNebul
 trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@rr1.tube-cat.com:9450?allowInsecure=1&sni=r.kr1.cat.bilibili.com&type=tcp#%40SystemNebula
 trojan://humanity@104.18.32.47:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40SystemNebula
+trojan://humanity@104.18.8.83:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40SystemNebula
+trojan://humanity@45.130.125.76:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40SystemNebula
