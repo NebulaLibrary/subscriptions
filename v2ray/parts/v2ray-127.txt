@@ -1,6 +1,3 @@
-vless://2a77a470-315c-493d-b690-59b814a804cb@178.83.226.55:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#%40SystemNebula
-vless://2a77a470-315c-493d-b690-59b814a804cb@178.83.226.55:443?encryption=none&type=tcp&security=reality&headerType=none&sni=sellflow.org&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#%40SystemNebula
-vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.4:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=BIA_TELEGRAM?=@ShadowFlux2#%40SystemNebula
 vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.4:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=BIA_TELEGRAM?=@VPNine1#%40SystemNebula
 vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.4:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=BIA_TELEGRAM?=@soskeynets#%40SystemNebula
 vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.6:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=abuse.sellflow.org#%40SystemNebula
@@ -11,10 +8,13 @@ vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&
 vless://2c9af5d8-8e1c-40e7-8b6b-c200fc5488e8@199.232.78.159:80?type=xhttp&encryption=none&path=/xhttp&host=kabotar.global.ssl.fastly.net&mode=auto&x_padding_bytes=0&extra={"xPaddingBytes":"0"}&security=none#%40SystemNebula
 vless://2cac35d7-ba99-4e26-a890-c138e17a8cf5@DE.nanvaiiisaeed.ir:443?mode=gun&security=reality&encryption=none&pbk=daWw9qkHpEQpAkzkfMB00XAax4ljuXShVm0GfHQwVG8&fp=chrome&type=grpc&sni=DE.nanvaiiisaeed.ir&sid=190d32b118caf07f#%40SystemNebula
 vless://2cca7ee5-a773-4d9a-ac62-4a79722d15c3@33fkm.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%40SystemNebula
+vless://2cca7ee5-a773-4d9a-ac62-4a79722d15c3@soskeynets.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%40SystemNebula
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.170.166.250:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#%40SystemNebula
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.170.166.250:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#%40SystemNebula
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.152.44.250:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#%40SystemNebula
 vless://2d08094d-cc4e-4fe6-9561-44d4a2b590e2@62.60.148.98:49152?encryption=none&security=reality&sni=www.nvidia.com&fp=chrome&pbk=m3w4rxCNp4Icti5jpACBXimD4UytaUP_mGKAnfwvoHI&sid=f9ca6756&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#%40SystemNebula
 vless://2d4db7ce-1a16-281d-437f-77cea0bac2fa@69.46.46.80:443?path=/ws/2d4db7ce-1a16-281d-437f-77cea0bac2fa&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-4104.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-4104.up.railway.app#%40SystemNebula
 vless://2d54d7ee-879a-4a97-8512-1e6a70b17ca7@z.cjclub.ir:2052?encryption=none&security=none&type=ws&path=/#%40SystemNebula
-vless://2db92da9-8ffb-491b-81d6-6e8d50876020@www.speedtest.net:443?path=/eyJqdW5rIjoiWlFRWlMwRDdLakVqMyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=bpb-01c11365.hjdbcvdbkv.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=bpB-01c11365.HJdBcvDbKV.WORKErS.dEV#%40SystemNebula
 vless://2df56fd0-d1b7-4793-b877-acd356d960f7@172.67.71.217:443?path=/?ed=8080&security=tls&encryption=none&host=download-93w.pages.dev&fp=chrome&type=ws&sni=pages.dev#%40SystemNebula
 vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@104.21.51.196:8443?path=/&security=tls&encryption=none&insecure=0&host=ad-005.zen2bswa.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-005.zen2bswa.info#%40SystemNebula
 vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@104.21.57.111:8443/?type=ws&encryption=none&flow=&host=ad-005.pixel9xdmq.info&path=/&security=tls&sni=ad-005.pixel9xdmq.info&fp=chrome#%40SystemNebula
