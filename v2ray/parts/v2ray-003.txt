@@ -27,4 +27,4 @@ vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?security=realit
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.129:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#%40SystemNebula
 vless://34eaf2f3-894f-472e-a36c-0e08a30f0829@185.199.198.182:443?security=reality&encryption=none&pbk=GwjzHvbNB5Wn6Jj7E3WSc5pc32bjeJCvv9yf0ibDnRs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=15affa0af66dfc79#%40SystemNebula
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.147.218:22224?security=&encryption=none&headerType=&type=tcp#%40SystemNebula
-vless://4cce4586-4850-4286-8698-6bd60958e66a@s1.pro-vip-cnavippanel.xyz:4568?security=none&type=tcp&headerType=http&path=%2F&host=www.icloud.com#%40SystemNebula
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.144:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#%40SystemNebula
