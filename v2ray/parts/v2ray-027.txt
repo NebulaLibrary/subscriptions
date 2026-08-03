@@ -1,10 +1,12 @@
+trojan://521314@104.16.98.215:443?path=Telegram🇨🇳&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#%40SystemNebula
+trojan://521314@104.234.239.27:443?path=/pyip=Telegram-WangCai2🇨🇳&security=tls&insecure=0&host=hhtj.hhllfly.kdns.fr&type=ws&allowInsecure=0&sni=hhtj.hhllfly.kdns.fr#%40SystemNebula
+trojan://521314@170.114.45.27:443?path=/pyip=Telegram-WangCai2🇨🇳&security=tls&insecure=0&host=hhtj.hhllfly.kdns.fr&type=ws&allowInsecure=0&sni=hhtj.hhllfly.kdns.fr#%40SystemNebula
 trojan://521314@172.67.149.60:443?path=/&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&ech=encryptedsni.com+udp://8.8.8.8&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#%40SystemNebula
 trojan://521314@45.131.4.27:443?path=/pyip=Telegram-WangCai2🇨🇳&security=tls&insecure=0&host=hhtj.hhllfly.kdns.fr&type=ws&allowInsecure=0&sni=hhtj.hhllfly.kdns.fr#%40SystemNebula
 trojan://521314@45.192.223.27:443?path=/pyip=Telegram-WangCai2🇨🇳&security=tls&insecure=0&host=hhtj.hhllfly.kdns.fr&type=ws&allowInsecure=0&sni=hhtj.hhllfly.kdns.fr#%40SystemNebula
 trojan://521314@45.67.215.9:443?allowInsecure=1&fp=chrome&host=tjplay.lxdxo.kdns.fr&path=/Telegram🇨🇳+@WangCai2&sni=tjplay.lxdxo.kdns.fr&type=ws#%40SystemNebula
 trojan://521314@46.202.30.27:443?path=/pyip=Telegram-WangCai2🇨🇳&security=tls&insecure=0&host=hhtj.hhllfly.kdns.fr&type=ws&allowInsecure=0&sni=hhtj.hhllfly.kdns.fr#%40SystemNebula
 trojan://521314@91.193.58.31:443?path=/pyip=Telegram-WangCai2🇨🇳&security=tls&insecure=0&host=hhtj.hhllfly.kdns.fr&type=ws&allowInsecure=0&sni=hhtj.hhllfly.kdns.fr#%40SystemNebula
-trojan://521314@millionaire.levikogjgfdd.ir:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&host=tjplay.lxdxo.kdns.fr&insecure=0&sni=tjplay.lxdxo.kdns.fr&security=tls&type=ws&path=/Leviko_v2ray&allowInsecure=0#%40SystemNebula
 trojan://521314@millionaire.levikogjgfdd.ir:443?host=tjplay.lxdxo.kdns.fr&path=/Leviko_v2ray&sni=tjplay.lxdxo.kdns.fr&type=ws#%40SystemNebula
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&host=tjplay.lxdxo.kdns.fr&type=ws&sni=tjplay.lxdxo.kdns.fr#%40SystemNebula
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#%40SystemNebula
@@ -19,12 +21,10 @@ trojan://9gUKwy54vu@6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-paki
 trojan://9gUKwy54vu@soskeynets.poki-pakipon.ir:23574?security=reality&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&host=rd.autos.yahoo.com:41636&headerType=http&fp=chrome&spx=/&type=tcp&sni=rd.autos.yahoo.com:40069#%40SystemNebula
 trojan://A4u^p(_UR*F6@irancell.buzzmuzzpanel.online:443?path=/eyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=027.electrocellco-cf-027.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=027.eLECTROcelLCO-cf-027.WorKerS.Dev#%40SystemNebula
 trojan://A4u^p(_UR*F6@www.speedtest.net:443?path=/eyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=027.electrocellco-cf-027.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv#%40SystemNebula
-trojan://Aimer@167.68.4.199:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=0&sni=epge.muarua.filegear-sg.me&path=/&security=tls&type=ws&host=epge.muarua.filegear-sg.me&insecure=0#%40SystemNebula
-trojan://Aimer@167.68.4.199:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=0&sni=epge.muarua.filegear-sg.me&path=/?proxyip=ts.hpc.tw&security=tls&type=ws&host=epge.muarua.filegear-sg.me&insecure=0#%40SystemNebula
-trojan://Aimer@167.68.4.199:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&host=epge.muarua.filegear-sg.me&insecure=0&sni=epge.muarua.filegear-sg.me&security=tls&type=ws&path=/?ed&allowInsecure=0#%40SystemNebula
 trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=/?proxyip=ts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#%40SystemNebula
 trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&path=/&sni=epge.muarua.filegear-sg.me&type=ws#%40SystemNebula
 trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&path=/?ed&sni=epge.muarua.filegear-sg.me&type=ws#%40SystemNebula
 trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#%40SystemNebula
 trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1&note=@FreeOnlineVPN#%40SystemNebula
 trojan://BxceQaOe@35.76.126.253:29443/?type=tcp&security=tls&allowInsecure=1&fp=chrome#%40SystemNebula
+trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#%40SystemNebula
