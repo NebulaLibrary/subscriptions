@@ -1,10 +1,9 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@38.180.135.39:8313#%40SystemNebula
+trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?allowInsecure=1&type=tcp#%40SystemNebula
 trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?allowInsecure=1&type=tcp#%40SystemNebula
 trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?allowInsecure=1&sni=static.rutube.ru&type=tcp#%40SystemNebula
 trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?allowInsecure=1&type=tcp#%40SystemNebula
 trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?allowInsecure=1&sni=64.94.95.117&type=tcp#%40SystemNebula
-trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?allowInsecure=1&sni=64.94.95.117&type=tcp#%40SystemNebula
-trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?allowInsecure=1&type=tcp#%40SystemNebula
-trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?allowInsecure=1&sni=64.94.95.114&type=tcp#%40SystemNebula
 trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?allowInsecure=1&sni=static.rutube.ru&type=tcp#%40SystemNebula
 trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?allowInsecure=1&sni=static.rutube.ru&type=tcp#%40SystemNebula
 trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?allowInsecure=1&sni=static.rutube.ru&type=tcp#%40SystemNebula
@@ -12,8 +11,13 @@ trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?allowInsecure=1&sni=static.rutu
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?allowInsecure=1&sni=64.94.95.118&type=tcp#%40SystemNebula
 trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?allowInsecure=1&sni=64.94.95.115&type=tcp#%40SystemNebula
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?allowInsecure=1&type=tcp#%40SystemNebula
-trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?allowInsecure=1&type=tcp#%40SystemNebula
+trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?allowInsecure=1&type=tcp#%40SystemNebula
 trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?allowInsecure=1&sni=static.rutube.ru&type=tcp#%40SystemNebula
+trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?allowInsecure=1&sni=64.94.95.114&type=tcp#%40SystemNebula
+trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?allowInsecure=1&sni=64.94.95.117&type=tcp#%40SystemNebula
+trojan://ND91608427@pet-ghost.rooster465.autos:443?allowInsecure=1&sni=pet-ghost.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@sincere-gelding.rooster465.autos:443?allowInsecure=1&sni=sincere-gelding.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@fleet-bonefish.rooster465.autos:443?allowInsecure=1&sni=fleet-bonefish.rooster465.autos&type=tcp#%40SystemNebula
 trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?allowInsecure=1&sni=163.245.196.68.sslip.io&type=tcp#%40SystemNebula
 trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?sni=163.245.196.68.sslip.io&type=tcp#%40SystemNebula
 trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?sni=163.245.196.68.sslip.io&type=tcp#%40SystemNebula
@@ -23,8 +27,4 @@ trojan://9ad83f65a560960e6509b677eb6162c1@153.75.250.171:49271?sni=153.75.250.17
 trojan://MITIVPN@104.16.239.120:443?allowInsecure=1&sni=ussa1-mitivpn--mitivpn--mitivpn---mitivpn--mitivpn--mitivpn.s88r.ir&type=ws#%40SystemNebula
 trojan://9ad83f65a560960e6509b677eb6162c1@153.75.250.171:49271?sni=153.75.250.171.sslip.io&type=raw#%40SystemNebula
 trojan://9ad83f65a560960e6509b677eb6162c1@153.75.250.171:49271?sni=153.75.250.171.sslip.io&type=tcp#%40SystemNebula
-trojan://9ad83f65a560960e6509b677eb6162c1@153.75.250.171:49271?allowInsecure=1&sni=153.75.250.171.sslip.io&type=tcp#%40SystemNebula
-trojan://9ad83f65a560960e6509b677eb6162c1@153.75.250.171:49271?sni=153.75.250.171.sslip.io&type=tcp#%40SystemNebula
-trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?sni=163.245.196.68.sslip.io&type=tcp#%40SystemNebula
-trojan://9ad83f65a560960e6509b677eb6162c1@153.75.250.171:49271?sni=153.75.250.171.sslip.io&type=tcp#%40SystemNebula
-trojan://9ad83f65a560960e6509b677eb6162c1@153.75.250.171:49271?sni=153.75.250.171.sslip.io&type=tcp#%40SystemNebula
+trojan://ND91608427@fleet-bonefish.rooster465.autos:443?sni=fleet-bonefish.rooster465.autos&type=tcp#%40SystemNebula
