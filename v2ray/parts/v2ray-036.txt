@@ -1,3 +1,5 @@
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@45.130.125.207:443?path=%2Fhdgrbws%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#%40SystemNebula
+vless://3b715892-8610-4fdc-9086-647b36af5443@html.iranpood.com:2086?mode=auto&path=%2F%3Fed%3D2082&security=&encryption=none&host=h.cafearen.ir&type=xhttp#%40SystemNebula
 vless://3d02650d-268a-4ec3-9933-c03da1b81e16@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=extention.mehran.ir&path=%2F%3Fed%3D1024&fp=firefox&alpn=h2%2Chttp%2F1.1#%40SystemNebula
 vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.82.219.152:13443?security=reality&type=raw&packetEncoding=xudp&sni=auto.cendora.ru&fp=chrome&flow=xtls-rprx-vision&sid=a7f3c91b2e6d84c0&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM#%40SystemNebula
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.255.242.220:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#%40SystemNebula
@@ -26,5 +28,3 @@ vless://dd280dbb-75ec-4631-9979-d65237e27185@5.175.136.134:2053?encryption=none&
 vless://957797d5-1710-4e4a-bf41-9f5b641503e3@167.233.47.127:1234?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%40SystemNebula
 vless://ba36ca25-5d46-49f2-8f03-fb22932e7607@pi.paydar.site:80?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%40SystemNebula
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.129.178:22223?encryption=none&type=tcp&headerType=none#%40SystemNebula
-vless://de66d36e-a95b-4278-9cd1-b38e4969dcec@46.225.208.199:1234?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%40SystemNebula
-vless://e2bcf5bb-40b9-4c3c-89d0-33525aaba93a@104.17.108.1:443?encryption=none&type=xhttp&security=tls&path=%2F&host=aa.farxmode.ir&mode=packet-up&sni=aa.farxmode.ir&alpn=h2%2Chttp%2F1.1&fp=random#%40SystemNebula
