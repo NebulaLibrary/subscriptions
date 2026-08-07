@@ -1,3 +1,8 @@
+trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?security=tls&sni=www.nintendogames.net#%40SystemNebula
+trojan://ND91608427@3.64.59.246:443?security=tls&sni=gentle-raptor.rooster465.autos#%40SystemNebula
+trojan://ND91608427@202.78.163.248:443?security=tls&sni=relaxed-gull.rooster465.autos#%40SystemNebula
+trojan://ND91608427@discrete-basilisk.rooster465.autos:443?security=tls&sni=discrete-basilisk.rooster465.autos#%40SystemNebula
+trojan://ND91608427@real-werewolf.rooster465.autos:443?security=tls&sni=real-werewolf.rooster465.autos#%40SystemNebula
 trojan://ND91608427@clear-snail.rooster465.autos:443?security=tls&sni=clear-snail.rooster465.autos#%40SystemNebula
 trojan://ND91608427@picked-guinea.rooster465.autos:443?security=tls&sni=picked-guinea.rooster465.autos#%40SystemNebula
 trojan://ND91608427@13.231.232.184:443?security=tls&sni=better-molly.rooster465.autos#%40SystemNebula
@@ -23,8 +28,3 @@ trojan://ND91608427@intimate-moray.rooster465.autos:443?security=tls#%40SystemNe
 trojan://ND91608427@striking-maggot.rooster465.autos:443?security=tls&sni=striking-maggot.rooster465.autos#%40SystemNebula
 trojan://ND91608427@43.203.244.203:443?security=tls&sni=grateful-owl.rooster465.autos#%40SystemNebula
 trojan://ND91608427@distinct-llama.rooster465.autos:443?security=tls&sni=distinct-llama.rooster465.autos#%40SystemNebula
-trojan://ND91608427@43.202.56.122:443?security=tls&sni=striking-maggot.rooster465.autos#%40SystemNebula
-trojan://ND91608427@chief-bluegill.rooster465.autos:443?security=tls&sni=chief-bluegill.rooster465.autos#%40SystemNebula
-trojan://ND91608427@humorous-malamute.rooster465.autos:443?security=tls&sni=humorous-malamute.rooster465.autos#%40SystemNebula
-trojan://ND91608427@definite-malamute.rooster465.autos:443?security=tls&sni=definite-malamute.rooster465.autos#%40SystemNebula
-trojan://ND91608427@pure-ram.rooster465.autos:443?security=tls#%40SystemNebula
