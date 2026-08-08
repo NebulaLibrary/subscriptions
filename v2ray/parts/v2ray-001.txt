@@ -25,6 +25,6 @@ vless://48eb563b-27ad-4158-a651-8b527e1db831@159.65.56.237:15458?security=none&e
 vless://ea921fd5-ae0c-442b-bfd2-df97ec0beb18@167.71.60.8:10042?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40SystemNebula
 vless://48eb563b-27ad-4158-a651-8b527e1db831@139.59.186.154:15458?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40SystemNebula
 vless://c2983f64-6cbc-4452-8d5f-a2d7b761ff0e@165.245.213.200:31448?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40SystemNebula
-vless://298010c9-e90f-4873-8da0-bbb8f2475419@95.182.114.74:443?encryption=none&security=none&type=tcp#%40SystemNebula
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#%40SystemNebula
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#%40SystemNebula
+vless://d517ffb6-9d5c-278d-8df3-5398b941f578@x4g-production-ff3b.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-ff3b.up.railway.app&path=/ws/d517ffb6-9d5c-278d-8df3-5398b941f578&sni=x4g-production-ff3b.up.railway.app&fp=ios&alpn=http/1.1#%40SystemNebula
+vless://d5b98191-5feb-54c3-ce05-ef8c00000002@104.19.229.21:443?path=%2Fsync&security=tls&encryption=none&host=ez-b2635d.hosienzade45.workers.dev&fp=chrome&type=ws&sni=ez-b2635d.hosienzade45.workers.dev#%40SystemNebula
+vless://c2c8a201-09b9-47a7-b336-fcf1657f54a8@188.114.98.0:2096?security=tls&sni=bpb-Nms.PageS.DeV&type=ws&host=bPB-nmS.PAges.DeV&path=/SJMPl1xiE0HmmVPd/MjMuOTAuMTUxLjYy?ed%3D2560&fp=randomized&alpn=http/1.1#%40SystemNebula
