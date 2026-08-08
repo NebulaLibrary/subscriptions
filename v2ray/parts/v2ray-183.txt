@@ -1,12 +1,3 @@
-trojan://ND91608427@pet-ghost.rooster465.autos:443?sni=pet-ghost.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@44.244.3.114:443?sni=pet-ghost.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@44.244.3.114:443?sni=pet-ghost.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@natural-collie.rooster465.autos:443?sni=natural-collie.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@44.246.163.102:443?sni=fleet-bonefish.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@devoted-tapir.rooster465.autos:443?sni=devoted-tapir.rooster465.autos&type=tcp#%40SystemNebula
-trojan://MITIVPN@104.18.37.228:443?sni=us-ga-mitivpn--mitivpn--mitivpn---mitivpn--mitivpn--mitivpn.mitivpn.lifestyle&type=ws#%40SystemNebula
-trojan://ND91608427@devoted-tapir.rooster465.autos:443?sni=devoted-tapir.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@fleet-bonefish.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
 trojan://ND91608427@35.86.90.51:443?sni=natural-collie.rooster465.autos&type=tcp#%40SystemNebula
 trojan://ND91608427@44.246.163.102:443?sni=fleet-bonefish.rooster465.autos&type=tcp#%40SystemNebula
 trojan://ND91608427@pet-ghost.rooster465.autos:443?sni=pet-ghost.rooster465.autos&type=tcp#%40SystemNebula
@@ -28,3 +19,12 @@ trojan://ND91608427@35.72.13.34:443?sni=casual-bee.rooster465.autos&type=tcp#%40
 trojan://ND91608427@57.180.27.225:443?sni=picked-guinea.rooster465.autos&type=tcp#%40SystemNebula
 trojan://ND91608427@43.207.139.153:443?sni=sensible-mongrel.rooster465.autos&type=tcp#%40SystemNebula
 trojan://ND91608427@13.192.168.51:443?allowInsecure=1&sni=learning-leopard.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@43.207.89.29:443?sni=relaxing-bluebird.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@13.231.232.184:443?sni=better-molly.rooster465.autos&type=tcp#%40SystemNebula
+trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?allowInsecure=1&sni=static.rutube.ru&type=tcp#%40SystemNebula
+trojan://ND91608427@devoted-tapir.rooster465.autos:443?sni=devoted-tapir.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@43.207.89.29:443?allowInsecure=1&sni=relaxing-bluebird.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@moral-buzzard.rooster465.autos:443?sni=moral-buzzard.rooster465.autos&type=tcp#%40SystemNebula
+trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?allowInsecure=1&sni=static.rutube.ru&type=tcp#%40SystemNebula
+trojan://ND91608427@13.230.118.96:443?sni=real-werewolf.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@43.207.89.29:443?sni=relaxing-bluebird.rooster465.autos&type=tcp#%40SystemNebula

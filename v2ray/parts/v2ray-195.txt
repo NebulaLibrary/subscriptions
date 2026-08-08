@@ -1,12 +1,3 @@
-trojan://ND91608427@43.201.103.8:443?sni=intimate-moray.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@13.125.239.182:443?allowInsecure=1&sni=saving-octopus.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@54.249.34.120:443?sni=social-mutt.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@43.202.56.122:443?allowInsecure=1&sni=striking-maggot.rooster465.autos&type=tcp#%40SystemNebula
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?allowInsecure=1&type=tcp#%40SystemNebula
-trojan://ND91608427@sensible-mongrel.rooster465.autos:443?sni=sensible-mongrel.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@43.201.46.108:443?allowInsecure=1&sni=exotic-chow.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@moved-meerkat.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
-trojan://ND91608427@humorous-malamute.rooster465.autos:443?allowInsecure=1&sni=humorous-malamute.rooster465.autos&type=tcp#%40SystemNebula
 trojan://ND91608427@43.203.203.244:443?allowInsecure=1&sni=main-whippet.rooster465.autos&type=tcp#%40SystemNebula
 trojan://ND91608427@3.35.140.99:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos&type=tcp#%40SystemNebula
 trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&type=tcp#%40SystemNebula
@@ -28,3 +19,12 @@ trojan://ND91608427@select-ferret.rooster465.autos:443?sni=select-ferret.rooster
 trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos&type=tcp#%40SystemNebula
 trojan://ND91608427@classic-gator.rooster465.autos:443?allowInsecure=1&sni=classic-gator.rooster465.autos&type=tcp#%40SystemNebula
 trojan://ND91608427@43.203.244.203:443?sni=grateful-owl.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@upward-puma.rooster465.autos:443?allowInsecure=1&sni=upward-puma.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@prompt-duckling.rooster465.autos:443?sni=prompt-duckling.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@humorous-malamute.rooster465.autos:443?sni=humorous-malamute.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@3.36.59.34:443?sni=select-ferret.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@pure-ram.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
+trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@52.79.210.229:443?sni=chief-bluegill.rooster465.autos&type=tcp#%40SystemNebula
