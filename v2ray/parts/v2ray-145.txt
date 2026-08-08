@@ -1,3 +1,6 @@
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@nl1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#%40SystemNebula
+vless://3a55aed6-4756-4b41-9dfa-116d32aeb8e5@bonus.ahora-65.ir:23590?path=/&security=none&encryption=none&host=play.google.com&type=httpupgrade#%40SystemNebula
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@185.189.45.159:443?security=reality&encryption=none&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sw1-chr.astralweb.tech&sid=496ee75c2f91f51d#%40SystemNebula
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@203.23.179.151:443?alpn=h2&encryption=none&security=tls&sni=ddc-akn.astralweb.tech&type=tcp#%40SystemNebula
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ddc-chr.astralweb.tech:443?encryption=none&fp=chrome&security=tls&sni=ddc-chr.astralweb.tech&type=tcp#%40SystemNebula
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ddc-chr.astralweb.tech:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=ddc-chr.astralweb.tech#%40SystemNebula
@@ -25,6 +28,3 @@ vless://3dc3b4ef-c3f6-4ef3-9e03-e0a8fd82b7be@43.165.186.226:443?security=reality
 vless://3e3f9a53-154e-4110-9059-08eede7d59db@sheykh.pingsf.ir:2056?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=tcp#%40SystemNebula
 vless://3e3f9a53-154e-4110-9059-08eede7d59db@sheykh.pingsf.ir:2056?encryption=none&type=tcp#%40SystemNebula
 vless://3e3f9a53-154e-4110-9059-08eede7d59db@soskeynets.pingsf.ir:2056?encryption=none&type=tcp#%40SystemNebula
-vless://3e6a3182-5cb6-476f-bbf5-80c4199c5fef@107.181.155.175:8899?security=reality&encryption=none&pbk=wbcRJDNTU7tmBWYu_ik6nY_5nonaiMQjHY11OI5A_B8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=161f1eccd99956a2#%40SystemNebula
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.68:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#%40SystemNebula
-vless://3f02f5cd-3e03-436c-a151-02a9b9ac5966@78.17.150.127:443?security=reality&encryption=none&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=03a70b17f8036009#%40SystemNebula
