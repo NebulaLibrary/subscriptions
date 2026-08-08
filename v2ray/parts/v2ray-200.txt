@@ -1,11 +1,3 @@
-trojan://ND91608427@pure-ram.rooster465.autos:443?allowInsecure=1&sni=pure-ram.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@15.237.49.244:443?sni=star-kiwi.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@chief-bluegill.rooster465.autos:443?allowInsecure=1&sni=chief-bluegill.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@pet-ghost.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://ND91608427@54.65.167.167:443?sni=tough-robin.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@prompt-duckling.rooster465.autos:443?sni=prompt-duckling.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?allowInsecure=1&sni=154.64.226.149&type=tcp#%40SystemNebula
 trojan://ND91608427@3.112.238.99:443?sni=stunning-mite.rooster465.autos&type=tcp#%40SystemNebula
 trojan://ND91608427@right-seahorse.rooster465.autos:443?sni=right-seahorse.rooster465.autos&type=tcp#%40SystemNebula
 trojan://ND91608427@moral-buzzard.rooster465.autos:443?sni=moral-buzzard.rooster465.autos&type=tcp#%40SystemNebula
@@ -28,3 +20,11 @@ trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?allowInsecure=
 trojan://ND91608427@striking-maggot.rooster465.autos:443?sni=striking-maggot.rooster465.autos&type=tcp#%40SystemNebula
 trojan://ND91608427@18.179.31.199:443?sni=prompt-duckling.rooster465.autos&type=tcp#%40SystemNebula
 trojan://ND91608427@15.237.49.244:443?sni=star-kiwi.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@fancy-skink.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://ND91608427@happy-mutt.rooster465.autos:443?sni=happy-mutt.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@grateful-owl.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
+trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
+trojan://ND91608427@right-seahorse.rooster465.autos:443?allowInsecure=1&sni=right-seahorse.rooster465.autos&type=tcp#%40SystemNebula
+trojan://humanity@188.114.97.6:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40SystemNebula
+trojan://ND91608427@distinct-llama.rooster465.autos:443?allowInsecure=1&sni=distinct-llama.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@happy-mutt.rooster465.autos:443?sni=happy-mutt.rooster465.autos&type=tcp#%40SystemNebula

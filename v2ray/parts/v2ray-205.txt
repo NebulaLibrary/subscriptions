@@ -1,11 +1,3 @@
-trojan://ND91608427@tough-robin.rooster465.autos:443?sni=tough-robin.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@perfect-slug.rooster465.autos:443?allowInsecure=1&sni=perfect-slug.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@relaxing-bluebird.rooster465.autos:443?sni=relaxing-bluebird.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
-trojan://ND91608427@discrete-basilisk.rooster465.autos:443?sni=discrete-basilisk.rooster465.autos&type=tcp#%40SystemNebula
-trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
-trojan://humanity@45.130.125.69:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40SystemNebula
-trojan://ND91608427@healthy-louse.rooster465.autos:443?sni=healthy-louse.rooster465.autos&type=tcp#%40SystemNebula
 trojan://humanity@185.18.250.245:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40SystemNebula
 trojan://87961f9d-bee1-4377-826b-e169e7891c4f@104.25.242.132:443?allowInsecure=1&sni=yks-dd9.pages.dev&type=ws#%40SystemNebula
 trojan://ND91608427@52.196.121.8:443?sni=thankful-mustang.rooster465.autos&type=tcp#%40SystemNebula
@@ -28,3 +20,11 @@ trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?allowInsecure=1&sni=www.vk.co
 trojan://MiTiVPN@104.254.140.62:443?sni=ddp-mehrosaboran--mehrosaboran--mehrosaboran.kingnetwork.ir&type=ws#%40SystemNebula
 trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?allowInsecure=1&sni=www.vk.com&type=tcp#%40SystemNebula
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?sni=www.nintendogames.net&type=raw#%40SystemNebula
+trojan://ND91608427@gentle-raptor.rooster465.autos:443?sni=gentle-raptor.rooster465.autos&type=tcp#%40SystemNebula
+trojan://2eutknankxtbgkwcajzt@193.148.19.213:52794?allowInsecure=1&type=tcp#%40SystemNebula
+trojan://ND91608427@fancy-skink.rooster465.autos:443?sni=fancy-skink.rooster465.autos&type=tcp#%40SystemNebula
+trojan://humanity@millionaire.levikogjgfdd.ir:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
+trojan://ND91608427@13.192.168.51:443?sni=learning-leopard.rooster465.autos&type=tcp#%40SystemNebula
+trojan://humanity@188.114.96.3:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
+trojan://humanity@104.17.121.9:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
+trojan://ND91608427@chief-bluegill.rooster465.autos:443?sni=chief-bluegill.rooster465.autos&type=tcp#%40SystemNebula

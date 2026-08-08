@@ -1,11 +1,3 @@
-trojan://ND91608427@185.244.208.13:443?allowInsecure=1&sni=ace-starling.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@upright-hamster.rooster465.autos:443?sni=upright-hamster.rooster465.autos&type=tcp#%40SystemNebula
-trojan://MiTiVPN@188.114.97.6:443?sni=nl1-mitivpn--mitivpn--mitivpn---mitivpn--mitivpn--mitivpn.mitivpn.lifestyle&type=ws#%40SystemNebula
-trojan://ND91608427@ace-starling.rooster465.autos:443?sni=ace-starling.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@upright-hamster.rooster465.autos:443?sni=upright-hamster.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@ace-starling.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
-trojan://ND91608427@18.181.194.227:443?sni=moral-buzzard.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@18.181.164.216:443?sni=upright-impala.rooster465.autos&type=tcp#%40SystemNebula
 trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?allowInsecure=1&sni=154.90.62.70&type=tcp#%40SystemNebula
 trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&type=tcp#%40SystemNebula
 trojan://MiTiVPN@172.66.40.99:443?sni=flll-mitivpn--mitivpn--mitivpn---mitivpn--mitivpn--mitivpn.kingnetwork.ir&type=ws#%40SystemNebula
@@ -28,3 +20,11 @@ trojan://ND91608427@upward-puma.rooster465.autos:443?sni=upward-puma.rooster465.
 trojan://humanity@188.114.97.6:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
 trojan://ND91608427@definite-malamute.rooster465.autos:443?sni=definite-malamute.rooster465.autos&type=tcp#%40SystemNebula
 trojan://ND91608427@52.194.230.221:443?sni=happy-mutt.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@perfect-slug.rooster465.autos:443?sni=perfect-slug.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@52.79.210.229:443?sni=chief-bluegill.rooster465.autos&type=tcp#%40SystemNebula
+trojan://humanity@185.18.250.252:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
+trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&type=tcp#%40SystemNebula
+trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?allowInsecure=1&type=tcp#%40SystemNebula
+trojan://MiTiVPN@104.254.140.62:443?sni=ddp-mitivpn--mitivpn--mitivpn---mitivpn--mitivpn--mitivpn.kingnetwork.ir&type=ws#%40SystemNebula
+trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&type=tcp#%40SystemNebula
+trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
