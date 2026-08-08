@@ -1,0 +1,6 @@
+trojan://humanity@185.18.250.245:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40SystemNebula
+trojan://87961f9d-bee1-4377-826b-e169e7891c4f@172.66.173.172:443?allowInsecure=1&sni=yks-dd9.pages.dev&type=ws#%40SystemNebula
+trojan://ND91608427@54.255.35.23:443?allowInsecure=1&sni=tidy-gelding.rooster465.autos&type=tcp#%40SystemNebula
+trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?allowInsecure=1&sni=154.90.62.70&type=tcp#%40SystemNebula
+trojan://ND91608427@gentle-raptor.rooster465.autos:443?sni=gentle-raptor.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@next-turkey.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
