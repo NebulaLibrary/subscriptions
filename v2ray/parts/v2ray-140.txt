@@ -27,4 +27,4 @@ ss://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993?fp=firefox&amp;flow=xtl
 ss://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&amp;security=none&amp;serviceName=grpc&amp;type=grpc&amp;encryption=none#%40SystemNebula
 ss://d92afe21-8e8b-42c7-98c2-8a33da64d28f@39.109.117.110:43646?path=%2Fd92afe21&amp;encryption=none&amp;type=ws&amp;security=none#%40SystemNebula
 ss://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&amp;fp=firefox&amp;type=grpc&amp;sni=c.primarymaster.online&amp;sid=c56c3ba3b9f676c5#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozWXBxcjFoQmZLN3kxQzA3emo4TDdqVFBvSUFTS3ZoWWlWWk82Ty9qdm53PQ@e3.cover20.ir:56985?type=tcp#%40SystemNebula
+ss://408e08b4-4e08-4819-9eb6-0e660ec87530@5.254.14.165:443?security=reality&amp;encryption=none&amp;pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=cdn4-81.yahoo.com&amp;sid=abe4a59b9f2407e3#%40SystemNebula
