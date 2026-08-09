@@ -1,4 +1,3 @@
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.156:443?encryption=none&type=tcp&security=reality&headerType=none&sni=getsavesafe.net&insecure=1&allowInsecure=1&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&flow=xtls-rprx-vision#%40SystemNebula
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.156:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=getsavesafe.net&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&allowinsecure=0&type=tcp&headerType=none#%40SystemNebula
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.156:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=getsavesafe.net&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&type=tcp&headerType=none#%40SystemNebula
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.27:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&security=reality&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&type=tcp#%40SystemNebula
@@ -10,10 +9,8 @@ vless://3a3de813-bfaa-4355-bc47-05c7245431d2@89.116.250.135:8880?encryption=none
 vless://3a3de813-bfaa-4355-bc47-05c7245431d2@94.140.0.1:443?encryption=none&type=ws&security=tls&path=/?ed=2560&host=Australia.havray2025.ir&sni=Australia.havray2025.ir&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#%40SystemNebula
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@185.189.45.159:443?security=reality&encryption=none&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sw1-chr.astralweb.tech&sid=496ee75c2f91f51d#%40SystemNebula
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@203.23.179.151:443?alpn=h2&encryption=none&security=tls&sni=ddc-akn.astralweb.tech&type=tcp#%40SystemNebula
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ddc-chr.astralweb.tech:443?encryption=none&fp=chrome&security=tls&sni=ddc-chr.astralweb.tech&type=tcp#%40SystemNebula
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ddc-chr.astralweb.tech:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=ddc-chr.astralweb.tech#%40SystemNebula
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ddc-chr.astralweb.tech:443?security=tls&type=tcp&packetEncoding=xudp&sni=ddc-chr.astralweb.tech&fp=chrome#%40SystemNebula
-vless://3ad9031d-249c-46c1-a97d-ef16740f236a@37.252.17.192:8447?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=F8nl7VBhEUZJnMOQKOH7yeiJDZbw32BiIW9aJn2PGlQ&sid=7afcb61e13966776&fp=chrome&encryption=none&flow=xtls-rprx-vision#%40SystemNebula
 vless://3adac494-0eb1-4d89-a187-b2181691444d@104.21.55.229:8880?encryption=none&host=tiny-lake-bbf1.369-766.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&type=ws#%40SystemNebula
 vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?path=/id-tksi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=m.udemy.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=m.udemy.com.cyylr.eu.cc#%40SystemNebula
 vless://3b45ea2c-e050-4da6-a2f0-cb9cc2e51699@centerbeam.proxy.rlwy.net:22287?security=reality&encryption=none&pbk=xVINf2LgTotqJIjILeT0fF8GNbELE4ohgeuyjKfwczM&headerType=none&fp=chrome&spx=/x1chc8zX5t6RX8Z&type=tcp&sni=aws-us-east-1.amazon.com&sid=6e58c60b27eb#%40SystemNebula
@@ -28,3 +25,6 @@ vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?encryption=none&
 vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?path=/ws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#%40SystemNebula
 vless://3ccf9767-6648-4efa-b13c-1cdef021c371@5.75.196.174:20141?security=reality&encryption=none&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&headerType=none&fp=chrome&spx=/fuyDxo1D1hIDYFH&type=tcp&flow=xtls-rprx-vision&sni=arvancloud.ir&sid=14#%40SystemNebula
 vless://3d0135ce-97f0-4b2f-90c3-e8aaa01be795@206.72.205.152:40296?security=&encryption=none&headerType=none&type=tcp#%40SystemNebula
+vless://3d0135ce-97f0-4b2f-90c3-e8aaa01be795@206.72.205.152:40296?security=none&encryption=none&headerType=none&type=tcp#%40SystemNebula
+vless://3d142a41-8e57-47d7-a579-f52c6eae79f7@199.232.79.229:80?encryption=none&security=none&type=xhttp&host=qbank.ir&path=/-AzV2ry?ed=2056&mode=auto#%40SystemNebula
+vless://3d3c3bbe-e00b-4f2b-a06e-8b546d7fe35b@199.232.78.159:443?path=/&security=tls&encryption=none&host=towndtime.global.ssl.fastly.neT.&type=ws&sni=ssl.fastly.com#%40SystemNebula
