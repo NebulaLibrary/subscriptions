@@ -1,3 +1,10 @@
+trojan://ND91608427@devoted-heron.rooster465.autos:443?sni=devoted-heron.rooster465.autos&type=tcp#%40SystemNebula
+trojan://humanity@45.130.125.75:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
+trojan://ND91608427@communal-sunbird.rooster465.autos:443?sni=communal-sunbird.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?sni=dynamic-grubworm.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@ace-starling.rooster465.autos:443?sni=ace-starling.rooster465.autos&type=tcp#%40SystemNebula
+trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
 trojan://humanity@165.215.250.14:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
 trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&type=tcp#%40SystemNebula
 trojan://ND91608427@fancy-skink.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
@@ -21,10 +28,3 @@ trojan://ND91608427@52.79.210.229:443?sni=chief-bluegill.rooster465.autos&type=t
 trojan://ND91608427@57.180.13.78:443?sni=healthy-louse.rooster465.autos&type=tcp#%40SystemNebula
 trojan://ND91608427@3.112.223.141:443?sni=internal-sunbird.rooster465.autos&type=tcp#%40SystemNebula
 trojan://humanity@www.calmlunch.com:443?allowInsecure=1&type=ws#%40SystemNebula
-trojan://ND91608427@52.196.121.8:443?sni=thankful-mustang.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@communal-sunbird.rooster465.autos:443?sni=communal-sunbird.rooster465.autos&type=tcp#%40SystemNebula
-trojan://humanity@104.16.72.41:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
-trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&type=tcp#%40SystemNebula
-trojan://humanity@104.16.71.213:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
-trojan://ND91608427@18.181.175.120:443?sni=sure-humpback.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&type=tcp#%40SystemNebula

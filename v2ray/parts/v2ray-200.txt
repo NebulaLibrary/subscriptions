@@ -1,3 +1,10 @@
+trojan://humanity@104.16.7.70:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40SystemNebula
+trojan://ND91608427@star-kiwi.rooster465.autos:443?sni=star-kiwi.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@uncommon-feline.rooster465.autos:443?sni=uncommon-feline.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@discrete-basilisk.rooster465.autos:443?allowInsecure=1&sni=discrete-basilisk.rooster465.autos&type=tcp#%40SystemNebula
+trojan://MiTiVPN@151.101.56.7:443?allowInsecure=1&sni=default.fastly.com&type=ws#%40SystemNebula
+trojan://ND91608427@fancy-skink.rooster465.autos:443?allowInsecure=1&sni=fancy-skink.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@18.178.132.111:443?sni=devoted-heron.rooster465.autos&type=tcp#%40SystemNebula
 trojan://ND91608427@picked-guinea.rooster465.autos:443?sni=picked-guinea.rooster465.autos&type=tcp#%40SystemNebula
 trojan://humanity@162.159.36.20:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
 trojan://ND91608427@52.196.121.8:443?sni=thankful-mustang.rooster465.autos&type=tcp#%40SystemNebula
@@ -21,10 +28,3 @@ trojan://QV31589740@great-krill.rooster465.autos:443?allowInsecure=1&type=tcp#%4
 trojan://2eutknankxtbgkwcajzt@193.148.19.213:52794?allowInsecure=1&sni=193.148.19.213&type=tcp#%40SystemNebula
 trojan://ND91608427@3.64.59.246:443?sni=gentle-raptor.rooster465.autos&type=tcp#%40SystemNebula
 trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?allowInsecure=1&type=tcp#%40SystemNebula
-trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?allowInsecure=1&sni=154.90.62.70&type=tcp#%40SystemNebula
-trojan://ND91608427@3.36.59.34:443?sni=select-ferret.rooster465.autos&type=tcp#%40SystemNebula
-trojan://MiTiVPN@188.114.96.3:443?sni=nl1-mitivpn--mitivpn--mitivpn---mitivpn--mitivpn--mitivpn.mitivpn.lifestyle&type=ws#%40SystemNebula
-trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
-trojan://ND91608427@upward-puma.rooster465.autos:443?sni=upward-puma.rooster465.autos&type=tcp#%40SystemNebula
-trojan://humanity@104.16.72.41:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40SystemNebula
-trojan://ND91608427@internal-sunbird.rooster465.autos:443?sni=internal-sunbird.rooster465.autos&type=tcp#%40SystemNebula
