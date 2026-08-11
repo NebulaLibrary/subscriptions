@@ -1,3 +1,12 @@
+trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%40SystemNebula
+trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%40SystemNebula
+trojan://humanity@172.67.149.60:443?insecure=0&host=www.ignitelimit.com&allowInsecure=0&sni=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&security=tls&type=ws&path=%2Fassignment#%40SystemNebula
+trojan://humanity@141.101.90.101:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%40SystemNebula
+trojan://humanity@198.62.62.23:443/?type=ws&host=www.calmlunch.com&path=%2F%2Fassignment&security=tls&sni=www.calmlunch.com#%40SystemNebula
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40SystemNebula
+trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%40SystemNebula
+trojan://humanity@45.130.125.112:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40SystemNebula
+trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40SystemNebula
 trojan://humanity@millionaire.levikogjgfdd.ir:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40SystemNebula
 trojan://humanity@render.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40SystemNebula
 trojan://humanity@2.144.21.112:40443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%40SystemNebula
@@ -19,12 +28,3 @@ trojan://ND91608427@devoted-heron.rooster465.autos:443?security=tls&sni=devoted-
 trojan://ND91608427@moral-buzzard.rooster465.autos:443?security=tls&sni=moral-buzzard.rooster465.autos#%40SystemNebula
 trojan://ND91608427@18.181.164.216:443?security=tls&sni=upright-impala.rooster465.autos#%40SystemNebula
 trojan://ND91608427@better-molly.rooster465.autos:443?security=tls#%40SystemNebula
-trojan://ND91608427@tough-robin.rooster465.autos:443?security=tls&sni=tough-robin.rooster465.autos#%40SystemNebula
-trojan://ND91608427@13.192.168.51:443?security=tls&sni=learning-leopard.rooster465.autos#%40SystemNebula
-trojan://ND91608427@54.65.167.167:443?security=tls&sni=tough-robin.rooster465.autos#%40SystemNebula
-trojan://ND91608427@sensible-mongrel.rooster465.autos:443?security=tls&sni=sensible-mongrel.rooster465.autos#%40SystemNebula
-trojan://ND91608427@3.112.238.99:443?security=tls&sni=stunning-mite.rooster465.autos#%40SystemNebula
-trojan://ND91608427@thankful-mustang.rooster465.autos:443?security=tls&sni=thankful-mustang.rooster465.autos#%40SystemNebula
-trojan://ND91608427@18.178.132.111:443?security=tls&sni=devoted-heron.rooster465.autos#%40SystemNebula
-trojan://ND91608427@3.112.223.141:443?security=tls&sni=internal-sunbird.rooster465.autos#%40SystemNebula
-trojan://ND91608427@learning-leopard.rooster465.autos:443?security=tls&sni=learning-leopard.rooster465.autos#%40SystemNebula

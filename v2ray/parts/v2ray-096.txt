@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@2.58.242.43:33992#%40SystemNebula
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@2.58.242.157:33992#%40SystemNebula
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@194.33.40.114:33992#%40SystemNebula
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@156.146.33.65:33992#%40SystemNebula
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@152.89.160.115:33992#%40SystemNebula
 ss://YWVzLTI1Ni1nY206NGVqSjhuNWRkTHVZRFVIR1hKcmUydWZK@185.134.22.115:48938#%40SystemNebula
 ss://YWVzLTI1Ni1nY206NGVqSjhuNWRkTHVZRFVIR1hKcmUydWZK@156.146.33.83:48938#%40SystemNebula
@@ -23,8 +27,4 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.136.80.36:989#%40SystemNebula
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@212.237.210.158:989#%40SystemNebula
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@202.59.10.102:989#%40SystemNebula
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.227.178:989#%40SystemNebula
-trojan://6ec301428255a78a1d826988d86cc87e@57.183.7.187:45747?sni=www.nintendogames.net#%40SystemNebula
-trojan://humanity@104.18.152.108:443?sni=www.ignitelimit.com#%40SystemNebula
-trojan://BxceQaOe@16.162.3.11:27161?sni=t.me/ripaojiedian#%40SystemNebula
-trojan://cd5637fd-f992-423a-8be0-5b80360f26fc@cdn2.bpcdn.cc:443?sni=ehofhoe.bpuk2026.top#%40SystemNebula
-trojan://humanity@104.18.152.175:443?sni=www.ignitelimit.com#%40SystemNebula
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.130.160:989#%40SystemNebula

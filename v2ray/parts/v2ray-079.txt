@@ -1,3 +1,10 @@
+trojan://ND91608427@13.36.175.151:443?security=tls&sni=classic-gator.rooster465.autos#%40SystemNebula
+trojan://UO36402987@34.251.228.118:443?security=tls&sni=definite-ladybird.rooster465.autos#%40SystemNebula
+trojan://UO36402987@definite-ladybird.rooster465.autos:443?security=tls&sni=definite-ladybird.rooster465.autos#%40SystemNebula
+trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos#%40SystemNebula
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#%40SystemNebula
+trojan://ND91608427@15.237.137.197:443?security=tls&sni=fancy-skink.rooster465.autos#%40SystemNebula
+trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&sni=fancy-skink.rooster465.autos#%40SystemNebula
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?security=tls&sni=t11.qifei.app#%40SystemNebula
 trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@168.138.43.89:443?security=tls#%40SystemNebula
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40SystemNebula
@@ -21,10 +28,3 @@ trojan://humanity@165.215.250.14:443?path=%2Fassignment&amp;security=tls&amp;hos
 trojan://humanity@45.130.125.160:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%40SystemNebula
 trojan://humanity@104.17.121.71:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%40SystemNebula
 trojan://humanity@185.18.250.252:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#%40SystemNebula
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40SystemNebula
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#%40SystemNebula
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%40SystemNebula
-trojan://humanity@104.19.229.21:443?path=assignment&amp;security=tls&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40SystemNebula
-trojan://humanity@104.19.229.21:443?path=%2Fassignment%3FL=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.gossipglove.com#%40SystemNebula
-trojan://humanity@45.130.125.126:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#%40SystemNebula
-trojan://humanity@165.215.250.14:443?path=%2Fassignment&amp;security=tls&amp;insecure=1&amp;host=www.calmlunch.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calmlunch.com#%40SystemNebula
