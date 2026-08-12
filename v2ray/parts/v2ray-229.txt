@@ -1,0 +1,2 @@
+vless://5ef4b1d5-1039-4d26-99c8-7b5d5b570819@31.58.50.200:8443?flow=xtls-rprx-vision&fp=firefox&path=%2F&pbk=mr5AF0LFyDzYDRoYAwH6QNcHXL77-LoiwRx50ZzU8QU&security=reality&sni=tradingview.com&type=tcp#%40SystemNebula
+vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?flow=xtls-rprx-vision&fp=chrome&host=%2F%3Fbia_telegram%40marambashi_marambashi_marambashi_marambashi_marambashi&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&security=reality&sni=www.amd.com&type=tcp#%40SystemNebula
