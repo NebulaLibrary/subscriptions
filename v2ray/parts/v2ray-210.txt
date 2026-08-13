@@ -1,12 +1,3 @@
-trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@helpful-possum.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://AE62539071@eager-camel.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://AE62539071@oriented-pegasus.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://AE62539071@easy-barnacle.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://AE62539071@intimate-koi.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://AE62539071@sweeping-parakeet.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://ND91608427@44.244.3.114:443?sni=pet-ghost.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?sni=dynamic-grubworm.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@inviting-burro.rooster465.autos:443?type=tcp#%40SystemNebula
 trojan://AE62539071@18.179.198.30:443?sni=glowing-iguana.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@firm-krill.rooster465.autos:443?type=tcp#%40SystemNebula
@@ -28,3 +19,12 @@ trojan://AE62539071@18.183.135.94:443?sni=central-jawfish.rooster465.autos&type=
 trojan://AE62539071@54.168.18.107:443?sni=game-thrush.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@43.207.235.64:443?sni=real-cardinal.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@43.202.48.137:443?sni=glorious-lark.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@13.158.137.73:443?sni=novel-bat.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@natural-collie.rooster465.autos:443?sni=natural-collie.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@intimate-moray.rooster465.autos:443?allowInsecure=1&sni=intimate-moray.rooster465.autos&type=tcp#%40SystemNebula
+vless://96563f88-f743-4395-a3b2-27ec462ae45e@35.241.98.220:443?fp=safari&host=www.cloudflare.com&path=%2F&pbk=bSK8gtmPMlw7gP415tmh6kQzzFiwzxBsT3Kuqql6cRo&security=reality&sid=ec2c7091fe76336c&sni=www.cloudflare.com&type=tcp#%40SystemNebula
+vless://98d58579-9dc4-4e3e-b94e-6a472faf6a41@179.253.240.24:25129?fp=chrome&host=www.sony.cl&path=%2F&pbk=e6k1bLp6j0tseHRtnoqDuEsp56GIUWWcXxcv0fEVuTE&security=reality&sid=3fc24b3df5&sni=www.sony.cl&type=tcp#%40SystemNebula
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.35.15:2095?host=fuckingfangbinxing.pusytroller.cf&path=%2F&security=none&type=ws#%40SystemNebula
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.152.241:2095?host=fuckingfangbinxing.pusytroller.cf&path=%2F&security=none&type=ws#%40SystemNebula
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?host=fangbinxingnmsl.pusytroller.gq&path=%2F&security=none&type=ws#%40SystemNebula
+vless://b222ebc7-569c-45ca-a0e4-756f171b247b@31.58.50.200:8443?flow=xtls-rprx-vision&fp=firefox&path=%2F&pbk=mr5AF0LFyDzYDRoYAwH6QNcHXL77-LoiwRx50ZzU8QU&security=reality&sni=tradingview.com&type=tcp#%40SystemNebula
