@@ -1,3 +1,11 @@
+trojan://0896373c-7cd9-4221-b50d-9634990d6751@tw.suntory.lol:38513?allowInsecure=1#%40SystemNebula
+trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&alpn=h3, h2, http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ru.federal-usa.com#%40SystemNebula
+trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&alpn=h3,h2,http/1.1&insecure=0&host=ru.federal-usa.com&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ru.federal-usa.com#%40SystemNebula
+trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ru.federal-usa.com#%40SystemNebula
+trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&allowInsecure=0#%40SystemNebula
+trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&sni=ru.federal-usa.com&alpn=h3, h2, http/1.1&fp=chrome&allowinsecure=0&type=tcp&headerType=none#%40SystemNebula
+trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#%40SystemNebula
+trojan://0kzEU0GpjBdnug71Mf76r29FUctQg5c+zRy5E6E+5cE=@91.107.139.186:24227?security=none#%40SystemNebula
 trojan://1d2a8749-001e-4809-b767-cb04a54bdf7f@625tw.ok365.cyou:443?allowInsecure=1#%40SystemNebula
 trojan://1d2a8749-001e-4809-b767-cb04a54bdf7f@625us.ok365.cyou:443?allowInsecure=1#%40SystemNebula
 trojan://1d2a8749-001e-4809-b767-cb04a54bdf7f@73hk01.ok365.cyou:443?allowInsecure=1#%40SystemNebula
@@ -14,17 +22,9 @@ trojan://581e14a5fcc14107b9326cc54f047891@31.76.11.46:443?mode=gun&security=tls&
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#%40SystemNebula
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=/us-gllc@soskeynets#%40SystemNebula
 trojan://7a49ebc8-6235-36b1-b7b4-0864b95bd90a@ger.aaaa.gay:45900?allowInsecure=0#%40SystemNebula
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682/?type=tcp&security=tls&allowInsecure=1#%40SystemNebula
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?allowInsecure=1&sni=t11.qifei.app#%40SystemNebula
 trojan://7m0vA1PgSB@185.126.236.181:443?type=tcp&security=none#%40SystemNebula
 trojan://8r<[9'l6hAO#%40SystemNebula
 trojan://AE62539071@chief-cricket.rooster465.autos:443#%40SystemNebula
 trojan://AE62539071@dashing-bedbug.rooster465.autos:443#%40SystemNebula
 trojan://AE62539071@distinct-quail.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@emerging-weevil.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@enough-basilisk.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@funny-hen.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@game-firefly.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@healthy-panda.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@helped-haddock.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@kind-stork.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@moved-bluegill.rooster465.autos:443#%40SystemNebula
