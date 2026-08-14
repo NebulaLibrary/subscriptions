@@ -1,3 +1,12 @@
+trojan://humanity@render.com:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40SystemNebula
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40SystemNebula
+trojan://humanity@172.67.149.60:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40SystemNebula
+trojan://UO36402987@34.251.228.118:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=definite-ladybird.rooster465.autos#%40SystemNebula
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%40SystemNebula
+trojan://humanity@86.38.214.205:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%40SystemNebula
+trojan://humanity@104.18.152.133:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%40SystemNebula
+trojan://humanity@104.16.174.46:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%40SystemNebula
+trojan://humanity@2.144.21.150:2000?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%40SystemNebula
 trojan://humanity@104.18.152.246:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%40SystemNebula
 trojan://humanity@104.17.111.8:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%40SystemNebula
 trojan://humanity@104.18.152.140:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%40SystemNebula
@@ -19,12 +28,3 @@ trojan://6ec301428255a78a1d826988d86cc87e@16.162.129.182:32434?allowInsecure=1&s
 trojan://6ec301428255a78a1d826988d86cc87e@16.162.192.182:45744?allowInsecure=0&sni=www.nintendogames.net#%40SystemNebula
 trojan://BxceQaOe@43.199.31.69:45744?allowInsecure=1&sni=t.me%252Fripaojiedian#%40SystemNebula
 trojan://6ec301428255a78a1d826988d86cc87e@16.162.109.29:10418?allowInsecure=1&sni=www.nintendogames.net#%40SystemNebula
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.14.234:39024?allowInsecure=1&sni=www.nintendogames.net#%40SystemNebula
-trojan://BxceQaOe@16.162.192.11:53001?allowInsecure=1&sni=t.me%2Fripaojiedian#%40SystemNebula
-trojan://humanity@ip.myip2.qzz.io:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%40SystemNebula
-trojan://humanity@104.18.152.207:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%40SystemNebula
-trojan://humanity@104.16.174.6:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%40SystemNebula
-trojan://humanity@104.16.174.117:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%40SystemNebula
-trojan://humanity@104.18.152.108:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%40SystemNebula
-trojan://humanity@104.18.152.97:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%40SystemNebula
-trojan://humanity@8.6.112.0:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%40SystemNebula

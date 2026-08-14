@@ -1,3 +1,8 @@
+trojan://ND91608427@adjusted-labrador.rooster465.autos:443?security=tls&sni=adjusted-labrador.rooster465.autos#%40SystemNebula
+trojan://ND91608427@13.231.232.184:443?security=tls&sni=better-molly.rooster465.autos#%40SystemNebula
+trojan://ND91608427@healthy-louse.rooster465.autos:443?security=tls&sni=healthy-louse.rooster465.autos#%40SystemNebula
+trojan://AE62539071@maximum-elk.rooster465.autos:443?security=tls&sni=maximum-elk.rooster465.autos#%40SystemNebula
+trojan://AE62539071@polished-imp.rooster465.autos:443?security=tls&sni=polished-imp.rooster465.autos#%40SystemNebula
 trojan://ND91608427@real-werewolf.rooster465.autos:443?security=tls&sni=real-werewolf.rooster465.autos#%40SystemNebula
 trojan://ND91608427@3.112.238.99:443?security=tls&sni=stunning-mite.rooster465.autos#%40SystemNebula
 trojan://AE62539071@52.68.175.30:443?security=tls&sni=on-roughy.rooster465.autos#%40SystemNebula
@@ -23,8 +28,3 @@ trojan://ND91608427@social-mutt.rooster465.autos:443?security=tls&sni=social-mut
 trojan://ND91608427@picked-guinea.rooster465.autos:443?security=tls&sni=picked-guinea.rooster465.autos#%40SystemNebula
 trojan://AE62539071@literate-cow.rooster465.autos:443?security=tls#%40SystemNebula
 trojan://AE62539071@54.95.128.248:443?security=tls&sni=engaged-ram.rooster465.autos#%40SystemNebula
-trojan://ND91608427@57.180.27.225:443?security=tls&sni=picked-guinea.rooster465.autos#%40SystemNebula
-trojan://AE62539071@tolerant-mosquito.rooster465.autos:443?security=tls&sni=tolerant-mosquito.rooster465.autos#%40SystemNebula
-trojan://ND91608427@select-ferret.rooster465.autos:443?security=tls&sni=select-ferret.rooster465.autos#%40SystemNebula
-trojan://AE62539071@relative-locust.rooster465.autos:443?security=tls#%40SystemNebula
-trojan://ND91608427@52.79.210.229:443?security=tls&sni=chief-bluegill.rooster465.autos#%40SystemNebula
