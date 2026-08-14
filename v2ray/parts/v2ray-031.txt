@@ -1,3 +1,12 @@
+trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev:8443?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev&path=/?ed=2560#%40SystemNebula
+trojan://0010996f-3eab-4804-9b3a-3a889d6767fc@a8zbx9xj.catcat321.com:20088/?type=tcp&security=tls&sni=iepl.krz3.cat.bilibili.com&allowInsecure=1#%40SystemNebula
+trojan://0010996f-3eab-4804-9b3a-3a889d6767fc@krhtybay.catcat321.com:20095?allowInsecure=1&sni=iepl.ush2.cat.bilibili.com#%40SystemNebula
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443/?type=ws&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&allowInsecure=1#%40SystemNebula
+trojan://0896373c-7cd9-4221-b50d-9634990d6751@de.v2yyds.com:31912?allowInsecure=1#%40SystemNebula
+trojan://0896373c-7cd9-4221-b50d-9634990d6751@de.v2yyds.com:31913?allowInsecure=1#%40SystemNebula
+trojan://0896373c-7cd9-4221-b50d-9634990d6751@rn.v2yyds.com:31911?allowInsecure=1#%40SystemNebula
+trojan://0896373c-7cd9-4221-b50d-9634990d6751@tw.suntory.lol:38511?allowInsecure=1#%40SystemNebula
+trojan://0896373c-7cd9-4221-b50d-9634990d6751@tw.suntory.lol:38513?allowInsecure=1#%40SystemNebula
 trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&alpn=h3, h2, http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ru.federal-usa.com#%40SystemNebula
 trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&alpn=h3,h2,http/1.1&insecure=0&host=ru.federal-usa.com&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ru.federal-usa.com#%40SystemNebula
 trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&sni=ru.federal-usa.com&alpn=h3, h2, http/1.1&fp=chrome&allowinsecure=0&type=tcp&headerType=none#%40SystemNebula
@@ -19,12 +28,3 @@ trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?security=tls&sni
 trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?security=tls&sni=www.nintendogames.net&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#%40SystemNebula
 trojan://7a49ebc8-6235-36b1-b7b4-0864b95bd90a@ger.aaaa.gay:45900?allowInsecure=0#%40SystemNebula
 trojan://8r<[9'l6hAO#%40SystemNebula
-trojan://@Cooonfig@91.107.247.247:33441?type=tcp&security=none&headerType=http&path=/&host=play-fe.googleapis.com#%40SystemNebula
-trojan://AE62539071@18.194.130.12:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=sterling-macaw.rooster465.autos#%40SystemNebula
-trojan://AE62539071@chief-cricket.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@dashing-bedbug.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@distinct-quail.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@emerging-weevil.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@enough-basilisk.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@funny-hen.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@game-firefly.rooster465.autos:443#%40SystemNebula
