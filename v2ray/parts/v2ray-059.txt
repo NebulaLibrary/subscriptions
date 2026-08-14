@@ -1,5 +1,3 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.154:22224?security=none&encryption=none&headerType=none&type=tcp#%40SystemNebula
-vless://23bda1f5-da85-4de6-aacb-ce77acb88808@5.75.202.32:7190?security=reality&encryption=none&pbk=mPyGyFIPaIJskk9IhHv9rkv7amf77CYUV0KVeqDsPU8&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=7398e0c72f7d5c0e#%40SystemNebula
 vless://cbfc7699-4ba5-47fd-bfb0-bdc1f42a7099@104.16.72.162:8443?path=%2F&security=tls&encryption=none&insecure=0&host=france-8.psntbt.com.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.psntbt.com.#%40SystemNebula
 vless://7272b4c4-706d-4930-b0b2-7356caaaaf5f@104.16.92.229:8443?path=%2F&security=tls&encryption=none&insecure=0&host=finland-9.psntbt.com.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.psntbt.com.#%40SystemNebula
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40SystemNebula
@@ -28,3 +26,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.187.6:22223?security=none&en
 vless://05cf7b0e-ad1a-42bb-80e7-73ae45b1019a@188.114.97.6:8443?path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Fx9i2&security=tls&encryption=none&insecure=0&host=france.io-com-de-dev.org&ech=encryptedsni.com%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=france.io-com-de-dev.org#%40SystemNebula
 vless://eb14f373-2935-4db0-a74b-90bfd2ab1031@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=SvnTeamChannel.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40SystemNebula
 vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.72.162:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-004.zensah3g.info.&fp=firefox&type=ws&allowInsecure=0&sni=ssl.zensah3g.info.#%40SystemNebula
+vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.92.229:8443?path=%2F&security=tls&encryption=none&insecure=0&host=italy-1.psntbt.com.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.psntbt.com.#%40SystemNebula
+vless://4411e63c-9d5f-403f-b8b4-89ea29fbde2a@176.65.151.64:443?security=reality&encryption=none&pbk=vrCKcD_CfJ3HnoBh8WVGXXPxhCyjXjSVnFDfi14w53s&headerType=none&fp=firefox&spx=%2Fa32433ebeac8e8c&type=tcp&flow=xtls-rprx-vision&sni=home.amazon.com&sid=71c764#%40SystemNebula

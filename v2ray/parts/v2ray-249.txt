@@ -1,3 +1,0 @@
-trojan://QV31589740@51.44.160.58:443?sni=great-krill.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@up-dinosaur.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://AE62539071@13.125.144.78:443?sni=viable-serval.rooster465.autos&type=tcp#%40SystemNebula

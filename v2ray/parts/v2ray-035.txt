@@ -1,3 +1,8 @@
+trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ru.federal-usa.com#%40SystemNebula
+trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&allowInsecure=0#%40SystemNebula
+trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&sni=ru.federal-usa.com&alpn=h3, h2, http/1.1&fp=chrome&allowinsecure=0&type=tcp&headerType=none#%40SystemNebula
+trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#%40SystemNebula
+trojan://0kzEU0GpjBdnug71Mf76r29FUctQg5c+zRy5E6E+5cE=@91.107.139.186:24227?security=none#%40SystemNebula
 trojan://1d2a8749-001e-4809-b767-cb04a54bdf7f@625tw.ok365.cyou:443?allowInsecure=1#%40SystemNebula
 trojan://1d2a8749-001e-4809-b767-cb04a54bdf7f@625us.ok365.cyou:443?allowInsecure=1#%40SystemNebula
 trojan://1d2a8749-001e-4809-b767-cb04a54bdf7f@73hk01.ok365.cyou:443?allowInsecure=1#%40SystemNebula
@@ -23,8 +28,3 @@ trojan://AE62539071@distinct-quail.rooster465.autos:443#%40SystemNebula
 trojan://AE62539071@emerging-weevil.rooster465.autos:443#%40SystemNebula
 trojan://AE62539071@enough-basilisk.rooster465.autos:443#%40SystemNebula
 trojan://AE62539071@funny-hen.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@game-firefly.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@healthy-panda.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@helped-haddock.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@kind-stork.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@moved-bluegill.rooster465.autos:443#%40SystemNebula
