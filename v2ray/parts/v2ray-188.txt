@@ -6,6 +6,7 @@ vless://17d29827-7cf1-4115-b40d-548e10ec355d@billing.netraidly.ru:40443?flow=xtl
 vless://d9e4721d-cdac-44c7-bc91-117367eac194@216.152.147.28:443?flow=xtls-rprx-vision&fp=chrome&pbk=kjiuPmjM4IutdZudHfcPZHEwcrBEFY4qBLlvfC6A_Ss&security=reality&sid=b9f8d3f8&sni=www.cloudflare.com&type=tcp#%40SystemNebula
 vless://c863c8f0-cda1-429c-be76-cbefc8a418a1@93.123.13.7:15755?path=%2F&security=none&type=tcp#%40SystemNebula
 vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?flow=xtls-rprx-vision&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&security=reality&sid=3d3c1e645f763ee3&sni=www.speedtest.net&type=tcp#%40SystemNebula
+vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@de1.murhost.network:443?flow=xtls-rprx-vision&fp=firefox&pbk=jJQ3uy2Se5ObXCsYJnT-2ukvUMRiOBBfOZ38Wnm2Ygs&security=reality&sid=a75046af5dcaf1d2&sni=de1.murhost.network&type=tcp#%40SystemNebula
 vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJyYXciLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy00ODU2ODY1NDQiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#%40SystemNebula
 vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJyYXciLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2bWVzcy00ODU2ODY1NDMiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#%40SystemNebula
 vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsImFpZCI6MCwiaG9zdCI6ImVwZ2UubXVhcnVhLmZpbGVnZWFyLXNnLm1lIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxODAiLCJwcyI6InZtZXNzLTIzODI5ODgiLCJzbmkiOiJlcGdlLm11YXJ1YS5maWxlZ2Vhci1zZy5tZSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#%40SystemNebula
@@ -24,7 +25,6 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1#%40Syst
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@44.251.47.95:443?insecure=1&sni=vpn-us-002.fastervpn.world#%40SystemNebula
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%40SystemNebula
 hy2://CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t@pg-de-hy2.gigatapbot.top:1443?insecure=1&sni=pg-de-hy2.gigatapbot.top#%40SystemNebula
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=160.187.100.109#%40SystemNebula
+hy2://CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t@pg-usa2-hy2.gigatapbot.top:1443?sni=pg-usa2-hy2.gigatapbot.top#%40SystemNebula
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.131.38.54:443#%40SystemNebula
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@138.197.141.58:8080#%40SystemNebula
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.139.79.57:13979#%40SystemNebula
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#%40SystemNebula

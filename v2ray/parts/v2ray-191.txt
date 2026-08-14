@@ -1,3 +1,9 @@
+trojan://AE62539071@viable-serval.rooster465.autos:443?allowInsecure=1&sni=viable-serval.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@13.158.135.118:443?allowInsecure=1&sni=literate-cow.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@real-cardinal.rooster465.autos:443?allowInsecure=1&sni=real-cardinal.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@healthy-louse.rooster465.autos:443?allowInsecure=1&sni=healthy-louse.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@nearby-egret.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://AE62539071@immortal-woodcock.rooster465.autos:443?allowInsecure=1&sni=immortal-woodcock.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@right-seahorse.rooster465.autos:443?allowInsecure=1&sni=right-seahorse.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@glowing-iguana.rooster465.autos:443?allowInsecure=1&sni=glowing-iguana.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@54.64.189.3:443?allowInsecure=1&sni=ideal-phoenix.rooster465.autos&type=tcp#%40SystemNebula
@@ -22,9 +28,3 @@ trojan://AE62539071@43.200.1.24:443?allowInsecure=1&sni=square-gnat.rooster465.a
 trojan://AE62539071@square-skink.rooster465.autos:443?type=tcp#%40SystemNebula
 trojan://ND91608427@adjusted-labrador.rooster465.autos:443?allowInsecure=1&sni=adjusted-labrador.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@relevant-cicada.rooster465.autos:443?allowInsecure=1&sni=relevant-cicada.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@grateful-owl.rooster465.autos:443?sni=grateful-owl.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@3.112.238.99:443?sni=stunning-mite.rooster465.autos&type=raw#%40SystemNebula
-trojan://AE62539071@new-antelope.rooster465.autos:443?allowInsecure=1&sni=new-antelope.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@maximum-elk.rooster465.autos:443?allowInsecure=1&sni=maximum-elk.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@harmless-imp.rooster465.autos:443?allowInsecure=1&sni=harmless-imp.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@ace-starling.rooster465.autos:443?sni=ace-starling.rooster465.autos&type=tcp#%40SystemNebula
