@@ -1,3 +1,0 @@
-trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@35.88.210.26:443?sni=dear-hermit.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@liked-serval.rooster465.autos:443?type=tcp#%40SystemNebula
