@@ -1,3 +1,5 @@
+vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.16.1:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/Lf40Du14nxmNjCFx?ed=2560#%40SystemNebula
+vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.32.1:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/ebmJ4UcdPxKGcPdT?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#%40SystemNebula
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.48.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/S0dQP0TopmwsC1K3?ed=2560#%40SystemNebula
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.64.1:8080?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/AKzyeMv5F4RdKNLT?ed=2560#%40SystemNebula
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/16K876L0W1BeJ0u0?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#%40SystemNebula
@@ -22,9 +24,7 @@ vless://1851fa23-279c-406e-ab0a-6c6e16bb9c25@104.18.37.228:2087?encryption=none&
 vless://1851fa23-279c-406e-ab0a-6c6e16bb9c25@104.20.13.122:2087?encryption=none&security=tls&sni=dailyconfigs.dodfun.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=dailyconfigs.dodfun.ir&path=/DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs?ed=2048&mode=auto&extra={"mode":"auto"}#%40SystemNebula
 vless://1851fa23-279c-406e-ab0a-6c6e16bb9c25@104.27.49.251:2087?encryption=none&security=tls&sni=dailyconfigs.dodfun.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=dailyconfigs.dodfun.ir&path=/DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs?ed=2048&mode=auto&extra={"mode":"auto"}#%40SystemNebula
 vless://1851fa23-279c-406e-ab0a-6c6e16bb9c25@172.64.84.62:2087?encryption=none&security=tls&sni=dailyconfigs.dodfun.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=dailyconfigs.dodfun.ir&path=/DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs?ed=2048&mode=auto&extra={"mode":"auto"}#%40SystemNebula
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.169.137.221:989#%40SystemNebula
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.169.137.214:989#%40SystemNebula
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.136.80.36:989#%40SystemNebula
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@212.237.210.158:989#%40SystemNebula
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@202.59.10.102:989#%40SystemNebula
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.227.178:989#%40SystemNebula
+vless://1851fa23-279c-406e-ab0a-6c6e16bb9c25@172.67.154.52:2087?encryption=none&security=tls&sni=dailyconfigs.dodfun.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=dailyconfigs.dodfun.ir&path=/DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs?ed=2048&mode=auto&extra={"mode":"auto"}#%40SystemNebula
+vless://1851fa23-279c-406e-ab0a-6c6e16bb9c25@www.speedtest.net:2087?encryption=none&security=tls&sni=dailyconfigs.dodfun.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=dailyconfigs.dodfun.ir&path=/DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs?ed=2048&mode=auto&extra={"mode":"auto"}#%40SystemNebula
+vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.16.19.242:80?encryption=none&security=none&type=ws&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=/?ed=2560#%40SystemNebula
+vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?encryption=none&security=none&type=ws&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=/?ed=2560#%40SystemNebula

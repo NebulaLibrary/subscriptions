@@ -1,3 +1,9 @@
+trojan://humanity@104.26.14.137:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%40SystemNebula
+trojan://humanity@104.18.152.155:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%40SystemNebula
+trojan://humanity@104.18.23.63:443?sni=www.ignitelimit.com#%40SystemNebula
+trojan://humanity@172.67.149.60:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%40SystemNebula
+trojan://humanity@104.18.152.97:443?sni=www.ignitelimit.com#%40SystemNebula
+trojan://BxceQaOe@43.199.31.69:4099?sni=t.me%2Fripaojiedian#%40SystemNebula
 trojan://humanity@104.17.177.143:443?sni=www.ignitelimit.com#%40SystemNebula
 trojan://humanity@104.16.174.6:443?sni=www.ignitelimit.com#%40SystemNebula
 trojan://humanity@104.17.111.4:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%40SystemNebula
@@ -22,9 +28,3 @@ trojan://humanity@2.144.21.112:40443?sni=www.ignitelimit.com#%40SystemNebula
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#%40SystemNebula
 trojan://humanity@198.41.223.96:443?sni=www.ignitelimit.com#%40SystemNebula
 trojan://AE62539071@strong-haddock.rooster465.autos:443?sni=strong-haddock.rooster465.autos#%40SystemNebula
-trojan://humanity@104.16.7.70:443?sni=www.ignitelimit.com#%40SystemNebula
-trojan://humanity@www.speedtest.org:443?sni=www.ignitelimit.com#%40SystemNebula
-trojan://6ec301428255a78a1d826988d86cc87e@16.162.109.29:10418?sni=www.nintendogames.net#%40SystemNebula
-trojan://humanity@104.16.73.213:443?sni=www.ignitelimit.com#%40SystemNebula
-trojan://6ec301428255a78a1d826988d86cc87e@16.162.100.124:3415?sni=www.nintendogames.net#%40SystemNebula
-trojan://humanity@86.38.214.205:443?sni=www.ignitelimit.com#%40SystemNebula
