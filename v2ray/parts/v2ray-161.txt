@@ -1,3 +1,7 @@
+vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.33.31:2041?security=none&encryption=none&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&headerType=none&type=tcp#%40SystemNebula
+vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.33.31:2053?encryption=none&security=none&type=tcp&headerType=none#%40SystemNebula
+vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.48.118:2041?encryption=none&security=none&type=tcp&headerType=none#%40SystemNebula
+vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.48.118:2041?security=none&encryption=none&headerType=none&type=tcp#%40SystemNebula
 vless://5ccaffbf-9cd3-4339-82da-c4dbbc699632@s2.zynetraq.ir:2087?alpn=h2,http/1.1,h3&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=s2.zynetraq.ir&mode=auto&path=/BetForward&pcs=0258c1ff5f1251a516a8ac42c354d3f757e43355dce7ac49e870acf3973ab711&security=tls&sni=s2.zynetraq.ir&type=xhttp&x_padding_bytes=100-1000#%40SystemNebula
 vless://5d14692d-c19e-4d47-f52a-3c3e9cf32939@q4.zoexx.cn:33666?path=/5d14692d&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=q4.zoexx.cn#%40SystemNebula
 vless://5d1d5947-72de-4bca-844d-af55ed0e4691@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#%40SystemNebula
@@ -24,7 +28,3 @@ vless://5e81fec9-0000-4397-9a88-23771e096e30@helpoweri.helpower.ir:2053?mode=aut
 vless://5e8add97-7e48-458a-a000-32d0d6fa253e@49.12.223.56:77?security=reality&encryption=none&pbk=YIS21Us01vvEWciseLt5XTs1XxHw8qb7VTieHiU62Tk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=7624e21b69ee5f0f#%40SystemNebula
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=bastona.aroonsid.ir#%40SystemNebula
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=buligh.aroonsid.ir#%40SystemNebula
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=latvia.aroonsid.ir#%40SystemNebula
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=armwwww.appleseraj.ir&sni=armwwww.appleseraj.ir&fp=chrome#%40SystemNebula
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=bbbbbposawe-iuu.appleseraj.ir&sni=bbbbbposawe-iuu.appleseraj.ir&fp=chrome#%40SystemNebula
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=belgho.appleseraj.ir&sni=belgho.appleseraj.ir&fp=chrome#%40SystemNebula

@@ -1,5 +1,0 @@
-trojan://AE62539071@43.207.86.70:443?allowInsecure=1&sni=rich-gelding.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@3.112.4.72:443?allowInsecure=1&sni=definite-hen.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@intense-wildcat.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://AE62539071@glowing-iguana.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://AE62539071@43.203.212.56:443?allowInsecure=1&sni=oriented-pegasus.rooster465.autos&type=tcp#%40SystemNebula

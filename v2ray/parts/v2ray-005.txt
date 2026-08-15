@@ -1,3 +1,5 @@
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.67.170.11:443?encryption=none&type=ws&security=tls&path=%2F&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0#%40SystemNebula
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:8443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%40SystemNebula
 vless://e6148e57-3b7f-4043-80f2-b0075ad41c73@91.107.242.82:995?encryption=none&security=none&type=tcp#%40SystemNebula
 vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?security=none&encryption=none&headerType=none&type=tcp#%40SystemNebula
 vless://463a26c2-eba8-0031-89c4-ee5c1373ccbe@vruaz.mostserv.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vruaz.mostserv.xyz&fp=firefox&pbk=ckPCrgbrSdQaz1j3vP0-f0P8F4E8ZucQTeQGtxBKagU&sid=3882f019072c5dcd&flow=xtls-rprx-vision#%40SystemNebula
@@ -26,5 +28,3 @@ vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4zNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6
 vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni45NyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxODAiLCAicHMiOiAi8J-UpUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTvCfn6MiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9#%40SystemNebula
 vless://a484645e-59df-4980-b649-92b71250ec60@72.56.246.91:4100/?type=ws&encryption=none&flow=&path=%2Fv1#%40SystemNebula
 vless://931dd7d0-3e04-4a7a-b8d1-cb4c4465c932@emarat.internetazad.com:2044?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%40SystemNebula
-vless://931dd7d0-3e04-4a7a-b8d1-cb4c4465c932@151.101.110.219:80?path=%2Fapi&security=&encryption=none&host=franseeeeeee.global.ssl.fastly.net&type=ws#%40SystemNebula
-vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?security=&encryption=none&headerType=&type=tcp#%40SystemNebula
