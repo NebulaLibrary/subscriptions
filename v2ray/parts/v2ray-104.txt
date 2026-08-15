@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@37.120.213.230:50004#%40SystemNebula
 ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@31.133.100.49:50004#%40SystemNebula
 ss://YWVzLTI1Ni1jZmI6MzEzNTc3MTYxOQ@94.20.154.38:50000#%40SystemNebula
 ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDQ1Ljg5LjIyOS4yMjM6MTUz#%40SystemNebula
@@ -27,4 +28,3 @@ trojan://humanity@2.144.21.150:2000?security=tls&type=ws&sni=www.ignitelimit.com
 trojan://humanity@104.18.152.187:443?sni=www.ignitelimit.com#%40SystemNebula
 trojan://humanity@104.17.177.143:443?sni=www.ignitelimit.com#%40SystemNebula
 trojan://humanity@8.6.112.6:443?sni=www.ignitelimit.com#%40SystemNebula
-trojan://humanity@104.16.174.44:443?sni=www.ignitelimit.com#%40SystemNebula

@@ -1,3 +1,4 @@
+trojan://AE62539071@sacred-hound.rooster465.autos:443?allowInsecure=1#%40SystemNebula
 trojan://AE62539071@teaching-gnu.rooster465.autos:443#%40SystemNebula
 trojan://AE62539071@supreme-lobster.rooster465.autos:443?allowInsecure=1&sni=supreme-lobster.rooster465.autos#%40SystemNebula
 trojan://AE62539071@up-dinosaur.rooster465.autos:443#%40SystemNebula
@@ -27,4 +28,3 @@ trojan://ND91608427@main-whippet.rooster465.autos:443?allowInsecure=1&sni=main-w
 trojan://ND91608427@moved-meerkat.rooster465.autos:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#%40SystemNebula
 trojan://ND91608427@pure-ram.rooster465.autos:443?allowInsecure=1&sni=pure-ram.rooster465.autos#%40SystemNebula
 trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=select-ferret.rooster465.autos#%40SystemNebula
-trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#%40SystemNebula

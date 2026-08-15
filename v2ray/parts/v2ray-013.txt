@@ -1,3 +1,4 @@
+vless://511c1563-2cb6-4064-abc6-a59ee49818a8@in1.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&host=Telegram-Leviko_v2ray&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#%40SystemNebula
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi%23TELEGRAM-ShadowProxy66%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%40SystemNebula
 vless://8033102198@95.85.246.138:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl9.fast-connect-service.site#%40SystemNebula
 vless://aa8250e1-954c-449e-98fc-aa56a973a3f1@216.106.183.132:443?security=reality&encryption=none&pbk=f0cYO8HgJ2j3klFyqIxscuLOBpElCYbInl2NSx3V8H0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.ea.com&sid=8a47e20aa6973852#%40SystemNebula
@@ -27,4 +28,3 @@ vless://f4d859eb-abc6-4c57-9eee-8fe9e2ef0f94@80.240.18.227:10051?encryption=none
 vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTYuMTQxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9#%40SystemNebula
 trojan://AE62539071@sterling-macaw.rooster465.autos:443#%40SystemNebula
 trojan://AE62539071@moved-bluegill.rooster465.autos:443#%40SystemNebula
-vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@164.37.105.2:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lE6w45X8Bwb0HscO6Wa5wnN0qlw7wUuaCW8-iYL5HAQ&security=reality&sid=bc609efa3b2d052f&sni=pnnsh.falsemirrov.com&type=tcp#%40SystemNebula
