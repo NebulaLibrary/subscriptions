@@ -1,3 +1,11 @@
+trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?security=tls&headerType=&type=tcp&sni=www.nintendogames.net#%40SystemNebula
+trojan://7a49ebc8-6235-36b1-b7b4-0864b95bd90a@ger.aaaa.gay:45900?allowInsecure=0#%40SystemNebula
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%40SystemNebula
+trojan://8r<[9'l6hAO#%40SystemNebula
+trojan://AE62539071@18.183.182.132:443?security=tls&sni=exciting-grizzly.rooster465.autos#%40SystemNebula
+trojan://AE62539071@18.194.130.12:443?fp=chrome&sni=sterling-macaw.rooster465.autos#%40SystemNebula
+trojan://AE62539071@18.194.130.12:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=sterling-macaw.rooster465.autos#%40SystemNebula
+trojan://AE62539071@18.194.130.12:443?security=tls&sni=sterling-macaw.rooster465.autos&fp=chrome&type=tcp&headerType=none#%40SystemNebula
 trojan://AE62539071@18.194.232.212:443?fp=chrome&sni=dashing-bedbug.rooster465.autos#%40SystemNebula
 trojan://AE62539071@18.198.1.232:443?fp=chrome&sni=teaching-gnu.rooster465.autos#%40SystemNebula
 trojan://AE62539071@18.198.1.232:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=teaching-gnu.rooster465.autos#%40SystemNebula
@@ -20,11 +28,3 @@ trojan://AE62539071@novel-mouse.rooster465.autos:443?allowInsecure=1#%40SystemNe
 trojan://AE62539071@polished-imp.rooster465.autos:443?allowInsecure=1&sni=polished-imp.rooster465.autos#%40SystemNebula
 trojan://AE62539071@premium-weevil.rooster465.autos:443?allowInsecure=1#%40SystemNebula
 trojan://AE62539071@sharing-duck.rooster465.autos:443?allowInsecure=1#%40SystemNebula
-trojan://AE62539071@supreme-lobster.rooster465.autos:443?allowInsecure=1&sni=supreme-lobster.rooster465.autos#%40SystemNebula
-trojan://AE62539071@upright-bedbug.rooster465.autos:443?allowInsecure=1#%40SystemNebula
-trojan://AE62539071@wealthy-loon.rooster465.autos:443?sni=wealthy-loon.rooster465.autos&type=tcp&fp=chrome#%40SystemNebula
-trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me/ripaojiedian#%40SystemNebula
-trojan://BxceQaOe@16.162.92.128:9408/?type=tcp&security=tls&sni=t.me/ripaojiedian&allowInsecure=1#%40SystemNebula
-trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1&note=@FreeOnlineVPN#%40SystemNebula
-trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#%40SystemNebula
-trojan://DILbRzFC@tr0jan.wefuckgfw.gq:443?allowInsecure=1#%40SystemNebula
