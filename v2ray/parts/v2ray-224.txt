@@ -1,6 +1,3 @@
-trojan://AE62539071@52.198.117.121:443?allowInsecure=1&sni=relevant-cicada.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@internal-sunbird.rooster465.autos:443?sni=internal-sunbird.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@healthy-louse.rooster465.autos:443?sni=healthy-louse.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@3.112.29.46:443?allowInsecure=1&sni=clear-killdeer.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@185.244.208.69:443?sni=strong-haddock.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@welcome-owl.rooster465.autos:443?type=tcp#%40SystemNebula
@@ -28,3 +25,6 @@ trojan://AE62539071@54.168.18.107:443?allowInsecure=1&sni=game-thrush.rooster465
 trojan://ND91608427@uncommon-feline.rooster465.autos:443?sni=uncommon-feline.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@arriving-colt.rooster465.autos:443?sni=arriving-colt.rooster465.autos&type=tcp#%40SystemNebula
 trojan://ND91608427@casual-bee.rooster465.autos:443?allowInsecure=1&sni=casual-bee.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@18.178.132.111:443?sni=devoted-heron.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@strong-haddock.rooster465.autos:443?sni=strong-haddock.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@harmless-imp.rooster465.autos:443?type=tcp#%40SystemNebula
