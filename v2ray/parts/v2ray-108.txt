@@ -1,8 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.85.90.181:810#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.85.90.181:804#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.85.90.181:803#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.141.37.111:812#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@93.186.201.124:811#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@93.186.201.124:810#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@89.31.125.101:812#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@81.90.189.57:810#%40SystemNebula
@@ -24,7 +19,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.154:805#%40Syste
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.154:803#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@195.12.49.82:801#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@193.9.114.34:809#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@193.9.114.34:805#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@193.9.114.34:801#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@185.17.113.234:812#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@185.17.113.234:809#%40SystemNebula
+trojan://humanity@84.21.172.81:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%40SystemNebula
+trojan://humanity@104.18.152.97:443?sni=www.ignitelimit.com#%40SystemNebula
+trojan://humanity@104.18.152.144:443?sni=www.ignitelimit.com#%40SystemNebula
+trojan://humanity@165.215.250.14:443?sni=www.ignitelimit.com#%40SystemNebula
+trojan://humanity@104.18.152.175:443?sni=www.ignitelimit.com#%40SystemNebula
+trojan://humanity@104.16.174.46:443?sni=www.ignitelimit.com#%40SystemNebula
+trojan://humanity@104.18.152.155:443?sni=www.ignitelimit.com#%40SystemNebula
+trojan://humanity@104.18.152.152:443?sni=www.ignitelimit.com#%40SystemNebula
+trojan://humanity@104.16.174.22:443?sni=www.ignitelimit.com#%40SystemNebula

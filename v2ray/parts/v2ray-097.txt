@@ -1,7 +1,4 @@
-vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@gr1.levikogjgfdd.ir:51822?security=none&encryption=none&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#%40SystemNebula
-vless://2042e1e6-7175-4604-9e0a-b13284ffeb54@212.227.102.223:443?security=reality&encryption=none&pbk=T7S1Y2CoRdwseMAqiTUhEzZ7LE7LWp6DMGmu7cORvCk&headerType=none&fp=chrome&spx=/&type=tcp&sni=npv.tosiko.com&sid=4f3e2491e42b6a#%40SystemNebula
-vless://20700b40-8837-45d0-e449-e2095a9f5145@66.33.22.128:443?path=/ws/20700b40-8837-45d0-e449-e2095a9f5145#%40SystemNebula
-vless://20700b40-8837-45d0-e449-e2095a9f5145@66.33.22.128:443?path=/ws/20700b40-8837-45d0-e449-e2095a9f5145&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=daring-tenderness-production-4fba.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=daring-tenderness-production-4fba.up.railway.app#%40SystemNebula
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.169.137.214:989#%40SystemNebula
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.136.80.36:989#%40SystemNebula
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@212.237.210.158:989#%40SystemNebula
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@202.59.10.102:989#%40SystemNebula
@@ -28,3 +25,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxODUuODkuMjM4LjM2Ojk4OQ#%40SystemNeb
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxNTEuMjM2LjIzLjEwNTo5ODk#%40SystemNebula
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0A1NC4zNy4xMzYuMjQ5Ojk4OQ#%40SystemNebula
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0A0Ni4xODMuMTg1LjE1Ojk4OQ#%40SystemNebula
+ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg@217.30.10.64:9015#%40SystemNebula
+ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw@5.183.179.146:9025#%40SystemNebula
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA@213.183.41.38:9027#%40SystemNebula
