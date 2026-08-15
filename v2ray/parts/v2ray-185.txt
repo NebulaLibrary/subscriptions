@@ -1,3 +1,6 @@
+vless://78e4df0c-5174-4e18-a874-995ef6e6a38d@expressvpn_420.fastly80.hosting-ip.com:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=foffmelo.com&type=ws#%40SystemNebula
+vless://78eddd19-4fd4-461e-ad75-efd8cd44e0d0@i2.cloud--vpn.site:443?host=c12.com&security=tls&sni=ssl.fastly.com&encryption=none&path=/&type=ws&insecure=0&fp=chrome&alpn=h2&allowInsecure=0#%40SystemNebula
+vless://78eddd19-4fd4-461e-ad75-efd8cd44e0d0@i2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&host=c12.com&fp=chrome&type=ws&sni=ssl.fastly.com#%40SystemNebula
 vless://78eddd19-4fd4-461e-ad75-efd8cd44e0d0@i2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40SystemNebula
 vless://7909e164-d482-4620-a370-07e6fda6676b@185.125.103.62:8082?encryption=none&fp=chrome&host=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&path=/@Marisa_kristi&security=tls&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&type=ws#%40SystemNebula
 vless://79310d42-ef16-48d8-bd14-70d6d6fcad31@neww.blueheartz.ir:2233?flow=xtls-rprx-vision&encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=zRzoNR3p8DZIf2Sdpzb2Ooi3dDAYo8E1LLPkaXMK3wk&sid=beb4ab1bb8df58ba&spx=/49a81c78d045d77&allowinsecure=0&type=tcp&headerType=none#%40SystemNebula
@@ -17,14 +20,11 @@ vless://79a5be11-ec1f-4e18-b7fc-aef854234c43@199.232.78.159:443?path=/TELEGRAM_N
 vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@151.101.56.6:443?path=/&security=tls&alpn=h2&encryption=none&host=c12.com&fp=chrome&type=ws&sni=ssl.fastly.com#%40SystemNebula
 vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@151.101.56.6:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40SystemNebula
 vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40SystemNebula
+vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@k2.cloud--vpn.site:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40SystemNebula
 vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&host=c12.com&fp=chrome&type=ws&sni=ssl.fastly.com#%40SystemNebula
 vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40SystemNebula
+vless://79dafc6f-e61b-46cf-8a3c-74f6304d230c@freesocks.work:2083?alpn=h2&encryption=none&fp=chrome&host=uwu.meowpew.de5.net&path=/&security=tls&sni=uwu.meowpew.de5.net&type=ws#%40SystemNebula
+vless://79dafc6f-e61b-46cf-8a3c-74f6304d230c@freesocks.work:2083?encryption=none&security=tls&sni=uwu.meowpew.de5.net&alpn=h2&fp=chrome&allowinsecure=0&type=ws&host=uwu.meowpew.de5.net&path=/#%40SystemNebula
+vless://79dafc6f-e61b-46cf-8a3c-74f6304d230c@freesocks.work:2083?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=uwu.meowpew.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=uwu.meowpew.de5.net#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.129:443#%40SystemNebula
 trojan://FH72359861@massive-ocelot.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://FH72359861@apt-whippet.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://AE62539071@modest-foal.rooster465.autos:443?allowInsecure=1&sni=modest-foal.rooster465.autos&type=tcp#%40SystemNebula
-vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:18662?flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%40SystemNebula
-vless://8088b716-70a1-4685-9434-5cee89738af4@p1real1.greewebservices.ir:1230?fp=chrome&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&security=reality&sid=9b60d3&sni=play.googleapis.com&type=tcp#%40SystemNebula
-hy2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1#%40SystemNebula
-hy2://b8f1b61e-d5c4-4765-866d-ece1fc8e590b@104.165.205.251:8443?insecure=1&sni=speedtestmark.com#%40SystemNebula
-hy2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@mg2.mangshe.xyz:2056?insecure=1#%40SystemNebula

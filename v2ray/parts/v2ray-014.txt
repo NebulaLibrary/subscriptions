@@ -1,3 +1,5 @@
+trojan://AE62539071@sterling-macaw.rooster465.autos:443#%40SystemNebula
+trojan://AE62539071@moved-bluegill.rooster465.autos:443#%40SystemNebula
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@164.37.105.2:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lE6w45X8Bwb0HscO6Wa5wnN0qlw7wUuaCW8-iYL5HAQ&security=reality&sid=bc609efa3b2d052f&sni=pnnsh.falsemirrov.com&type=tcp#%40SystemNebula
 trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&path=%2F%3Fed&sni=epge.muarua.filegear-sg.me&type=ws#%40SystemNebula
 vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?encryption=none&fp=&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo&security=reality&sid=5030&sni=status.play.google.com&type=tcp#%40SystemNebula
@@ -26,5 +28,3 @@ vless://502ab974-22ed-4621-a1d6-d15b78f677c2@webcam.dearhossein-taktaz.ir:20434?
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp&headerType=none&path=%2F#%40SystemNebula
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.46:443?type=ws&security=tls&path=/&sni=de-new.ariyuz.org#%40SystemNebula
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.73.255:22222?encryption=none&security=none&type=tcp#%40SystemNebula
-vless://4f929443-1d17-47df-8950-ba25403a0787@reseau.proxy.rlwy.net:17803?mode=auto&path=%2Fassets&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%225-70%22%7D&pbk=5018vOsoQiuT3QAr-NUJx5eMZ7yV9lUjZcPla2hLwHs&fp=chrome&spx=%2Fe9058c6b4d22d91&type=xhttp&sni=www.samsung.com&sid=558d#%40SystemNebula
-vless://502ab974-22ed-4621-a1d6-d15b78f677c2@webcam.dearhossein-taktaz.ir:443?encryption=mlkem768x25519plus.native.0rtt._O1WVuyKcYcdbSISPM-Oq689DC6_JJ-B1CyA_xflCBw&sni=webcam.dearhossein-taktaz.ir&type=xhttp&allowInsecure=0&path=%2F&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&security=tls&host=webcam.dearhossein-taktaz.ir&insecure=0&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&mode=auto#%40SystemNebula

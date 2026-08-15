@@ -1,6 +1,6 @@
+trojan://ND91608427@44.242.235.129:443?security=tls&sni=devoted-tapir.rooster465.autos#%40SystemNebula
 trojan://ND91608427@fleet-bonefish.rooster465.autos:443?security=tls&sni=fleet-bonefish.rooster465.autos#%40SystemNebula
 trojan://ND91608427@44.246.163.102:443?security=tls&sni=fleet-bonefish.rooster465.autos#%40SystemNebula
-trojan://ND91608427@pet-ghost.rooster465.autos:443?security=tls&sni=pet-ghost.rooster465.autos#%40SystemNebula
 trojan://ND91608427@44.244.3.114:443?security=tls&sni=pet-ghost.rooster465.autos#%40SystemNebula
 trojan://ND91608427@devoted-tapir.rooster465.autos:443?security=tls&sni=devoted-tapir.rooster465.autos#%40SystemNebula
 trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls#%40SystemNebula
@@ -9,7 +9,6 @@ trojan://AE62539071@unbiased-garfish.rooster465.autos:443?security=tls#%40System
 trojan://AE62539071@distinct-quail.rooster465.autos:443?security=tls#%40SystemNebula
 trojan://AE62539071@moved-bluegill.rooster465.autos:443?security=tls#%40SystemNebula
 trojan://AE62539071@sterling-macaw.rooster465.autos:443?security=tls#%40SystemNebula
-trojan://AE62539071@52.194.223.176:443?security=tls&sni=clear-heron.rooster465.autos#%40SystemNebula
 trojan://ND91608427@upright-impala.rooster465.autos:443?security=tls&sni=upright-impala.rooster465.autos#%40SystemNebula
 trojan://ND91608427@thankful-mustang.rooster465.autos:443?security=tls&sni=thankful-mustang.rooster465.autos#%40SystemNebula
 trojan://ND91608427@nearby-egret.rooster465.autos:443?security=tls#%40SystemNebula
@@ -28,3 +27,4 @@ trojan://ND91608427@healthy-louse.rooster465.autos:443?security=tls&sni=healthy-
 trojan://AE62539071@maximum-elk.rooster465.autos:443?security=tls&sni=maximum-elk.rooster465.autos#%40SystemNebula
 trojan://AE62539071@polished-imp.rooster465.autos:443?security=tls&sni=polished-imp.rooster465.autos#%40SystemNebula
 trojan://ND91608427@real-werewolf.rooster465.autos:443?security=tls&sni=real-werewolf.rooster465.autos#%40SystemNebula
+trojan://ND91608427@3.112.238.99:443?security=tls&sni=stunning-mite.rooster465.autos#%40SystemNebula
