@@ -1,3 +1,4 @@
+vless://35066ccf-e303-4b0e-993b-aa2c2cef9c87@147.90.9.105:2443?encryption=none&fp=&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&security=reality&serviceName=grpc&sid=ef567890&sni=ads.x5.ru&type=grpc#%40SystemNebula
 vless://35066ccf-e303-4b0e-993b-aa2c2cef9c87@87.120.196.190:2443?security=reality&encryption=none&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&fp=chrome&type=grpc&serviceName=grpc&sni=ya.ru&sid=ef567890#%40SystemNebula
 vless://35066f2a-b5af-40eb-ac1d-c8b2eba2da5a@199.232.78.150:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=SvnTeamChannel.global.ssl.fastly.net&path=/#%40SystemNebula
 vless://3525100e-ef3e-4236-9173-819c82634feb@78.39.47.165:30000?path=/&security=none&encryption=none&type=ws#%40SystemNebula
@@ -27,4 +28,3 @@ vless://36644091-0cec-47fe-9955-97c3f424baf7@51.89.227.151:443?security=reality&
 vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-0.chatgpt.com:443?alpn=h2&encryption=none&host=GERMAN.sarzamiiinahang.ir&mode=auto&path=/Meh?di=443&security=tls&sni=GERMAN.sarzamiiinahang.ir&type=xhttp#%40SystemNebula
 vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-0.chatgpt.com:443?encryption=none&fp=chrome&mode=auto&path=/Meh?di&security=tls&sni=german.sarzamiiinahang.ir&type=xhttp#%40SystemNebula
 vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-0.chatgpt.com:443?encryption=none&fp=chrome&mode=auto&path=/Meh?di=443&security=tls&sni=german.sarzamiiinahang.ir&type=xhttp#%40SystemNebula
-vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-0.chatgpt.com:443?encryption=none&security=tls&sni=german.sarzamiiinahang.ir&fp=chrome&allowinsecure=0&type=xhttp&mode=auto&path=/Meh?di=443#%40SystemNebula
