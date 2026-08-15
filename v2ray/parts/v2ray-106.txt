@@ -1,3 +1,7 @@
+trojan://FH72359861@master-possum.rooster465.autos:443?allowInsecure=1&sni=master-possum.rooster465.autos#%40SystemNebula
+trojan://FH72359861@massive-ocelot.rooster465.autos:443?allowInsecure=1#%40SystemNebula
+trojan://FH72359861@darling-mongrel.rooster465.autos:443?allowInsecure=1&sni=darling-mongrel.rooster465.autos#%40SystemNebula
+trojan://6ec301428255a78a1d826988d86cc87e@16.162.160.61:50887?allowInsecure=1&sni=www.nintendogames.net#%40SystemNebula
 trojan://FH72359861@modern-bedbug.rooster465.autos:443?allowInsecure=1&sni=modern-bedbug.rooster465.autos#%40SystemNebula
 trojan://FH72359861@summary-lemming.rooster465.autos:443?allowInsecure=1&sni=summary-lemming.rooster465.autos#%40SystemNebula
 trojan://FH72359861@loved-shark.rooster465.autos:443?allowInsecure=1&sni=loved-shark.rooster465.autos#%40SystemNebula
@@ -24,7 +28,3 @@ trojan://humanity@104.18.152.207:443?sni=www.ignitelimit.com#%40SystemNebula
 trojan://humanity@104.17.111.4:443?sni=www.ignitelimit.com#%40SystemNebula
 trojan://humanity@104.18.152.175:443?sni=www.ignitelimit.com#%40SystemNebula
 trojan://humanity@104.18.152.246:443?sni=www.ignitelimit.com#%40SystemNebula
-trojan://humanity@141.101.90.101:443?sni=www.ignitelimit.com#%40SystemNebula
-trojan://humanity@104.16.174.22:443?sni=www.ignitelimit.com#%40SystemNebula
-trojan://humanity@104.16.174.14:443?sni=www.ignitelimit.com#%40SystemNebula
-trojan://humanity@104.18.152.73:443?sni=www.ignitelimit.com#%40SystemNebula
