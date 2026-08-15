@@ -1,1 +1,0 @@
-trojan://AE62539071@43.200.244.3:443?sni=infinite-tuna.rooster465.autos&type=tcp#%40SystemNebula
