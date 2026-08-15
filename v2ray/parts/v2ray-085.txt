@@ -1,3 +1,4 @@
+trojan://ND91608427@striking-maggot.rooster465.autos:443?security=tls&sni=striking-maggot.rooster465.autos#%40SystemNebula
 trojan://AE62539071@sacred-hound.rooster465.autos:443?security=tls#%40SystemNebula
 trojan://ND91608427@43.202.56.122:443?security=tls&sni=striking-maggot.rooster465.autos#%40SystemNebula
 trojan://FH72359861@massive-ocelot.rooster465.autos:443?security=tls#%40SystemNebula
@@ -17,7 +18,6 @@ trojan://FH72359861@13.212.186.116:443?security=tls&sni=eminent-panther.rooster4
 trojan://FH72359861@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#%40SystemNebula
 trojan://FH72359861@fond-chipmunk.rooster465.autos:443?security=tls#%40SystemNebula
 trojan://ND91608427@91.199.84.120:443?security=tls&sni=dynamic-grubworm.rooster465.autos#%40SystemNebula
-trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?security=tls&sni=dynamic-grubworm.rooster465.autos#%40SystemNebula
 trojan://ND91608427@ace-starling.rooster465.autos:443?security=tls&sni=ace-starling.rooster465.autos#%40SystemNebula
 trojan://AE62539071@upright-bedbug.rooster465.autos:443?security=tls#%40SystemNebula
 trojan://ND91608427@185.244.208.13:443?security=tls&sni=ace-starling.rooster465.autos#%40SystemNebula

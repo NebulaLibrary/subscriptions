@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8090#%40SystemNebula
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8091#%40SystemNebula
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.36.174.181:8091#%40SystemNebula
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.37.12.70:8090#%40SystemNebula
 trojan://telegram-id-directvpn@3.76.5.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40SystemNebula
 trojan://uRkZYGid1r@179.237.75.190:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#%40SystemNebula
 trojan://uRkZYGid1r@6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-pakipon.ir:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#%40SystemNebula
@@ -6,19 +10,15 @@ trojan://AE62539071@dashing-bedbug.rooster465.autos:443#%40SystemNebula
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?allowInsecure=1&sni=t11.qifei.app#%40SystemNebula
 trojan://AE62539071@chief-cricket.rooster465.autos:443#%40SystemNebula
 trojan://AE62539071@emerging-weevil.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@integral-quetzal.rooster465.autos:443?allowInsecure=1#%40SystemNebula
 trojan://AE62539071@literate-cow.rooster465.autos:443?allowInsecure=1#%40SystemNebula
-trojan://AE62539071@darling-mutt.rooster465.autos:443?allowInsecure=1#%40SystemNebula
 trojan://AE62539071@moved-bluegill.rooster465.autos:443#%40SystemNebula
 trojan://AE62539071@main-impala.rooster465.autos:443?allowInsecure=1#%40SystemNebula
 trojan://AE62539071@polished-imp.rooster465.autos:443?allowInsecure=1&sni=polished-imp.rooster465.autos#%40SystemNebula
 trojan://AE62539071@premium-weevil.rooster465.autos:443?allowInsecure=1#%40SystemNebula
 trojan://AE62539071@sterling-macaw.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@sacred-hound.rooster465.autos:443?allowInsecure=1#%40SystemNebula
 trojan://AE62539071@humorous-llama.rooster465.autos:443?allowInsecure=1&sni=humorous-llama.rooster465.autos#%40SystemNebula
 trojan://AE62539071@teaching-gnu.rooster465.autos:443#%40SystemNebula
 trojan://AE62539071@supreme-lobster.rooster465.autos:443?allowInsecure=1&sni=supreme-lobster.rooster465.autos#%40SystemNebula
-trojan://AE62539071@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#%40SystemNebula
 trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#%40SystemNebula
 trojan://AE62539071@up-dinosaur.rooster465.autos:443#%40SystemNebula
 trojan://FH72359861@absolute-bobcat.rooster465.autos:443?allowInsecure=0#%40SystemNebula
