@@ -25,6 +25,6 @@ vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=/?TELEGRAM-MA
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%40SystemNebula
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=/?TELEGRAM-TOOTFFARANGI?ed=2560&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%40SystemNebula
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=musiclovers85?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%40SystemNebula
-trojan://AE62539071@18.183.140.61:443?allowInsecure=1&sni=harmless-imp.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@18.179.112.24:443?sni=supreme-lobster.rooster465.autos&type=raw#%40SystemNebula
-trojan://AE62539071@13.158.135.118:443?sni=literate-cow.rooster465.autos&type=raw#%40SystemNebula
+trojan://AE62539071@13.113.43.109:443?allowInsecure=1&sni=learning-ibex.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@18.179.112.24:443?allowInsecure=1&sni=supreme-lobster.rooster465.autos&type=tcp#%40SystemNebula
+vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?fp=firefox&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&security=reality&sid=e6ac18b63f23&sni=bgcpartners.com&type=tcp#%40SystemNebula
