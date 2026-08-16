@@ -1,5 +1,3 @@
-trojan://humanity@104.18.22.63:443?sni=www.ignitelimit.com#%40SystemNebula
-trojan://humanity@165.215.250.14:443?sni=www.ignitelimit.com#%40SystemNebula
 trojan://FH72359861@pretty-adder.rooster465.autos:443?sni=pretty-adder.rooster465.autos#%40SystemNebula
 trojan://humanity@104.26.14.137:443?sni=www.ignitelimit.com#%40SystemNebula
 trojan://humanity@2.144.21.150:2000?sni=www.ignitelimit.com#%40SystemNebula
@@ -28,3 +26,5 @@ trojan://humanity@86.38.214.205:443?sni=www.ignitelimit.com#%40SystemNebula
 trojan://FH72359861@noted-cougar.rooster465.autos:443?sni=noted-cougar.rooster465.autos#%40SystemNebula
 trojan://FH72359861@communal-troll.rooster465.autos:443?sni=communal-troll.rooster465.autos#%40SystemNebula
 trojan://FH72359861@magical-airedale.rooster465.autos:443?sni=magical-airedale.rooster465.autos#%40SystemNebula
+trojan://humanity@104.18.152.113:443?sni=www.ignitelimit.com#%40SystemNebula
+trojan://FH72359861@welcome-monitor.rooster465.autos:443?sni=welcome-monitor.rooster465.autos#%40SystemNebula
