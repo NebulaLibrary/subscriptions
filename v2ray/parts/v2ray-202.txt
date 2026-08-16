@@ -1,8 +1,5 @@
-trojan://AE62539071@safe-frog.rooster465.autos:443?allowInsecure=1&sni=safe-frog.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@grateful-leech.rooster465.autos:443?allowInsecure=1&sni=grateful-leech.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@better-molly.rooster465.autos:443?sni=better-molly.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@52.199.134.162:443?allowInsecure=1&sni=modest-pup.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@13.231.162.10:443?allowInsecure=1&sni=united-sculpin.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@many-pangolin.rooster465.autos:443?sni=many-pangolin.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@charmed-fly.rooster465.autos:443?allowInsecure=1&sni=charmed-fly.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@lasting-bobcat.rooster465.autos:443?allowInsecure=1&sni=lasting-bobcat.rooster465.autos&type=tcp#%40SystemNebula
@@ -28,3 +25,6 @@ trojan://6ec301428255a78a1d826988d86cc87e@18.162.120.218:50887?sni=www.nintendog
 trojan://FH72359861@welcome-owl.rooster465.autos:443?sni=welcome-owl.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@strong-haddock.rooster465.autos:443?type=tcp#%40SystemNebula
 trojan://FH72359861@internal-peacock.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://AE62539071@infinite-tuna.rooster465.autos:443?allowInsecure=1&sni=infinite-tuna.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@sure-husky.rooster465.autos:443?sni=sure-husky.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@possible-yeti.rooster465.autos:443?allowInsecure=1&sni=possible-yeti.rooster465.autos&type=tcp#%40SystemNebula
