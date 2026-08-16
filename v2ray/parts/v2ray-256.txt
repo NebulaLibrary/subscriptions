@@ -1,4 +1,0 @@
-trojan://FH72359861@52.195.225.156:443?sni=many-pangolin.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@liked-serval.rooster465.autos:443?sni=liked-serval.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@18.181.118.40:443?sni=definite-panda.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@charming-ox.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
