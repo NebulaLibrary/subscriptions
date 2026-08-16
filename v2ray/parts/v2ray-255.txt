@@ -1,0 +1,10 @@
+trojan://AE62539071@intense-wildcat.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://AE62539071@deep-ringtail.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://AE62539071@maximum-elk.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://AE62539071@upright-bedbug.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
+trojan://AE62539071@3.38.191.182:443?sni=saved-ghoul.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@44.246.163.102:443?allowInsecure=1&sni=fleet-bonefish.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@54.95.128.248:443?allowInsecure=1&sni=engaged-ram.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@striking-maggot.rooster465.autos:443?sni=striking-maggot.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@54.95.128.248:443?sni=engaged-ram.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@fun-poodle.rooster465.autos:443?type=tcp#%40SystemNebula
