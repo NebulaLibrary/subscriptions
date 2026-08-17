@@ -1,0 +1,2 @@
+trojan://FH72359861@equal-labrador.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://AE62539071@maximum-elk.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
