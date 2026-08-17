@@ -1,3 +1,0 @@
-trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=select-ferret.rooster465.autos&type=tcp#%40SystemNebula
-trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@adapted-quetzal.rooster465.autos:443?sni=adapted-quetzal.rooster465.autos&type=tcp#%40SystemNebula
