@@ -1,3 +1,4 @@
+vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?encryption=none&type=ws&host=israeel.global.ssl.fastly.net.&path=/&security=tls&sni=ssl.fastly.com#%40SystemNebula
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?encryption=none&type=ws&host=towndtime.global.ssl.fastly.neT.&path=/&security=tls&sni=ssl.fastly.com#%40SystemNebula
 vless://62b72631-985d-4768-8b5a-7cc06753e0f0@83.138.53.193:443?encryption=none&security=reality&sni=centraleurope.koexp.ru&fp=firefox&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&sid=361c68748712c743&allowinsecure=1&type=grpc&mode=gun&authority=&serviceName=grpc#%40SystemNebula
 vless://5c22dd50-f75d-4cf5-ba53-121f91d8bfe1@193.233.255.32:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%40SystemNebula
@@ -27,4 +28,3 @@ vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?encryption=none&
 vless://1243639c-60f1-4ad9-b0c2-a7635b2abc98@185.91.53.4:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=grpc&security=reality&encryption=none&sni=360.yandex.ru&fp=firefox&pbk=VaKp9XjMqT7lA4F3b6hpdF6fmsiY4B_hz6MzT6fv938&headerType=none&mode=gun#%40SystemNebula
 trojan://AE62539071@distinct-quail.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=&fp=chrome&type=tcp&path=%2f#%40SystemNebula
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@151.101.56.7:443?path=%2F&security=tls&encryption=none&insecure=0&host=italyan.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40SystemNebula
-vless://6a6f414c-0326-4764-8e90-04f53cdaac57@94.237.85.204:28961?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40SystemNebula

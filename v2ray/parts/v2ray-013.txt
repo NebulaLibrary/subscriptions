@@ -1,3 +1,4 @@
+vless://93709520-71fe-4913-8e2e-5d8138f1e72f@usq.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=08#%40SystemNebula
 vless://5f48fe27-0e33-4cf6-a976-bacd2b0621e0@Fan1land09km.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40SystemNebula
 vless://93709520-71fe-4913-8e2e-5d8138f1e72f@tri.mobileemdad.top:42538?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=msedge.b.tlu.dl.delivery.mp.microsoft.com#%40SystemNebula
 vless://93709520-71fe-4913-8e2e-5d8138f1e72f@fr6.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#%40SystemNebula
@@ -27,4 +28,3 @@ vless://e0454af2-6fe9-4983-a55d-05e1da202602@Gr2alman09jk.horlutr.ir:2087?encryp
 vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@neth6.lckdwn.ru:443?security=&encryption=none&type=ws#%40SystemNebula
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@netherholan-90.horlutr.ir:2087?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/&security=none#%40SystemNebula
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?encryption=none&type=ws&host=netheroijji.global.ssl.fastly.net&path=/&security=tls&sni=ssl.fastly.com#%40SystemNebula
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.238:443?security=reality&encryption=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=savesafe.co&sid=f63805c3ecc7a483#%40SystemNebula
