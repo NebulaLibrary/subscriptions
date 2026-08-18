@@ -1,9 +1,3 @@
-trojan://AE62539071@13.250.126.30:443?sni=adapted-martin.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@national-stingray.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://PQ05174892@13.209.18.180:443?sni=musical-manatee.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@absolute-bobcat.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
-trojan://PQ05174892@3.38.108.23:443?sni=balanced-stag.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@34.222.243.142:443?sni=comic-poodle.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@one-dove.rooster465.autos:443?type=tcp#%40SystemNebula
 trojan://FH72359861@87.121.33.109:443?sni=national-stingray.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@together-mayfly.rooster465.autos:443?type=tcp#%40SystemNebula
@@ -28,3 +22,9 @@ vless://43a13764-23dd-4e01-8b79-cde8a16e13ce@204.48.20.223:30906?fp=firefox&pbk=
 vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?alpn=channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn%E2%95%A8%E2%8C%90%E2%95%A5%C3%BB&flow=xtls-rprx-vision&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&security=reality&sid=0990d22f&sni=www.cloudflare.com&type=tcp#%40SystemNebula
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?flow=xtls-rprx-vision&fp=ios&host=v2raynplus--v2raynplus--v2raynplus&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#%40SystemNebula
 vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?alpn=channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn%E2%94%98%C3%A7&flow=xtls-rprx-vision&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&security=reality&sid=0990d22f&sni=www.cloudflare.com&type=tcp#%40SystemNebula
+vless://8fc03edf-6833-4c58-bbe4-0b35806dae84@79.127.243.217:443?flow=xtls-rprx-vision&fp=firefox&pbk=IZz9Lj4tnHzNj9AkGlcOQxQXMJe0EGZLtIyX1a_yNAg&security=reality&sid=01d72fe094c8f6ef&sni=www.bing.com&type=tcp#%40SystemNebula
+vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.239.6.251:13779?flow=xtls-rprx-vision&fp=qq&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&security=reality&sid=af1bdd293097b664&sni=tesla.com&type=tcp#%40SystemNebula
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?flow=xtls-rprx-vision&fp=ios&host=v2raynplus--v2raynplus--v2raynplus&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#%40SystemNebula
+vless://d9e4721d-cdac-44c7-bc91-117367eac194@216.152.147.28:443?flow=xtls-rprx-vision&fp=firefox&pbk=kjiuPmjM4IutdZudHfcPZHEwcrBEFY4qBLlvfC6A_Ss&security=reality&sid=b9f8d3f8&sni=www.cloudflare.com&type=tcp#%40SystemNebula
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?flow=xtls-rprx-vision&fp=ios&host=v2raynplus--v2raynplus--v2raynplus&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#%40SystemNebula
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?flow=xtls-rprx-vision&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#%40SystemNebula

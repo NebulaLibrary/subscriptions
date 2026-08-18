@@ -1,9 +1,3 @@
-trojan://PQ05174892@big-bonefish.rooster465.autos:443?sni=big-bonefish.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@43.207.171.97:443?sni=noted-cougar.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@gentle-platypus.rooster465.autos:443?sni=gentle-platypus.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@communal-troll.rooster465.autos:443?sni=communal-troll.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@bright-buffalo.rooster465.autos:443?sni=bright-buffalo.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@national-stingray.rooster465.autos:443?sni=national-stingray.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@aware-puma.rooster465.autos:443?sni=aware-puma.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@wise-rhino.rooster465.autos:443?sni=wise-rhino.rooster465.autos&type=tcp#%40SystemNebula
 trojan://HC04361579@legible-ocelot.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
@@ -28,3 +22,9 @@ trojan://fg20mtCFHy@172.233.237.139:5674?allowInsecure=1&sni=tdvnh.southbyte.xyz
 trojan://PQ05174892@balanced-stag.rooster465.autos:443?allowInsecure=1&sni=balanced-stag.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@musical-manatee.rooster465.autos:443?allowInsecure=1&sni=musical-manatee.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@54.168.199.96:443?allowInsecure=1&sni=steady-lemming.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@54.238.168.66:443?allowInsecure=1&sni=diverse-hawk.rooster465.autos&type=tcp#%40SystemNebula
+trojan://fg20mtCFHy@157.245.99.215:5750?allowInsecure=1&sni=inyct.southbyte.xyz&type=tcp#%40SystemNebula
+trojan://FH72359861@43.201.49.96:443?allowInsecure=1&sni=firm-krill.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@evident-ant.rooster465.autos:443?allowInsecure=1&sni=evident-ant.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@52.199.134.162:443?sni=modest-pup.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@18.183.216.49:443?sni=fun-poodle.rooster465.autos&type=tcp#%40SystemNebula
