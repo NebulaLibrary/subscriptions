@@ -1,3 +1,6 @@
+vless://1243639c-60f1-4ad9-b0c2-a7635b2abc98@185.91.53.4:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=grpc&security=reality&encryption=none&sni=360.yandex.ru&fp=firefox&pbk=VaKp9XjMqT7lA4F3b6hpdF6fmsiY4B_hz6MzT6fv938&headerType=none&mode=gun#%40SystemNebula
+trojan://AE62539071@distinct-quail.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=&fp=chrome&type=tcp&path=%2f#%40SystemNebula
+vless://e0454af2-6fe9-4983-a55d-05e1da202602@151.101.56.7:443?path=%2F&security=tls&encryption=none&insecure=0&host=italyan.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40SystemNebula
 vless://6a6f414c-0326-4764-8e90-04f53cdaac57@94.237.85.204:28961?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#%40SystemNebula
 vless://89b3cbba-e6ac-4850-94af-061316b04020@172.67.195.227:2083?path=%2Fvl%2FampDkOqjmUPSB5DjUBQk2waS%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=late-frost-9da7.shoameni5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=lATE-fROST-9DA7.ShOAmEni5.workErs.deV#%40SystemNebula
 vless://fc1ed4ca-de96-45ab-a4b4-069554bcde7a@zephyr.proxy.rlwy.net:48163?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%225-70%22%7D&fp=chrome&host=&mode=auto&path=%2Fassets&pbk=ifrXuwjM40WFmYZOx0ckg2P16YY9YSP73ByK5bfM5GI&security=reality&sid=d701cdda28ba&sni=b2bshop.samsung.com&spx=%2Ffed51d31afcd09b&type=xhttp&x_padding_bytes=5-70#%40SystemNebula
@@ -25,6 +28,3 @@ vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.137.63:22222?encryption=none&security=none&type=tcp#%40SystemNebula
 vless://nasnet@nasnet-162191099-direct.mbghalibaf.com:443?security=tls&alpn=h2&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#%40SystemNebula
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=%2Fvless%2F&security=&alpn=http%2F1.1&encryption=none&host=OV-Italy1.09vpn.com&fp=chrome&type=ws#%40SystemNebula
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=%2F&security=&encryption=none&host=parsi.parsi.sbs&type=ws&sni=parsi.parsi.sbs#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#%40SystemNebula
