@@ -1,9 +1,3 @@
-trojan://FH72359861@3.38.92.134:443?sni=major-goose.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@pleased-albacore.rooster465.autos:443?sni=pleased-albacore.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@aware-puma.rooster465.autos:443?allowInsecure=1&sni=aware-puma.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@modern-bulldog.rooster465.autos:443?allowInsecure=1&sni=modern-bulldog.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@brief-flamingo.rooster465.autos:443?sni=brief-flamingo.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@54.151.247.141:443?allowInsecure=1&sni=sweeping-dog.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@57.180.23.141:443?allowInsecure=1&sni=engaged-lionfish.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@13.125.103.245:443?sni=kind-grizzly.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@aware-puma.rooster465.autos:443?sni=aware-puma.rooster465.autos&type=tcp#%40SystemNebula
@@ -28,3 +22,9 @@ trojan://FH72359861@52.194.223.176:443?allowInsecure=1&sni=clear-heron.rooster46
 trojan://fg20mtCFHy@173.255.247.228:5444?allowInsecure=1&sni=frsdata.southbyte.xyz&type=tcp#%40SystemNebula
 trojan://fg20mtCFHy@128.14.180.210:5444?allowInsecure=1&sni=ucyxc.southbyte.xyz&type=tcp#%40SystemNebula
 trojan://FH72359861@3.38.106.44:443?allowInsecure=1&sni=square-skink.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@47.128.224.11:443?allowInsecure=1&sni=vast-werewolf.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@deep-ringtail.rooster465.autos:443?sni=deep-ringtail.rooster465.autos&type=tcp#%40SystemNebula
+trojan://HC04361579@185.14.47.125:443?allowInsecure=1&sni=eminent-lamb.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@13.250.126.30:443?allowInsecure=1&sni=adapted-martin.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@13.158.137.73:443?allowInsecure=1&sni=novel-bat.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@vast-werewolf.rooster465.autos:443?sni=vast-werewolf.rooster465.autos&type=tcp#%40SystemNebula

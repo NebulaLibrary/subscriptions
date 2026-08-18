@@ -1,9 +1,3 @@
-trojan://FH72359861@13.125.103.245:443?sni=kind-grizzly.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@stunning-mastodon.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://PQ05174892@47.131.225.150:443?allowInsecure=1&sni=sacred-anemone.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@funny-hawk.rooster465.autos:443?sni=funny-hawk.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@key-sponge.rooster465.autos:443?allowInsecure=1&sni=key-sponge.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@52.198.199.32:443?sni=main-dragon.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@apparent-wasp.rooster465.autos:443?sni=apparent-wasp.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@premium-perch.rooster465.autos:443?sni=premium-perch.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@rested-osprey.rooster465.autos:443?sni=rested-osprey.rooster465.autos&type=tcp#%40SystemNebula
@@ -28,3 +22,9 @@ trojan://AE62539071@wanted-marmoset.rooster465.autos:443?type=tcp#%40SystemNebul
 trojan://PQ05174892@54.169.228.116:443?sni=amusing-grub.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@precise-locust.rooster465.autos:443?type=tcp#%40SystemNebula
 trojan://PQ05174892@fun-poodle.rooster465.autos:443?sni=fun-poodle.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@87.121.33.109:443?sni=national-stingray.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@unbiased-coyote.rooster465.autos:443?sni=unbiased-coyote.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@52.220.197.180:443?sni=immense-eagle.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@inspired-hound.rooster465.autos:443?sni=inspired-hound.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@national-stingray.rooster465.autos:443?sni=national-stingray.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@inspired-hound.rooster465.autos:443?type=tcp#%40SystemNebula

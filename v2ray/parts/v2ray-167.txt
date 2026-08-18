@@ -1,9 +1,3 @@
-trojan://FH72359861@54.178.51.14:443?sni=stunning-mastodon.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@bright-buffalo.rooster465.autos:443?sni=bright-buffalo.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@upright-bedbug.rooster465.autos:443?allowInsecure=1&sni=upright-bedbug.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@upright-rhino.rooster465.autos:443?allowInsecure=1&sni=upright-rhino.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@literate-cow.rooster465.autos:443?allowInsecure=1&sni=literate-cow.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@smooth-hornet.rooster465.autos:443?type=tcp#%40SystemNebula
 trojan://PQ05174892@intense-monarch.rooster465.autos:443?type=tcp#%40SystemNebula
 trojan://FH72359861@probable-weasel.rooster465.autos:443?type=tcp#%40SystemNebula
 trojan://PQ05174892@balanced-stag.rooster465.autos:443?sni=balanced-stag.rooster465.autos&type=tcp#%40SystemNebula
@@ -28,3 +22,9 @@ trojan://PQ05174892@ideal-phoenix.rooster465.autos:443?allowInsecure=1&sni=ideal
 trojan://PQ05174892@steady-lemming.rooster465.autos:443?allowInsecure=1&sni=steady-lemming.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@picked-hippo.rooster465.autos:443?sni=picked-hippo.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@13.212.200.61:443?allowInsecure=1&sni=elegant-arachnid.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@clear-killdeer.rooster465.autos:443?allowInsecure=1&sni=clear-killdeer.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@54.168.208.137:443?sni=communal-troll.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@stable-python.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://AE62539071@sweeping-parakeet.rooster465.autos:443?sni=sweeping-parakeet.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@87.121.33.104:443?sni=fluent-gar.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@3.112.242.12:443?sni=intimate-hog.rooster465.autos&type=tcp#%40SystemNebula

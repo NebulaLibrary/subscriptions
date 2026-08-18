@@ -1,9 +1,3 @@
-trojan://FH72359861@18.177.139.241:443?allowInsecure=1&sni=steady-prawn.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@35.91.138.234:443?sni=sure-bengal.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@communal-troll.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
-trojan://PQ05174892@13.209.18.180:443?allowInsecure=1&sni=musical-manatee.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@included-hedgehog.rooster465.autos:443?allowInsecure=1&sni=included-hedgehog.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@13.231.237.228:443?allowInsecure=1&sni=classic-pug.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@52.195.233.147:443?allowInsecure=1&sni=touching-ostrich.rooster465.autos&type=tcp#%40SystemNebula
 trojan://EQ30679154@moved-bass.rooster465.autos:443?sni=moved-bass.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@3.34.132.141:443?sni=complete-narwhal.rooster465.autos&type=tcp#%40SystemNebula
@@ -28,3 +22,9 @@ trojan://FH72359861@destined-skylark.rooster465.autos:443?type=tcp#%40SystemNebu
 trojan://FH72359861@balanced-stag.rooster465.autos:443?sni=balanced-stag.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@modest-foal.rooster465.autos:443?sni=modest-foal.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@34.220.224.252:443?sni=smooth-sculpin.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@central-jawfish.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://PQ05174892@52.79.132.234:443?sni=careful-cow.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@clear-killdeer.rooster465.autos:443?sni=clear-killdeer.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@15.165.18.82:443?allowInsecure=1&sni=grand-grub.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@firm-krill.rooster465.autos:443?allowInsecure=1&sni=firm-krill.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@balanced-goat.rooster465.autos:443?allowInsecure=1&sni=balanced-goat.rooster465.autos&type=tcp#%40SystemNebula

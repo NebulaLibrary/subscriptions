@@ -1,9 +1,3 @@
-trojan://FH72359861@87.121.33.109:443?sni=national-stingray.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@unbiased-coyote.rooster465.autos:443?sni=unbiased-coyote.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@52.220.197.180:443?sni=immense-eagle.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@inspired-hound.rooster465.autos:443?sni=inspired-hound.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@national-stingray.rooster465.autos:443?sni=national-stingray.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@inspired-hound.rooster465.autos:443?type=tcp#%40SystemNebula
 trojan://PQ05174892@52.197.196.241:443?sni=logical-ram.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@87.121.33.109:443?sni=national-stingray.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@lucky-chimp.rooster465.autos:443?sni=lucky-chimp.rooster465.autos&type=tcp#%40SystemNebula
@@ -28,3 +22,9 @@ trojan://FH72359861@charming-ox.rooster465.autos:443?allowInsecure=1&type=tcp#%4
 trojan://PQ05174892@mature-lamprey.rooster465.autos:443?allowInsecure=1&sni=mature-lamprey.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@devoted-zebra.rooster465.autos:443?sni=devoted-zebra.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@fit-marten.rooster465.autos:443?sni=fit-marten.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@guided-ferret.rooster465.autos:443?allowInsecure=1&sni=guided-ferret.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@boss-sailfish.rooster465.autos:443?sni=boss-sailfish.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@13.230.4.218:443?sni=content-rabbit.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@moral-basilisk.rooster465.autos:443?allowInsecure=1&sni=moral-basilisk.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@prompt-duckling.rooster465.autos:443?allowInsecure=1&sni=prompt-duckling.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@casual-basilisk.rooster465.autos:443?sni=casual-basilisk.rooster465.autos&type=tcp#%40SystemNebula

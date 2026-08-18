@@ -1,9 +1,3 @@
-trojan://FH72359861@communal-squid.rooster465.autos:443?sni=communal-squid.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@perfect-emu.rooster465.autos:443?allowInsecure=1&sni=perfect-emu.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@52.79.124.74:443?sni=daring-sunbeam.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@careful-cow.rooster465.autos:443?allowInsecure=1&sni=careful-cow.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@outgoing-lynx.rooster465.autos:443?sni=outgoing-lynx.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@logical-ram.rooster465.autos:443?allowInsecure=1&sni=logical-ram.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@54.179.23.28:443?sni=boss-sailfish.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@43.202.48.137:443?allowInsecure=1&sni=glorious-lark.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@3.112.250.103:443?sni=flexible-pony.rooster465.autos&type=tcp#%40SystemNebula
@@ -28,3 +22,9 @@ trojan://PQ05174892@3.36.78.13:443?sni=perfect-emu.rooster465.autos&type=tcp#%40
 trojan://PQ05174892@13.212.200.61:443?sni=elegant-arachnid.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@ethical-raccoon.rooster465.autos:443?type=raw#%40SystemNebula
 trojan://AE62539071@adapted-martin.rooster465.autos:443?allowInsecure=1&sni=adapted-martin.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@52.77.218.157:443?allowInsecure=1&sni=simple-sunbeam.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@18.177.139.241:443?sni=steady-prawn.rooster465.autos&type=tcp#%40SystemNebula
+trojan://HC04361579@star-shrimp.rooster465.autos:443?allowInsecure=1&sni=star-shrimp.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@pumped-clam.rooster465.autos:443?allowInsecure=1&sni=pumped-clam.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@well-jennet.rooster465.autos:443?sni=well-jennet.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@bold-eagle.rooster465.autos:443?allowInsecure=1&sni=bold-eagle.rooster465.autos&type=tcp#%40SystemNebula

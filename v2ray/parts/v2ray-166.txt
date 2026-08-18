@@ -1,9 +1,3 @@
-trojan://AE62539071@18.181.195.212:443?sni=modern-bulldog.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@52.195.10.183:443?sni=improved-anteater.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@13.115.54.131:443?sni=intense-wildcat.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@18.183.178.158:443?sni=inviting-burro.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@13.231.24.177:443?sni=easy-barnacle.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@balanced-goat.rooster465.autos:443?sni=balanced-goat.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@18.183.82.51:443?sni=sweeping-parakeet.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@43.207.166.211:443?sni=proper-mouse.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@18.183.140.61:443?sni=harmless-imp.rooster465.autos&type=tcp#%40SystemNebula
@@ -28,3 +22,9 @@ trojan://FH72359861@13.114.129.151:443?sni=actual-chicken.rooster465.autos&type=
 trojan://AE62539071@18.179.15.13:443?sni=shining-haddock.rooster465.autos&type=tcp#%40SystemNebula
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?sni=www.nintendogames.net&type=tcp#%40SystemNebula
 trojan://FH72359861@actual-chicken.rooster465.autos:443?sni=actual-chicken.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@54.178.51.14:443?sni=stunning-mastodon.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@bright-buffalo.rooster465.autos:443?sni=bright-buffalo.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@upright-bedbug.rooster465.autos:443?allowInsecure=1&sni=upright-bedbug.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@upright-rhino.rooster465.autos:443?allowInsecure=1&sni=upright-rhino.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@literate-cow.rooster465.autos:443?allowInsecure=1&sni=literate-cow.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@smooth-hornet.rooster465.autos:443?type=tcp#%40SystemNebula

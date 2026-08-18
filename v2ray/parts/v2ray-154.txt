@@ -1,9 +1,3 @@
-trojan://HC04361579@3.39.132.127:443?sni=star-bluejay.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@excited-squirrel.rooster465.autos:443?allowInsecure=1&sni=excited-squirrel.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@needed-gelding.rooster465.autos:443?sni=needed-gelding.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@definite-hen.rooster465.autos:443?sni=definite-hen.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@literate-cow.rooster465.autos:443?sni=literate-cow.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@moral-buzzard.rooster465.autos:443?sni=moral-buzzard.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@uncommon-feline.rooster465.autos:443?sni=uncommon-feline.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@sweeping-dog.rooster465.autos:443?sni=sweeping-dog.rooster465.autos&type=tcp#%40SystemNebula
@@ -28,3 +22,9 @@ trojan://FH72359861@worthy-perch.rooster465.autos:443?sni=worthy-perch.rooster46
 trojan://FH72359861@54.168.199.96:443?allowInsecure=1&sni=steady-lemming.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@18.183.164.199:443?sni=helping-shark.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@famous-opossum.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://PQ05174892@exotic-turtle.rooster465.autos:443?allowInsecure=1&sni=exotic-turtle.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@neutral-quail.rooster465.autos:443?sni=neutral-quail.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@57.181.28.187:443?allowInsecure=1&sni=thorough-elf.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@modest-pup.rooster465.autos:443?allowInsecure=1&sni=modest-pup.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@aware-puma.rooster465.autos:443?sni=aware-puma.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@13.231.123.180:443?allowInsecure=1&sni=fair-reptile.rooster465.autos&type=tcp#%40SystemNebula
