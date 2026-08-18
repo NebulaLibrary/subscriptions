@@ -13,14 +13,10 @@ vless://b91abe1a-80ca-417b-998b-2b542661c16f@it.feywebsite.ir:8008?mode=packet-u
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@132.243.223.88:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fin2.freeinternat.com&sid=ff776ff77be48b88#%40SystemNebula
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.23:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#%40SystemNebula
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=musiclovers85_musiclovers85%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@217.138.207.106:1080#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@37.120.139.234:1080#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXMG9tdmN1eWV6aG5SaG4zeHRMSlJV@130.49.189.158:10792#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.254.21.147:443#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.210.217.94:1080#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@188.119.149.27:1080#%40SystemNebula
@@ -28,3 +24,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYWVhELUp3UWlvSWlPSmtjV2xva0VaT3VTdm0tMDQtaQ=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYWVhELUp3UWlvSWlPSmtjV2xva0VaT3VTdm0tMDQtaQ==@fr.vmax-panel.ir:1080#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYWVhELUp3UWlvSWlPSmtjV2xva0VaT3VTdm0tMDQtaQ==@fr.vmax-panel.ir:32113#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYWVhELUp3UWlvSWlPSmtjV2xva0VaT3VTdm0tMDQtaQ==@fr.vmax-panel.ir:43073#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYWVhELUp3UWlvSWlPSmtjV2xva0VaT3VTdm0tMDQtaQ==@tr.novexone.ir:1080#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYWVhELUp3UWlvSWlPSmtjV2xva0VaT3VTdm0tMDQtaQ==@vmax.korluma.ir:1080#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYcW9ra3ZqVzBnMGFzeHpiU0RMR1R3@77.90.10.176:1085#%40SystemNebula

@@ -3,14 +3,10 @@ vless://03707fb7-0990-440f-88f6-b0e0f7242a38@45.8.211.57:443?encryption=none&typ
 vless://02dd14e8-e2f6-496e-b5b9-6b022f52a89c@tr.rajastore.ir:443?encryption=none&fp=chrome&pbk=4Gxg-e1xgmj0YIfnHTAgcLWprUhrwBOQDbaSVbzDelY&security=reality&sid=3afc77f9c5e699&sni=timeline.www.cloudflare.com&spx=%2F93fb3ca87ca9831&type=tcp#%40SystemNebula
 vless://00b41e07-68e6-46b0-928f-a02becd4e398@site.awextr.ir:2086?security=reality&encryption=mlkem768x25519plus.native.0rtt.f7Tb0m3B9X1wwykTgP_vWHH6uXOt8CX-MAipUAObJ1c&pbk=wlmLbcRWfPz3NkrX18vCrw-C3s3qzeipsfnrm457x1k&host=upload.google.com&headerType=http&fp=chrome&type=tcp&sni=check-host.net&sid=31eec4cab22d3de8#%40SystemNebula
 vless://00b41e07-68e6-46b0-928f-a02becd4e398@sitea.awexco.shop:443?security=&encryption=mlkem768x25519plus.native.0rtt.3mjd2WKbtUjfzkJO2SMVeOLyDFUE0bMH5T_R5H_YCV0&host=msedge.b.tlu.dl.delivery.mp.microsoft.com&headerType=http&type=tcp#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplbUwzZXpWMkhDcE9SaEp0WkI4dHNp@128.199.201.71:21902#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpma1h0dkNFUTFaVTFyekYzZklLMGZ3PT0@77.240.38.27:8443#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqUVEyUkFjWmE3UDFaa00vMmRGNTRHOGVjcDBrZzk4MzZDcE5HM0VJRlFrPQ@e2.cover20.ir:30874?type=tcp#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaVVUemZkUG83Zlc@70.39.178.204:42747#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#%40SystemNebula
@@ -24,7 +20,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080?type=tcp&headerType=none#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#%40SystemNebula
