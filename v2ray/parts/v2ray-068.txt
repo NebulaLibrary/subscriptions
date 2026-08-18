@@ -1,3 +1,9 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE=@176.97.73.215:8388#%40SystemNebula
+ss://YWVzLTI1Ni1nY206enU2cVRLampyTjhxSnBmbldhN2s0Wldq@194.110.115.93:44208#%40SystemNebula
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2QDExOC4xMDcuMjQ0LjExMzo0NDU=#%40SystemNebula
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.190.158:445#%40SystemNebula
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:6379#%40SystemNebula
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.230:6379#%40SystemNebula
 ss://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.241.45:38033#%40SystemNebula
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDE0Ni43MC4yNy4xMjo0MDA5Mw==#%40SystemNebula
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@37.120.236.147:40093#%40SystemNebula
@@ -22,9 +28,3 @@ trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?allowInsecure=
 trojan://AE62539071@54.170.38.205:443?fp=chrome&sni=unbiased-garfish.rooster465.autos#%40SystemNebula
 trojan://AE62539071@54.74.159.195:443?fp=chrome&sni=kind-stork.rooster465.autos#%40SystemNebula
 trojan://AE62539071@108.130.137.102:443?fp=chrome&sni=worthy-labrador.rooster465.autos#%40SystemNebula
-trojan://AE62539071@54.74.210.220:443?fp=chrome&sni=funny-hen.rooster465.autos#%40SystemNebula
-trojan://AE62539071@51.44.161.22:443?allowInsecure=1&fp=chrome&sni=distinct-quail.rooster465.autos#%40SystemNebula
-trojan://AE62539071@3.120.138.119:443?fp=chrome&sni=up-dinosaur.rooster465.autos#%40SystemNebula
-trojan://AE62539071@chief-cricket.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@darling-mutt.rooster465.autos:443?allowInsecure=1#%40SystemNebula
-trojan://AE62539071@healthy-panda.rooster465.autos:443#%40SystemNebula
