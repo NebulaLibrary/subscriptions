@@ -18,7 +18,6 @@ trojan://PQ05174892@picked-hippo.rooster465.autos:443?allowInsecure=1&sni=picked
 trojan://FH72359861@magical-prawn.rooster465.autos:443?allowInsecure=1&sni=magical-prawn.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@intense-wildcat.rooster465.autos:443?type=tcp#%40SystemNebula
 trojan://PQ05174892@13.212.174.21:443?allowInsecure=1&sni=fleet-pony.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@35.72.10.188:443?sni=immortal-woodcock.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@fun-poodle.rooster465.autos:443?sni=fun-poodle.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@musical-manatee.rooster465.autos:443?allowInsecure=1&sni=musical-manatee.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@sterling-vervet.rooster465.autos:443?type=tcp#%40SystemNebula
@@ -28,3 +27,4 @@ trojan://PQ05174892@concise-guinea.rooster465.autos:443?type=tcp#%40SystemNebula
 trojan://PQ05174892@fit-marten.rooster465.autos:443?allowInsecure=1&sni=fit-marten.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@18.143.132.167:443?allowInsecure=1&sni=worthy-perch.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@13.212.77.186:443?allowInsecure=1&sni=promoted-rattler.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@18.179.31.199:443?sni=prompt-duckling.rooster465.autos&type=tcp#%40SystemNebula
