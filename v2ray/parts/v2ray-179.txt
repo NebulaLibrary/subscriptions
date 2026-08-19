@@ -1,7 +1,0 @@
-trojan://FH72359861@43.207.83.177:443?allowInsecure=1&sni=settled-camel.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@engaged-antelope.rooster465.autos:443?allowInsecure=1&sni=engaged-antelope.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@steady-lemming.rooster465.autos:443?allowInsecure=1&sni=steady-lemming.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@18.183.164.199:443?allowInsecure=1&sni=helping-shark.rooster465.autos&type=tcp#%40SystemNebula
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?allowInsecure=1&sni=t11.qifei.app%40freenettir+%C2%B3&type=tcp#%40SystemNebula
-trojan://PQ05174892@43.207.166.211:443?allowInsecure=1&sni=proper-mouse.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@premium-weevil.rooster465.autos:443?allowInsecure=1&sni=premium-weevil.rooster465.autos&type=tcp#%40SystemNebula
