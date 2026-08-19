@@ -1,3 +1,14 @@
+trojan://93a9d63a-03b8-4167-92bd-3fa932af1c91@104.19.174.68:443/?type=ws&host=px8r9i1b4k.bpusfaster2.top&path=/images&security=tls&sni=px8r9i1b4k.bpusfaster2.top&allowInsecure=1#%40SystemNebula
+trojan://93a9d63a-03b8-4167-92bd-3fa932af1c91@visa.com.sg:443/?type=ws&host=px8r9i1b4k.bpusfaster2.top&path=/images&security=tls&sni=px8r9i1b4k.bpusfaster2.top&fp=chrome#%40SystemNebula
+trojan://@V2ray_Alpha🏗️ 6@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40SystemNebula
+trojan://AE62539071@100.22.163.167:443?fp=chrome&sni=bright-baboon.rooster465.autos#%40SystemNebula
+trojan://AE62539071@13.158.135.118:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=literate-cow.rooster465.autos#%40SystemNebula
+trojan://AE62539071@13.158.135.118:443?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=literate-cow.rooster465.autos#%40SystemNebula
+trojan://AE62539071@13.193.221.67:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=main-impala.rooster465.autos#%40SystemNebula
+trojan://AE62539071@13.229.94.200:443?fp=chrome&sni=massive-terrapin.rooster465.autos#%40SystemNebula
+trojan://AE62539071@13.250.126.30:443?fp=chrome&sni=adapted-martin.rooster465.autos#%40SystemNebula
+trojan://AE62539071@18.194.130.12:443?security=tls&sni=sterling-macaw.rooster465.autos&fp=chrome&type=tcp&headerType=none#%40SystemNebula
+trojan://AE62539071@18.198.1.232:443?security=tls&sni=teaching-gnu.rooster465.autos&fp=chrome&type=tcp&headerType=none#%40SystemNebula
 trojan://AE62539071@18.201.28.146:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=helped-haddock.rooster465.autos#%40SystemNebula
 trojan://AE62539071@18.201.47.180:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=healthy-panda.rooster465.autos#%40SystemNebula
 trojan://AE62539071@193.169.239.160:443?fp=chrome&sni=thorough-falcon.rooster465.autos#%40SystemNebula
@@ -17,14 +28,3 @@ trojan://AE62539071@54.95.128.248:443?security=tls&insecure=0&headerType=none&ty
 trojan://AE62539071@89.39.70.238:443?fp=chrome&sni=present-warthog.rooster465.autos#%40SystemNebula
 trojan://AE62539071@89.39.70.9:443?fp=chrome&sni=whole-woodcock.rooster465.autos#%40SystemNebula
 trojan://AE62539071@absolute-hare.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@adapted-martin.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@adapted-whippet.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@distinct-quail.rooster465.autos:443?allowInsecure=1#%40SystemNebula
-trojan://AE62539071@elegant-marten.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@excited-sole.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@grateful-crawdad.rooster465.autos:443?security=tls#%40SystemNebula
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIxMDQuMjEuOC4xNTciLCAicG9ydCI6IDIwODIsICJpZCI6ICIxMTJhYzM2Zi0zZjUzLTRlMjYtODM3MS1kMjVjMDI4ZTFiOWEiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogInMxYy52Mi52MDAxc3NzLnh5eiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9#%40SystemNebula
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIxMDQuMjEuODIuMzkiLCAicG9ydCI6ICIyMDUyIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI3YTczN2Y0MS1iNzkyLTQyNjAtOTRmZi0zZDg2NGRhNjdiODAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIm1haGlsdS5zaXRlIiwgInRscyI6ICIifQ==#%40SystemNebula
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4yNi4wLjU2IiwgInBvcnQiOiAyMDg2LCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJpcDE0LmZyZWVncmFkZWx5Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInRscyI6ICIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIn0=#%40SystemNebula
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIxMDQuMjYuNC41NyIsICJwb3J0IjogMjA5NSwgImlkIjogIjY2NThhM2E2LTIyNWEtNGQzMy1hNWQyLTgyY2ZkZTU2NWI0ZSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAic3Nyc3ViLnYwMy5zc3JzdWIuY29tIiwgInBhdGgiOiAiL2FwaS92My9kb3dubG9hZC5nZXRGaWxlIiwgInRscyI6ICIifQ==#%40SystemNebula
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIxMDguMTgxLjIzLjE2MSIsICJwb3J0IjogODA4MCwgImlkIjogIjk2OWYxOTA5LWMwZDMtNGMzMC04MTNkLTNhZWM1YzgzOGI3ZCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAiaW50ZXJuZXQubGlmZS5jb20uYnkiLCAicGF0aCI6ICIvMUlLWWpWMHIvIiwgInRscyI6ICIifQ==#%40SystemNebula

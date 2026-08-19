@@ -1,3 +1,12 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@15.235.75.71:8388#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@ca4.levikogjgfdd.ir:8388#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388?#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@ca4.levikogjgfdd.ir:8388#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWUo1SVMyb1NBczkza0dU@4.231.225.39:443#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJbFNZK0QrdHR4cDhPTTh0WENDc1duS2gzRWg2S2w0ckFBdjNuRTBYMDhRPQ@e3.cover20.ir:56985#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443?#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@144.24.225.240:61312#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@144.24.226.223:61312#%40SystemNebula
@@ -8,9 +17,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpReFUzUTNPNDRzcHpIQmI2ejNsNE9T@pl1.levikogjgfdd.ir:45635#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTZkpxQytiTmQ0UXRZZ0lSMys2NnRKU3A3emlKT1VseHQxcDRKUHkzN0JBPQ@e2.cover20.ir:30874#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTdFp3TDd5dUdKTDcwbTM5RDFVcXV2cnFmMzJwRkF2dw@turkey.zelnora.ir:1080#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#%40SystemNebula
+trojan://AE62539071@excited-sole.rooster465.autos:443#%40SystemNebula
+trojan://AE62539071@grateful-crawdad.rooster465.autos:443?security=tls#%40SystemNebula
 trojan://AE62539071@kind-stork.rooster465.autos:443?sni=kind-stork.rooster465.autos&type=raw&fp=chrome#%40SystemNebula
 trojan://AE62539071@massive-terrapin.rooster465.autos:443#%40SystemNebula
 trojan://AE62539071@noted-bass.rooster465.autos:443#%40SystemNebula
@@ -20,11 +28,3 @@ trojan://AE62539071@rich-mule.rooster465.autos:443#%40SystemNebula
 trojan://AE62539071@sacred-anemone.rooster465.autos:443#%40SystemNebula
 trojan://AE62539071@smooth-hornet.rooster465.autos:443#%40SystemNebula
 trojan://AE62539071@stirred-buck.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#%40SystemNebula
-trojan://AE62539071@upright-bedbug.rooster465.autos:443?allowInsecure=1#%40SystemNebula
-trojan://AE62539071@whole-woodcock.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#%40SystemNebula
-trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me/ripaojiedian#%40SystemNebula
-trojan://BxceQaOe@16.162.92.128:9408/?type=tcp&security=tls&sni=t.me/ripaojiedian&allowInsecure=1#%40SystemNebula
-trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1&note=@FreeOnlineVPN#%40SystemNebula
-trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#%40SystemNebula
-trojan://DILbRzFC@tr0jan.wefuckgfw.gq:443?allowInsecure=1#%40SystemNebula
