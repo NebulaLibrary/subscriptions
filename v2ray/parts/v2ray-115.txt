@@ -1,3 +1,4 @@
+trojan://6ec301428255a78a1d826988d86cc87e@18.162.156.145:50887?allowInsecure=1&sni=www.nintendogames.net#%40SystemNebula
 trojan://BxceQaOe@18.163.114.228:7674?allowInsecure=1&sni=t.me%2Fripaojiedian#%40SystemNebula
 trojan://BxceQaOe@16.162.103.28:7674?allowInsecure=1&sni=t.me%2Fripaojiedian#%40SystemNebula
 trojan://BxceQaOe@54.46.126.133:9408?allowInsecure=1&sni=t.me%252Fripaojiedian#%40SystemNebula
@@ -11,6 +12,7 @@ trojan://6ec301428255a78a1d826988d86cc87e@16.162.100.124:39024?allowInsecure=1&s
 trojan://BxceQaOe@16.162.103.28:53001?allowInsecure=1&sni=t.me%2Fripaojiedian#%40SystemNebula
 trojan://HC04361579@driven-doberman.rooster465.autos:443?allowInsecure=1&sni=driven-doberman.rooster465.autos#%40SystemNebula
 trojan://fg20mtCFHy@173.255.247.228:5444?allowInsecure=1&sni=frsdata.southbyte.xyz#%40SystemNebula
+trojan://fg20mtCFHy@172.105.197.232:5710?allowInsecure=1&sni=jpcaw.southbyte.xyz#%40SystemNebula
 trojan://HC04361579@accepted-starling.rooster465.autos:443?allowInsecure=1&sni=accepted-starling.rooster465.autos#%40SystemNebula
 trojan://humanity@104.16.174.71:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%40SystemNebula
 trojan://fg20mtCFHy@172.233.107.18:5575?sni=fgrsd.southbyte.xyz#%40SystemNebula
@@ -26,5 +28,3 @@ trojan://humanity@104.18.152.103:443?sni=www.ignitelimit.com#%40SystemNebula
 trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?sni=www.ignitelimit.com#%40SystemNebula
 trojan://6ec301428255a78a1d826988d86cc87e@16.162.100.124:39024?sni=www.nintendogames.net#%40SystemNebula
 trojan://humanity@104.18.152.210:443?sni=www.ignitelimit.com#%40SystemNebula
-trojan://humanity@104.18.152.73:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%40SystemNebula
-trojan://humanity@104.18.152.225:443?sni=www.ignitelimit.com#%40SystemNebula
