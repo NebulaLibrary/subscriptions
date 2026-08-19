@@ -1,8 +1,9 @@
-trojan://Telegram_healer_config@6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev:443?path=%2Ftr%2FGaQvfFwT5sWgVxHig8YaXjtiuQPZNI%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV#%40SystemNebula
-trojan://Telegram_healer_config@188.114.96.3:443?path=%2Ftr%2FN61UxT346epoPVmA9xFM6H00%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6M1RGYiecLMrX9HEf1.z6-0hLNuBjIBWzPa85.wOrkers.DEv#%40SystemNebula
-trojan://UO36402987@34.251.228.118:443?fp=chrome&sni=definite-ladybird.rooster465.autos#%40SystemNebula
-trojan://UO36402987@definite-ladybird.rooster465.autos:443#%40SystemNebula
-trojan://fg20mtCFHy@137.184.172.41:1921?allowInsecure=1&sni=sfecv.southbyte.xyz#%40SystemNebula
+ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDQ1Ljg5LjIyOS4yMjM6MTUz#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0ZjpAb3Blbl92cG5z@20.211.112.115:2986#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zjp2cG5sYXc@vpnkodlary1.3utilities.com:2080#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0ZjozMDMw@20.113.70.231:3030#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zjo5ODA2@20.120.24.20:9806#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zjo5ODA2@20.106.241.226:9806#%40SystemNebula
 trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=87.121.218.169#%40SystemNebula
 trojan://QV31589740@great-krill.rooster465.autos:443#%40SystemNebula
 trojan://fg20mtCFHy@206.189.7.80:5446?allowInsecure=1&sni=inxgc.southbyte.xyz#%40SystemNebula
@@ -20,11 +21,10 @@ trojan://humanity@104.16.174.71:443?host=www.ignitelimit.com&path=%2Fassignment&
 trojan://humanity@104.16.73.213:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40SystemNebula
 trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%40SystemNebula
 trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%40SystemNebula
+trojan://FH72359861@correct-pony.rooster465.autos:443?security=tls&sni=correct-pony.rooster465.autos#%40SystemNebula
 trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos#%40SystemNebula
 trojan://PQ05174892@lucky-marmot.rooster465.autos:443?security=tls#%40SystemNebula
 trojan://fg20mtCFHy@128.14.180.210:5444?security=tls&sni=ucyxc.southbyte.xyz#%40SystemNebula
-trojan://AE62539071@sharing-duck.rooster465.autos:443?security=tls&sni=sharing-duck.rooster465.autos#%40SystemNebula
 trojan://ND91608427@44.246.163.102:443?security=tls&sni=fleet-bonefish.rooster465.autos#%40SystemNebula
 trojan://ND91608427@fleet-bonefish.rooster465.autos:443?security=tls&sni=fleet-bonefish.rooster465.autos#%40SystemNebula
 trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls#%40SystemNebula
-trojan://AE62539071@54.74.159.195:443?security=tls&sni=kind-stork.rooster465.autos#%40SystemNebula
