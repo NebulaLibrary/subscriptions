@@ -1,0 +1,5 @@
+trojan://EQ30679154@balanced-firefly.rooster465.autos:443?sni=balanced-firefly.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@engaged-ram.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://FH72359861@internal-mongoose.rooster465.autos:443?allowInsecure=1&sni=internal-mongoose.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@excited-sole.rooster465.autos:443?sni=excited-sole.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@modern-bedbug.rooster465.autos:443?sni=modern-bedbug.rooster465.autos&type=tcp#%40SystemNebula

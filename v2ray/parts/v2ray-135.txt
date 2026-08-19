@@ -19,12 +19,12 @@ vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.248:10000?fp=chrome&secu
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.247:10000?path=%2F+&security=none&type=tcp#%40SystemNebula
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.248:10000?path=%2F+&security=none&type=tcp#%40SystemNebula
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.247:10000?path=%2F&security=none&type=tcp#%40SystemNebula
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?flow=xtls-rprx-vision&fp=random&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%40SystemNebula
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.248:10000?fp=safari&security=none&type=tcp#%40SystemNebula
 vless://b8ca2900-3ed7-4b58-970e-060d0a6cbf99@35.187.156.27:443?fp=chrome&pbk=HsoG0C19O-NY_EcFpK0ybZv9lFol0MjDJLzjDzWAGXs&security=reality&sid=d79d3dc3816c329d&sni=www.cloudflare.com&type=raw#%40SystemNebula
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?flow=xtls-rprx-vision&fp=edge&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%40SystemNebula
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?flow=xtls-rprx-vision&fp=qq&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%40SystemNebula
-vless://cf16297a-79ef-454b-94e3-030ae8503886@103.76.85.175:443?flow=xtls-rprx-vision&fp=firefox&pbk=Vwm4rDhe5zEjYsSO9vcR0zdeansCTL6GOtXXNWlZXG0&security=reality&sid=0123456789abcdef&sni=www.apple.com&type=tcp#%40SystemNebula
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%40SystemNebula
 vless://96563f88-f743-4395-a3b2-27ec462ae45e@35.241.98.220:443?fp=firefox&pbk=bSK8gtmPMlw7gP415tmh6kQzzFiwzxBsT3Kuqql6cRo&security=reality&sid=ec2c7091fe76336c&sni=www.cloudflare.com&type=tcp#%40SystemNebula
-vless://96563f88-f743-4395-a3b2-27ec462ae45e@35.241.98.220:443?fp=random&pbk=bSK8gtmPMlw7gP415tmh6kQzzFiwzxBsT3Kuqql6cRo&security=reality&sid=ec2c7091fe76336c&sni=www.cloudflare.com&type=tcp#%40SystemNebula
 vless://96563f88-f743-4395-a3b2-27ec462ae45e@35.241.98.220:443?fp=qq&pbk=bSK8gtmPMlw7gP415tmh6kQzzFiwzxBsT3Kuqql6cRo&security=reality&sid=ec2c7091fe76336c&sni=www.cloudflare.com&type=tcp#%40SystemNebula
+vless://2058418a-7718-4050-bdd5-db7487ffdb3b@34.96.200.38:443?fp=qq&pbk=uoXBNYcBgR-h2YmU1NFhFyASr6qh9UghWOuo1WZIikw&security=reality&sid=17d824dd68e24aaf&sni=www.cloudflare.com&type=tcp#%40SystemNebula
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@103.125.219.14:443?flow=xtls-rprx-vision&fp=qq&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&security=reality&sid=e53048e82bb20077&sni=asia.cendora.ru&type=tcp#%40SystemNebula
