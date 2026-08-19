@@ -1,14 +1,10 @@
-trojan://PQ05174892@13.115.247.230:443?sni=ethical-raccoon.rooster465.autos&type=raw#%40SystemNebula
-trojan://HC04361579@driven-doberman.rooster465.autos:443?sni=driven-doberman.rooster465.autos&type=raw#%40SystemNebula
 trojan://HC04361579@driven-doberman.rooster465.autos:443?sni=driven-doberman.rooster465.autos&type=raw#%40SystemNebula
 trojan://EQ30679154@13.231.90.240:443?sni=pure-kodiak.rooster465.autos&type=tcp#%40SystemNebula
-trojan://HC04361579@pet-albacore.rooster465.autos:443?sni=pet-albacore.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@driven-bulldog.rooster465.autos:443?type=tcp#%40SystemNebula
 trojan://PQ05174892@13.113.98.210:443?sni=mighty-lemming.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@tough-gopher.rooster465.autos:443?type=tcp#%40SystemNebula
 trojan://AE62539071@modest-pup.rooster465.autos:443?type=tcp#%40SystemNebula
 trojan://FH72359861@54.168.199.96:443?allowInsecure=1&sni=steady-lemming.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@18.181.213.219:443?sni=lasting-jaguar.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@13.114.70.20:443?allowInsecure=1&sni=brave-cattle.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@18.177.139.241:443?sni=steady-prawn.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@18.181.213.219:443?allowInsecure=1&sni=lasting-jaguar.rooster465.autos&type=tcp#%40SystemNebula
@@ -28,3 +24,7 @@ trojan://PQ05174892@lucky-albacore.rooster465.autos:443?sni=lucky-albacore.roost
 trojan://FH72359861@casual-stallion.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
 trojan://PQ05174892@proud-escargot.rooster465.autos:443?sni=proud-escargot.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@13.114.100.100:443?allowInsecure=1&sni=pleased-sawfly.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@steady-lemming.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://FH72359861@brave-cattle.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://FH72359861@54.238.168.66:443?allowInsecure=1&sni=diverse-hawk.rooster465.autos&type=tcp#%40SystemNebula
+trojan://HC04361579@legible-ocelot.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula

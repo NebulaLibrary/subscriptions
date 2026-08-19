@@ -1,13 +1,11 @@
-vless://1bb2cba2-bb94-44dc-b6f7-d9d81a11db71@185.211.59.224:1200?encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/&pbk=0-nqF5Xi2ngicrbm96gzfohteEqk6lI87u83Ks-EC3E&security=reality&sid=6e9e0dd011d63cad&sni=www.intel.com&spx=/yTk0Ix1EHQNV3XU&type=xhttp&x_padding_bytes=100-1000#%40SystemNebula
-vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=/&security=none&encryption=none&type=ws#%40SystemNebula
-vless://1c405762-61d8-4654-abf0-1ab168a237eb@suupermeat.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%40SystemNebula
-vless://1c405762-61d8-4654-abf0-1ab168a237eb@suupermeat.ir:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40SystemNebula
-vless://1c79cc2a-90d0-4ffd-a427-7226a8b2b0a6@0.0.0.0:443?security=none&encryption=none&headerType=none&type=tcp#%40SystemNebula
-vless://1c79cc2a-90d0-4ffd-a427-7226a8b2b0a6@starmizban.ir:1010?security=none&encryption=none&host=rubika.ir&headerType=http&type=tcp#%40SystemNebula
-vless://1c79cc2a-90d0-4ffd-a427-7226a8b2b0a6@starmizban.ir:1011?security=none&encryption=none&host=igap.net&headerType=http&type=tcp#%40SystemNebula
-vless://1c79cc2a-90d0-4ffd-a427-7226a8b2b0a6@starmizban.ir:1014?security=none&encryption=none&host=igap.net&headerType=http&type=tcp#%40SystemNebula
-vless://1c79cc2a-90d0-4ffd-a427-7226a8b2b0a6@starmizban.ir:1015?security=none&encryption=none&headerType=http&type=tcp#%40SystemNebula
-vless://1c79cc2a-90d0-4ffd-a427-7226a8b2b0a6@starmizban.ir:1016?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%40SystemNebula
+ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@31.133.100.49:50004#%40SystemNebula
+ss://YWVzLTI1Ni1jZmI6MzEzNTc3MTYxOQ@94.20.154.38:50000#%40SystemNebula
+ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDQ1Ljg5LjIyOS4yMjM6MTUz#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0ZjpAb3Blbl92cG5z@20.211.112.115:2986#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zjp2cG5sYXc@vpnkodlary1.3utilities.com:2080#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0ZjozMDMw@20.113.70.231:3030#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zjo5ODA2@20.120.24.20:9806#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zjo5ODA2@20.106.241.226:9806#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zjo1MjY4NzgxMjY2ZjQ4MTg5@20.113.28.20:5337#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zjo1MDA4@20.120.24.20:5008#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zjo1MDA4@20.106.241.226:5008#%40SystemNebula
@@ -28,3 +26,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeDZEenRRcVpiN2ozNEZkV2pFUg@37.19.218.197:83
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJYVU1dXZhUlpoZno@167.86.95.192:8560#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIWmI1MmVGZkhHZWI@TR2.PedaretVPN.XyZ:15303#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AOTUuODUuOTAuMTgxOjgwNA==#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AOTMuMTg2LjIwMS4xNTg6ODAw#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AOTMuMTg2LjIwMS4xNTg6ODA5#%40SystemNebula

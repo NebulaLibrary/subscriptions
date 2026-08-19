@@ -1,7 +1,3 @@
-trojan://FH72359861@steady-lemming.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://FH72359861@brave-cattle.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://FH72359861@54.238.168.66:443?allowInsecure=1&sni=diverse-hawk.rooster465.autos&type=tcp#%40SystemNebula
-trojan://HC04361579@legible-ocelot.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
 trojan://HC04361579@exact-sawfish.rooster465.autos:443?sni=exact-sawfish.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@learning-leopard.rooster465.autos:443?sni=learning-leopard.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@13.230.239.7:443?allowInsecure=1&sni=alert-redfish.rooster465.autos&type=tcp#%40SystemNebula
@@ -13,7 +9,6 @@ trojan://PQ05174892@13.113.98.210:443?allowInsecure=1&sni=mighty-lemming.rooster
 trojan://AE62539071@18.183.82.51:443?allowInsecure=1&sni=sweeping-parakeet.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@steady-lemming.rooster465.autos:443?allowInsecure=1&sni=steady-lemming.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@pleased-sawfly.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://PQ05174892@13.113.43.109:443?sni=learning-ibex.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@glowing-iguana.rooster465.autos:443?allowInsecure=1&sni=glowing-iguana.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@endless-kiwi.rooster465.autos:443?sni=endless-kiwi.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@charmed-fly.rooster465.autos:443?allowInsecure=1&sni=charmed-fly.rooster465.autos&type=tcp#%40SystemNebula
@@ -28,3 +23,8 @@ trojan://PQ05174892@better-molly.rooster465.autos:443?allowInsecure=1&sni=better
 trojan://HC04361579@57.180.19.66:443?sni=accepted-starling.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@bright-buffalo.rooster465.autos:443?allowInsecure=1&sni=bright-buffalo.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@engaged-lionfish.rooster465.autos:443?allowInsecure=1&sni=engaged-lionfish.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@actual-chicken.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://PQ05174892@evolving-kangaroo.rooster465.autos:443?sni=evolving-kangaroo.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@inspired-hound.rooster465.autos:443?sni=inspired-hound.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@concise-guinea.rooster465.autos:443?sni=concise-guinea.rooster465.autos&type=raw#%40SystemNebula
+trojan://PQ05174892@13.112.222.74:443?allowInsecure=1&sni=free-tuna.rooster465.autos&type=tcp#%40SystemNebula
