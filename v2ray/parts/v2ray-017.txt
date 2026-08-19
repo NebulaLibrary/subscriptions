@@ -1,3 +1,5 @@
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?encryption=none&security=tls&sni=octopusss5.info&insecure=0&allowInsecure=0&type=ws&host=octopusss5.info&path=%2Fudfyfws@ThePackageCom#%40SystemNebula
+vless://6a6f414c-0326-4764-8e90-04f53cdaac57@94.237.85.204:28961?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40SystemNebula
 trojan://HC04361579@powerful-troll.rooster465.autos:443?allowInsecure=1&sni=powerful-troll.rooster465.autos#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#%40SystemNebula
 vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.49:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&type=tcp&headerType=none@ThePackageCom#%40SystemNebula
@@ -26,5 +28,3 @@ vless://042a4a95-68f5-4179-89b3-69475a5d4908@91.132.161.245:18456?security=reali
 vless://c7e9c591-2764-423a-afca-efbd010fd396@103.54.16.230:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#%40SystemNebula
 trojan://QV31589740@great-krill.rooster465.autos:443?allowInsecure=0#%40SystemNebula
 vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?encryption=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&path=%2F&security=none&type=ws#%40SystemNebula
-vless://326c44b9-3ef7-46e9-f4f2-170e140104fb@s5.zynetrax.ir:2087?pcs=52c36f3722d73827cc3977541830ab65967d8335c6e7122dd5ff810de57252bb&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=xhttp&sni=s5.zynetrax.ir&mode=auto&path=%2FBetForward&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=s5.zynetrax.ir&allowInsecure=0#%40SystemNebula
-trojan://FH72359861@epic-iguana.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#%40SystemNebula
