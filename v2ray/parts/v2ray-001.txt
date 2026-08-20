@@ -27,4 +27,4 @@ vless://52322144-50c7-9d9f-6ba9-fdb600000005@104.24.212.83:443?path=%2Fsync&secu
 vless://e3c7c198-2b02-42c2-b78f-22dfc078219c@104.25.194.196:2086?path=%2Fvl%2F3k4QnDlh2r3IPLPNFGLAeMJ5df%3Fed&security=&encryption=none&host=uj-kn9gcgkzl0wmmy5wrkmalvhzdw62z.soltannatlos.workers.dev&type=ws#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640#%40SystemNebula
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@108.138.26.70:443?path=%2F&security=tls&encryption=none&insecure=0&host=d1yxsk0zprgivr.cloudfront.net&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#%40SystemNebula
-vless://35ff8b6c-625d-367f-45cf-90cc861a1e2c@irhub-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=irhub-production.up.railway.app&path=/ws/35ff8b6c-625d-367f-45cf-90cc861a1e2c&sni=irhub-production.up.railway.app&fp=chrome&alpn=http/1.1#%40SystemNebula
+vless://c7e9c591-2764-423a-afca-efbd010fd396@188.241.241.20:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#%40SystemNebula
