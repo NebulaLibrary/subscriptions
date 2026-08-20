@@ -1,3 +1,8 @@
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.159:443?insecure=1&sni=vpn-kr-003.fastervpn.world#%40SystemNebula
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443?insecure=1&sni=css.rbxcdn.com#%40SystemNebula
+hy2://vik7pgPgqnWuAngj@38.207.130.119:16001?insecure=1&sni=jp-akile-2.nebulacloud.win#%40SystemNebula
+hy2://SODC8y5QS1cqF7zX@54.116.41.191:16001?insecure=1&sni=kor-ls-b-2.nebulacloud.win#%40SystemNebula
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=speedtest.tinkoff.ru#%40SystemNebula
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%D1%80%D2%B9%D2%AF%D1%91%D1%80%D2%B9%D2%AF%D1%96#%40SystemNebula
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%C3%B0%C2%9F%C2%87%C2%A8%C3%B0%C2%9F%C2%87%C2%B3#%40SystemNebula
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=google.com#%40SystemNebula
@@ -23,8 +28,3 @@ trojan://FH72359861@strong-haddock.rooster465.autos:443?allowInsecure=1&sni=stro
 trojan://FH72359861@91.199.84.204:443?allowInsecure=1&sni=growing-oyster.rooster465.autos&type=tcp#%40SystemNebula
 trojan://ND91608427@18.181.164.216:443?sni=upright-impala.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@ideal-phoenix.rooster465.autos:443?sni=ideal-phoenix.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@91.199.84.120:443?allowInsecure=1&sni=dynamic-grubworm.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@full-ox.rooster465.autos:443?allowInsecure=1&sni=full-ox.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@easy-barnacle.rooster465.autos:443?allowInsecure=1&sni=easy-barnacle.rooster465.autos&type=tcp#%40SystemNebula
-trojan://HC04361579@renewing-ewe.rooster465.autos:443?sni=renewing-ewe.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@smiling-ray.rooster465.autos:443?sni=smiling-ray.rooster465.autos&type=tcp#%40SystemNebula

@@ -1,3 +1,8 @@
+trojan://FH72359861@tight-fawn.rooster465.autos:443?sni=tight-fawn.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@merry-falcon.rooster465.autos:443?sni=merry-falcon.rooster465.autos&type=raw#%40SystemNebula
+trojan://FH72359861@13.114.100.100:443?sni=pleased-sawfly.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@social-mutt.rooster465.autos:443?allowInsecure=1&sni=social-mutt.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@living-hagfish.rooster465.autos:443?sni=living-hagfish.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@magical-airedale.rooster465.autos:443?sni=magical-airedale.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@54.250.247.38:443?sni=premium-weevil.rooster465.autos&type=tcp#%40SystemNebula
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?sni=t11.qifei.app&type=tcp#%40SystemNebula
@@ -23,8 +28,3 @@ vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?flow=xtls-rprx-v
 vless://5e8e81ac-a1c4-4543-b81e-651bf9872b54@162.128.157.164:443?flow=xtls-rprx-vision&fp=firefox&pbk=TP_bpIPUtjdxxGA9j7mpsHtSDfM2HMSZFNWW9MtDPT0&security=reality&sid=14156e3ac23212cc&sni=www.bing.com&type=tcp#%40SystemNebula
 vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@158.247.201.96:443?alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&fp=firefox&host=17cc9b82s180.kukuss.top&security=tls&sni=u643766u17cc9b82s180.kukuss.top&type=tcp#%40SystemNebula
 vless://19bb341c-ee57-4899-b1e7-e9d3ebdf23df@xiweini.dpdns.org:30100?security=tls&type=tcp#%40SystemNebula
-vless://19bb341c-ee57-4899-b1e7-e9d3ebdf23df@xiweini.dpdns.org:30100?fp=chrome&host=xiweini.dpdns.org&path=%2F+&security=tls&type=tcp#%40SystemNebula
-vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@156.246.88.125:26518?flow=xtls-rprx-vision&fp=firefox&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk&security=reality&sid=6caead99&sni=github.com&type=raw#%40SystemNebula
-vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@jp.wxgqlfx.top:26518?flow=xtls-rprx-vision&fp=edge&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk&security=reality&sid=6caead99&sni=github.com&type=tcp#%40SystemNebula
-vless://19bb341c-ee57-4899-b1e7-e9d3ebdf23df@xiweini.dpdns.org:30100?security=tls&sni=xiweini.dpdns.org&type=tcp#%40SystemNebula
-vless://90562d79-e7b7-4aa8-b86e-32537ab0ede5@163.128.98.140:443?flow=xtls-rprx-vision&fp=chrome&pbk=Cas0ZJcBSzluAQsloMFnJblbrZCKyE3PGTSJAbPlNCs&security=reality&sid=7be83fb9e5328293&sni=www.apple.com&type=tcp#%40SystemNebula
