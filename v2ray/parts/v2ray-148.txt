@@ -1,3 +1,11 @@
+trojan://EQ30679154@13.229.238.97:443?sni=curious-llama.rooster465.autos&type=tcp#%40SystemNebula
+trojan://EQ30679154@47.129.7.255:443?sni=stable-racer.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@safe-frog.rooster465.autos:443?sni=safe-frog.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@rich-mule.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
+trojan://PQ05174892@casual-emu.rooster465.autos:443?allowInsecure=1&sni=casual-emu.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@immense-eagle.rooster465.autos:443?allowInsecure=1&sni=immense-eagle.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@bold-eagle.rooster465.autos:443?allowInsecure=1&sni=bold-eagle.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@elegant-arachnid.rooster465.autos:443?sni=elegant-arachnid.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@square-tortoise.rooster465.autos:443?sni=square-tortoise.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@elegant-marten.rooster465.autos:443?type=tcp#%40SystemNebula
 trojan://PQ05174892@rich-mule.rooster465.autos:443?sni=rich-mule.rooster465.autos&type=tcp#%40SystemNebula
@@ -20,11 +28,3 @@ trojan://PQ05174892@learning-leopard.rooster465.autos:443?allowInsecure=1&sni=le
 trojan://PQ05174892@13.251.133.9:443?allowInsecure=1&sni=infinite-anteater.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@tops-owl.rooster465.autos:443?allowInsecure=1&sni=tops-owl.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@excited-alien.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
-trojan://FH72359861@tough-gopher.rooster465.autos:443?allowInsecure=1&sni=tough-gopher.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@simple-rodent.rooster465.autos:443?sni=simple-rodent.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@in-mongrel.rooster465.autos:443?allowInsecure=1&sni=in-mongrel.rooster465.autos&type=tcp#%40SystemNebula
-trojan://EQ30679154@eternal-swift.rooster465.autos:443?allowInsecure=1&sni=eternal-swift.rooster465.autos&type=tcp#%40SystemNebula
-trojan://EQ30679154@true-coral.rooster465.autos:443?allowInsecure=1&sni=true-coral.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@intense-monarch.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
-trojan://FH72359861@light-filly.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
