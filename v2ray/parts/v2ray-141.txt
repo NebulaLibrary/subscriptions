@@ -9,6 +9,7 @@ vless://5aab0d40-c509-4560-b048-ade921fdfb6a@70.39.198.183:46197?fp=firefox&pbk=
 vless://a14b736b-a92a-48d6-a596-5d31f7378ded@51.161.204.242:443?flow=xtls-rprx-vision&fp=firefox&pbk=a2qGjvUPq6Nz5FTbn_MSHp-055q2h8YXqIL5VIJ5zwE&security=reality&sid=d15c17cef9b2e456&sni=www.cloudflare.com&type=tcp#%40SystemNebula
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:10574?flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%40SystemNebula
 vless://840476ec-64a2-496e-b406-c5a0ca1e4a13@104.64.207.134:443?fp=chrome&host=zero.csmaster.ggff.net&path=%2F&security=tls&sni=zero.csmaster.ggff.net&type=ws#%40SystemNebula
+vless://624dbb1d-d38b-4ed1-a967-f483af364eca@news.zoom.us:8443?fp=chrome&host=zero.csmaster.ggff.net&path=%2F&security=tls&sni=zero.csmaster.ggff.net&type=ws#%40SystemNebula
 vless://daf0c4cb-3541-4f20-bc71-cc9d94bb17bc@6sdo-zilhxv.logicara.top:443?flow=xtls-rprx-vision&fp=random&pbk=BF9aCRIeWaFADnCRCeEKsX1SSRaqAPrXttdD9eFCl0k&security=reality&sid=96b6483bfb4ac526&sni=www.bing.com&type=tcp#%40SystemNebula
 vless://ec31f6d7-c71a-413d-93aa-24296805a594@128.128.90.72:443?flow=xtls-rprx-vision&fp=firefox&host=www.bing.com&path=%2F&pbk=FL9zvOg48NhHk_YWJMcDXNOseisuzeBW7d8KitUaAQM&security=reality&sid=dc941fb0778384e2&sni=www.bing.com&type=tcp#%40SystemNebula
 vless://f1dcdda0-b2d2-4e18-88e2-c87c9257128e@38.244.21.39:443?flow=xtls-rprx-vision&fp=chrome&pbk=5iZBmQ9iLLxvEHo_XilfjC7OM2-EmYTPQp-bzxlTqUU&security=reality&sid=4568f3e435322cc8&sni=www.apple.com&type=tcp#%40SystemNebula
@@ -27,4 +28,3 @@ hy2://H7mP2xY9kJ4nQ9wR5tF6vB3z@vpn-sg-002.fastervpn.world:443?insecure=1&sni=vpn
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world#%40SystemNebula
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=127.0.0.1#%40SystemNebula
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443?insecure=1&sni=css.rbxcdn.com#%40SystemNebula
-hy2://dongtaiwang.com@hy2.561891.xyz:44356?insecure=1&sni=hy2.561891.xyz#%40SystemNebula
