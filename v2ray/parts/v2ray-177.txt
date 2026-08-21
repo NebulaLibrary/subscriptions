@@ -1,7 +1,3 @@
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.202:443?flow=xtls-rprx-vision&fp=ios&host=yahoo.com&path=%2F&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#%40SystemNebula
-vless://9775116b-b463-4fca-9f61-d01ac2355b21@31.58.50.200:8443?flow=xtls-rprx-vision&fp=firefox&pbk=mr5AF0LFyDzYDRoYAwH6QNcHXL77-LoiwRx50ZzU8QU&security=reality&sni=tradingview.com&type=tcp#%40SystemNebula
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.16:443?flow=xtls-rprx-vision&fp=random&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#%40SystemNebula
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.229:443?flow=xtls-rprx-vision&fp=chrome&host=yahoo.com&path=%2F&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#%40SystemNebula
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?security=none&sni=%40spiddy_ir%40spiddy_ir%40spiddy_ir%40spiddy_ir%40spiddy_ir%40spiddy_ir%40spiddy_ir%40spiddy_ir%40spiddy_ir%40spiddy_ir%40spiddy_ir%40spiddy_ir&type=tcp#%40SystemNebula
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?flow=xtls-rprx-vision&fp=random&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#%40SystemNebula
 vless://b5f27d9a-4d7a-4fa3-a45a-09bfd3e8a248@31.58.50.200:8443?flow=xtls-rprx-vision&fp=firefox&pbk=mr5AF0LFyDzYDRoYAwH6QNcHXL77-LoiwRx50ZzU8QU&security=reality&sni=tradingview.com&type=tcp#%40SystemNebula
@@ -28,3 +24,7 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?flow=xtls-rprx-vis
 vless://b555fe25-c488-4758-8574-7f70b357c175@31.58.50.200:8443?flow=xtls-rprx-vision&fp=chrome&pbk=mr5AF0LFyDzYDRoYAwH6QNcHXL77-LoiwRx50ZzU8QU&security=reality&sni=tradingview.com&type=tcp#%40SystemNebula
 vless://e3c57af3-51e0-4e06-bfd8-f05cc37d5069@31.58.50.200:8443?flow=xtls-rprx-vision&fp=firefox&pbk=mr5AF0LFyDzYDRoYAwH6QNcHXL77-LoiwRx50ZzU8QU&security=reality&sni=tradingview.com&type=tcp#%40SystemNebula
 vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?fp=chrome&security=tls&type=tcp#%40SystemNebula
+vless://0bf89828-484f-4710-9581-12aa961e3bf1@194.61.31.126:2053?fp=firefox&pbk=Gy6W0bXf2bpxoG1k3szp8X0ekzoyXlEtzT8V4mYQ3EE&security=reality&sid=29fe4205ddc971a8&sni=www.apple.com&type=tcp#%40SystemNebula
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.248:10000?security=none&type=raw#%40SystemNebula
+vless://2f6caa9d-1e26-4c65-93ea-0ee26f1f1473@179.255.185.74:443?flow=xtls-rprx-vision&fp=firefox&pbk=MlXQqlki7M9aZF48YEul5pcRi7vq00UezcwtddeL-08&security=reality&sni=usa1.razkur.dev&type=tcp#%40SystemNebula
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?fp=chrome&host=speed.dulacloud.store&path=%2Fdula&security=tls&sni=speed.dulacloud.store&type=ws#%40SystemNebula

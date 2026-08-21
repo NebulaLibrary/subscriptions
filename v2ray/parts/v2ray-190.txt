@@ -1,7 +1,3 @@
-trojan://EQ30679154@175.41.234.16:443?sni=open-octopus.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@picked-guinea.rooster465.autos:443?sni=picked-guinea.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@54.250.247.38:443?sni=premium-weevil.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@54.178.51.14:443?sni=stunning-mastodon.rooster465.autos&type=tcp#%40SystemNebula
 trojan://fg20mtCFHy@128.14.148.84:5531?sni=ycgsc.southbyte.xyz&type=tcp#%40SystemNebula
 trojan://AE62539071@18.179.6.206:443?sni=polished-katydid.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@13.230.4.218:443?sni=content-rabbit.rooster465.autos&type=tcp#%40SystemNebula
@@ -28,3 +24,7 @@ vless://9f4b666c-ecf1-49e9-8ab8-9ae2c4f4c613@188.114.97.6:8080?host=withered-mor
 vless://a157bb84-dd84-4ad8-86b0-0656bc76e4d1@jpaws.ccwink.photos:6897?flow=xtls-rprx-vision&fp=edge&pbk=X2thmYgL8pXZBmFxMOPo3oIYAga5CTMEd-YMcJHk4Es&security=reality&sid=54efd54cf3e7&sni=docs.aws.amazon.com&type=tcp#%40SystemNebula
 vless://fc8a0708-951a-4027-860f-2a154ebc4dd7@188.114.97.6:8080?host=crimson-king-301d.nexoxnet.workers.dev&path=%2F&security=none&type=ws#%40SystemNebula
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@188.114.97.6:8080?host=josni.hoyes.cloudns.ch&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=none&type=ws#%40SystemNebula
+vless://3a38b35b-7b31-452c-954f-99c2f45dda19@188.114.97.6:8080?host=sweet-truth-0f0c.71-fca.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#%40SystemNebula
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@188.114.97.6:8080?host=josni.hoyes.cloudns.ch&path=%2F%3FTELEGRAM-TOOTFFARANGI%3Fed%3D2560&security=none&type=ws#%40SystemNebula
+vless://a157bb84-dd84-4ad8-86b0-0656bc76e4d1@jpaws.ccwink.photos:6897?flow=xtls-rprx-vision&fp=firefox&host=docs.aws.amazon.com&path=%2F&pbk=X2thmYgL8pXZBmFxMOPo3oIYAga5CTMEd-YMcJHk4Es&security=reality&sid=54efd54cf3e7&sni=docs.aws.amazon.com&type=tcp#%40SystemNebula
+vless://deee4a60-e8c3-456f-846f-aa2c2b7fae24@188.114.97.6:8080?host=broad-bush-c2c8.37-9a0.workers.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net&security=none&type=ws#%40SystemNebula

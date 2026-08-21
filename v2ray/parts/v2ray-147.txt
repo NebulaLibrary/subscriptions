@@ -1,7 +1,3 @@
-trojan://AE62539071@185.244.208.69:443?sni=strong-haddock.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@54.249.221.234:443?sni=open-caribou.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@54.178.52.185:443?allowInsecure=1&sni=pretty-adder.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@dynamic-grubworm.rooster465.autos:443?sni=dynamic-grubworm.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@ideal-phoenix.rooster465.autos:443?allowInsecure=1&sni=ideal-phoenix.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@natural-swan.rooster465.autos:443?type=tcp#%40SystemNebula
 trojan://AE62539071@new-eagle.rooster465.autos:443?sni=new-eagle.rooster465.autos&type=tcp#%40SystemNebula
@@ -28,3 +24,7 @@ trojan://FH72359861@3.113.30.13:443?allowInsecure=1&sni=loyal-killdeer.rooster46
 trojan://FH72359861@natural-swan.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
 trojan://FH72359861@steady-lemming.rooster465.autos:443?type=tcp#%40SystemNebula
 trojan://AE62539071@modest-pup.rooster465.autos:443?sni=modest-pup.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@living-hagfish.rooster465.autos:443?sni=living-hagfish.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@humane-hawk.rooster465.autos:443?allowInsecure=1&sni=humane-hawk.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@185.14.47.228:443?sni=wealthy-loon.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@54.168.45.85:443?sni=internal-mongoose.rooster465.autos&type=tcp#%40SystemNebula
