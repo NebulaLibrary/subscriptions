@@ -1,4 +1,0 @@
-trojan://FH72359861@emerging-porpoise.rooster465.autos:443?type=tcp#%40SystemNebula
-trojan://PQ05174892@pleased-sawfly.rooster465.autos:443?allowInsecure=1&sni=pleased-sawfly.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@steady-lemming.rooster465.autos:443?sni=steady-lemming.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@set-gazelle.rooster465.autos:443?sni=set-gazelle.rooster465.autos&type=tcp#%40SystemNebula
