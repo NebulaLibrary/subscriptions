@@ -1,4 +1,3 @@
-trojan://MiTiVPN@188.42.145.180:443?allowInsecure=1&sni=82929473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&type=ws#%40SystemNebula
 trojan://EQ30679154@185.14.47.56:443?allowInsecure=1&sni=kind-unicorn.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@185.14.47.234:443?allowInsecure=1&sni=novel-mouse.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@dynamic-grubworm.rooster465.autos:443?allowInsecure=1&sni=dynamic-grubworm.rooster465.autos&type=tcp#%40SystemNebula
@@ -28,3 +27,4 @@ trojan://HC04361579@185.14.47.38:443?allowInsecure=1&sni=normal-elk.rooster465.a
 trojan://EQ30679154@darling-mutt.rooster465.autos:443?sni=darling-mutt.rooster465.autos&type=tcp#%40SystemNebula
 trojan://EQ30679154@44.251.158.80:443?sni=obliging-louse.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@44.243.85.47:443?sni=liked-serval.rooster465.autos&type=tcp#%40SystemNebula
+trojan://EQ30679154@choice-worm.rooster465.autos:443?sni=choice-worm.rooster465.autos&type=tcp#%40SystemNebula
