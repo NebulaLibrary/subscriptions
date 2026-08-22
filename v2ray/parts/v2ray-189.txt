@@ -1,0 +1,3 @@
+trojan://FH72359861@obliging-louse.rooster465.autos:443?allowInsecure=1&sni=obliging-louse.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@tough-tuna.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://PQ05174892@evident-ant.rooster465.autos:443?allowInsecure=1&sni=evident-ant.rooster465.autos&type=tcp#%40SystemNebula

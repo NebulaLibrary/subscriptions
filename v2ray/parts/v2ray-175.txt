@@ -1,3 +1,9 @@
+trojan://FH72359861@alive-snapper.rooster465.autos:443?type=tcp#%40SystemNebula
+trojan://EQ30679154@choice-worm.rooster465.autos:443?sni=choice-worm.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@202.78.163.132:443?sni=relative-locust.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@smiling-ray.rooster465.autos:443?sni=smiling-ray.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@discrete-basilisk.rooster465.autos:443?allowInsecure=1&sni=discrete-basilisk.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@suitable-feline.rooster465.autos:443?sni=suitable-feline.rooster465.autos&type=tcp#%40SystemNebula
 trojan://HC04361579@renewing-ewe.rooster465.autos:443?sni=renewing-ewe.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@185.244.208.69:443?sni=strong-haddock.rooster465.autos&type=tcp#%40SystemNebula
 trojan://EQ30679154@35.160.249.189:443?sni=absolute-teal.rooster465.autos&type=tcp#%40SystemNebula
@@ -22,9 +28,3 @@ trojan://PQ05174892@primary-leech.rooster465.autos:443?sni=primary-leech.rooster
 trojan://FH72359861@smiling-ray.rooster465.autos:443?sni=smiling-ray.rooster465.autos&type=tcp#%40SystemNebula
 trojan://EQ30679154@185.14.47.56:443?sni=kind-unicorn.rooster465.autos&type=tcp#%40SystemNebula
 trojan://EQ30679154@discrete-basilisk.rooster465.autos:443?sni=discrete-basilisk.rooster465.autos&type=tcp#%40SystemNebula
-trojan://EQ30679154@choice-worm.rooster465.autos:443?sni=choice-worm.rooster465.autos&type=tcp#%40SystemNebula
-trojan://EQ30679154@choice-worm.rooster465.autos:443?sni=choice-worm.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@wealthy-loon.rooster465.autos:443?sni=wealthy-loon.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@many-pangolin.rooster465.autos:443?allowInsecure=1&sni=many-pangolin.rooster465.autos&type=tcp#%40SystemNebula
-trojan://AE62539071@202.78.163.19:443?allowInsecure=1&sni=game-firefly.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@amused-peacock.rooster465.autos:443?allowInsecure=1&sni=amused-peacock.rooster465.autos&type=tcp#%40SystemNebula
