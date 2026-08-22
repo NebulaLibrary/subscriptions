@@ -4,7 +4,6 @@ trojan://EQ30679154@35.91.138.234:443?allowInsecure=1&sni=sure-bengal.rooster465
 vless://d29f3c8c-650a-466c-a8b0-8150f33b1640@116.206.92.44:443?flow=xtls-rprx-vision&fp=chrome&pbk=vnJsxWf4fvfo-3_EOY3QidjgCpDFe7XnB59ltE70pnI&security=reality&sid=1b09f4d0491f2a48&sni=www.apple.com&type=tcp#%40SystemNebula
 vless://8d1e0577-bfcb-4cbd-91c0-1f8788d4ba44@6fzw-19369ic.meibao.site:443?flow=xtls-rprx-vision&fp=chrome&pbk=rJ-aDop3jUC-FzyETfI2uDSXQ659PFlehr7XWm5Cm0A&security=reality&sid=fe1a104caf309f5a&sni=www.cloudflare.com&type=raw#%40SystemNebula
 vless://2058418a-7718-4050-bdd5-db7487ffdb3b@34.96.200.38:443?fp=random&pbk=uoXBNYcBgR-h2YmU1NFhFyASr6qh9UghWOuo1WZIikw&security=reality&sid=17d824dd68e24aaf&sni=www.cloudflare.com&type=tcp#%40SystemNebula
-vless://6179bb85-fd73-4aa1-a10d-a7c017306c1b@162.128.84.142:443?flow=xtls-rprx-vision&fp=chrome&pbk=t3_QIEko7K1ONUIWGr4L84HNHszQ3zB_kOqkALiacRg&security=reality&sid=43a85ad1c112e5d8&sni=www.bing.com&type=tcp#%40SystemNebula
 vless://e1497c37-4943-4b99-918b-ee52a0976d29@162.128.69.118:443?flow=xtls-rprx-vision&fp=firefox&pbk=l7JQh1wolRUB1fiUDIMjbgKksM2hMfQaOr4yeFUZLQk&security=reality&sid=905354e3cbb8e2fb&sni=www.bing.com&type=tcp#%40SystemNebula
 vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?flow=xtls-rprx-vision&fp=firefox&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&security=reality&sid=4014ce9b0d82ad9d&sni=www.bing.com&type=tcp#%40SystemNebula
 vless://be154d71-04ca-4389-8a89-d14219b25cd7@162.128.87.50:443?flow=xtls-rprx-vision&fp=firefox&pbk=kwZBG2HBA1WN4eZW1GK0D9OVC4TPEs5J-ZeeBA2bVBw&security=reality&sid=08f1620e7ad50ca8&sni=www.bing.com&type=tcp#%40SystemNebula
@@ -28,3 +27,4 @@ vless://bf387633-fc4e-4afd-9983-856f08b379b1@fv2026.node2.top:21001?flow=xtls-rp
 vless://ec31f6d7-c71a-413d-93aa-24296805a594@128.128.90.72:443?flow=xtls-rprx-vision&fp=random&pbk=FL9zvOg48NhHk_YWJMcDXNOseisuzeBW7d8KitUaAQM&security=reality&sid=dc941fb0778384e2&sni=www.bing.com&type=tcp#%40SystemNebula
 vless://19bb341c-ee57-4899-b1e7-e9d3ebdf23df@223.122.123.74:30100?fp=firefox&security=tls&sni=xiweini.dpdns.org&type=tcp#%40SystemNebula
 vless://3670ab0a-1af7-4f1d-9a19-8bb8ae42ec08@170.114.45.6:8080?host=zero.csmaster.ggff.net&path=%2F&security=none&type=ws#%40SystemNebula
+vless://c2dcd1dd-f979-421d-8ed1-6fdfc76b633c@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%40SystemNebula

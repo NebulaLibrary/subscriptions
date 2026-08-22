@@ -1,4 +1,3 @@
-vless://41a463f0-8c2d-4090-8456-e3278cab8fa2@31.58.181.88:8443?flow=xtls-rprx-vision&fp=firefox&pbk=AERbWB2uslqIzm1hSlOZZEH3Y9qg_zlWRRyLfh97kXc&security=reality&sni=tradingview.com&type=tcp#%40SystemNebula
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@64.188.77.13:443?flow=xtls-rprx-vision&fp=random&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&security=reality&sid=dd3ff38418d29d22&sni=eu-west.cendora.ru&type=tcp#%40SystemNebula
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=fr15.mechvpn.online&type=tcp#%40SystemNebula
 vless://44ae52b9-76fc-444d-8e43-186b4384b80a@86.54.28.75:443?flow=xtls-rprx-vision&fp=chrome&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&security=reality&sid=1d86d17709852910&sni=www.apple.com&type=raw#%40SystemNebula
@@ -28,3 +27,4 @@ vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr213.mechvpn.online:443?flow=xtls-
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2053?flow=xtls-rprx-vision&fp=random&pbk=dRLd_E_GYCkCcwxLN5EcRQYsREKqisb26_ZSehxUpWY&security=reality&sid=1eb8ea8dae937ae0&sni=vk.ru&type=tcp#%40SystemNebula
 vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?flow=xtls-rprx-vision&fp=firefox&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&security=reality&sid=68a8&sni=deepl.com&type=raw#%40SystemNebula
 vless://624dbb1d-d38b-4ed1-a967-f483af364eca@news.zoom.us:8443?fp=chrome&host=zero.csmaster.ggff.net&path=%2F&security=tls&sni=zero.csmaster.ggff.net&type=ws#%40SystemNebula
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.90:443?flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#%40SystemNebula

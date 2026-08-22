@@ -1,7 +1,15 @@
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#%40SystemNebula
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%40SystemNebula
+trojan://s6wf9fh1eemfsks8@94.101.178.169:2083?security=reality&pbk=QsKfulnzA2Nt5-3qdaGhUcckahPz2P_AIZxAxF8UTz4&headerType=none&fp=chrome&spx=/c3a51ac62b5ccc6&type=tcp&sni=www.bing.com&sid=d0a561#%40SystemNebula
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#%40SystemNebula
+trojan://telegram-id-directvpn@16.170.118.192:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%40SystemNebula
+trojan://telegram-id-directvpn@35.157.241.124:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%40SystemNebula
+trojan://telegram-id-privatevpns@13.37.100.160:22222?allowInsecure=0#%40SystemNebula
 trojan://telegram-id-privatevpns@13.41.217.121:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%40SystemNebula
 trojan://telegram-id-privatevpns@13.50.45.4:22222?allowInsecure=0#%40SystemNebula
 trojan://uRkZYGid1r@179.237.75.190:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#%40SystemNebula
 trojan://uRkZYGid1r@6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-pakipon.ir:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#%40SystemNebula
+trojan://vpn@45.82.14.144:2025?sni=dns.google.com&type=ws#%40SystemNebula
 trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=/#%40SystemNebula
 trojan://xrVEJA7RH7AKaJfOUVfsLA@37.202.231.202:2376?pcs=27625bde11efb641b59159b58d1f7d813ba861e4373867c69c61a96f4923bd03&security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pish-data-03.myket.ir#%40SystemNebula
 trojan://xth1trWxty3u5JGt1spEVVJ0M1/VW/SK@vip-ca-1.hkd4fwmg.xyz:51992?allowInsecure=1&fp=chrome#%40SystemNebula
@@ -20,11 +28,3 @@ trojan://AE62539071@89.39.70.9:443?fp=chrome&sni=whole-woodcock.rooster465.autos
 trojan://AE62539071@emerging-weevil.rooster465.autos:443#%40SystemNebula
 trojan://AE62539071@darling-mutt.rooster465.autos:443?allowInsecure=1#%40SystemNebula
 trojan://AE62539071@humorous-hawk.rooster465.autos:443?allowInsecure=1&sni=humorous-hawk.rooster465.autos#%40SystemNebula
-trojan://AE62539071@thorough-falcon.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@game-firefly.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@enough-basilisk.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@present-warthog.rooster465.autos:443#%40SystemNebula
-trojan://AE62539071@relative-locust.rooster465.autos:443#%40SystemNebula
-vmess://eyJhZGQiOiAiMTc2LjEyMC4xNy4yMSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiY2UxOTQxMTAtYTg5NS00ZTU0LTk0NDEtNmU3MDdlZDhhYjMxIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMTAxNSIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogImFzdHJhLmlyYW5pYW5nYW1lcnNjbHViLmlyIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=#%40SystemNebula
-vmess://eyJhZGQiOiAiMTc2LjY1LjE0MC4yMTAiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJib2JvLmJhZHJhbmd0ZWIuaXIiLCAiaWQiOiAiZTJhYjk0MjUtYTNkNS00MDAxLThiMzEtNmEyNTk5MzVmZTcyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDIzOTgxLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==#%40SystemNebula
-vmess://eyJhZGQiOiAiMTc2LjY1LjE0MC4yMTAiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJib2JvLmJhZHJhbmd0ZWIuaXIiLCAiaWQiOiAiZTJhYjk0MjUtYTNkNS00MDAxLThiMzEtNmEyNTk5MzVmZTcyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDI4MjY3LCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==#%40SystemNebula

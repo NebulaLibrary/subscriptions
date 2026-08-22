@@ -1,6 +1,3 @@
-trojan://PQ05174892@darling-mutt.rooster465.autos:443?sni=darling-mutt.rooster465.autos&type=tcp#%40SystemNebula
-trojan://PQ05174892@35.91.138.234:443?sni=sure-bengal.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@87.121.33.32:443?sni=square-pheasant.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@34.220.224.252:443?allowInsecure=1&sni=smooth-sculpin.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@strong-haddock.rooster465.autos:443?allowInsecure=1&sni=strong-haddock.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@square-pheasant.rooster465.autos:443?sni=square-pheasant.rooster465.autos&type=tcp#%40SystemNebula
@@ -13,7 +10,6 @@ trojan://FH72359861@neutral-quail.rooster465.autos:443?sni=neutral-quail.rooster
 trojan://AE62539071@87.121.33.238:443?sni=wanted-marmoset.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@just-alpaca.rooster465.autos:443?allowInsecure=1&sni=just-alpaca.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@smiling-ray.rooster465.autos:443?allowInsecure=1&sni=smiling-ray.rooster465.autos&type=tcp#%40SystemNebula
-trojan://FH72359861@185.244.208.69:443?sni=strong-haddock.rooster465.autos&type=tcp#%40SystemNebula
 vless://0b772594-d6b9-4f4f-849b-8a6f92f594fe@43.165.177.82:443?flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=ZuN9nc78h4Ccb19eb9NpTCs0jZkhJB8L0i1ZoAhu0XU&security=reality&sid=b2f4518cf979889d&sni=www.cloudflare.com&type=tcp#%40SystemNebula
 vless://ef5e311d-ed25-42d7-98a6-30fa273cf174@103.76.85.82:443?flow=xtls-rprx-vision&fp=safari&pbk=uLhi4XEmyszRHxTWF2-X_rehZdceMD4bdVaBOB64Kmc&security=reality&sid=36ff988994b11357&sni=www.apple.com&type=tcp#%40SystemNebula
 vless://ef5e311d-ed25-42d7-98a6-30fa273cf174@103.76.85.82:443?flow=xtls-rprx-vision&fp=qq&pbk=uLhi4XEmyszRHxTWF2-X_rehZdceMD4bdVaBOB64Kmc&security=reality&sid=36ff988994b11357&sni=www.apple.com&type=tcp#%40SystemNebula
@@ -28,3 +24,7 @@ vless://ec31f6d7-c71a-413d-93aa-24296805a594@nsuc-znkbig.avonex.top:443?flow=xtl
 vless://63360c4f-875f-4c1a-a44c-3cfe4543a0de@zero.csmaster.ggff.net:443?fp=chrome&security=tls&sni=zero.csmaster.ggff.net&type=ws#%40SystemNebula
 vless://a68d59e6-bc1e-47ed-91bf-c3e02b18e5df@hy2-tw.starq.me:24443?flow=xtls-rprx-vision&fp=qq&host=www.cloudflare.com&path=%2F&pbk=09Cv8GzDb5G9R9MS37ajZQ8o489874sF9umFuNdCeEc&security=reality&sid=ba2e8b0452447037&sni=www.cloudflare.com&type=tcp#%40SystemNebula
 vless://5aab0d40-c509-4560-b048-ade921fdfb6a@70.39.198.183:46197?fp=edge&pbk=npJEB6VpYJ9iYTZ-z0IL06Xs7PEz0N3fZU_IRwftQ00&security=reality&sid=f24c17bb7fc284&sni=updates.cdn-apple.com&type=tcp#%40SystemNebula
+vless://dbfc3838-3c6c-4244-a4b3-6a95822b2816@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%40SystemNebula
+vless://4a239f83-479c-4790-a9c7-fe7ddd483a4c@31.58.50.200:8443?flow=xtls-rprx-vision&fp=firefox&pbk=mr5AF0LFyDzYDRoYAwH6QNcHXL77-LoiwRx50ZzU8QU&security=reality&sni=tradingview.com&type=tcp#%40SystemNebula
+vless://9aa663f2-05a5-468e-8de2-1f4f357be68a@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%40SystemNebula
+vless://b77411ca-a4f1-4c3a-aadb-b4d9320a6dc1@31.58.50.200:8443?flow=xtls-rprx-vision&fp=firefox&pbk=mr5AF0LFyDzYDRoYAwH6QNcHXL77-LoiwRx50ZzU8QU&security=reality&sni=tradingview.com&type=tcp#%40SystemNebula
