@@ -1,0 +1,12 @@
+trojan://FH72359861@fluent-gar.rooster465.autos:443?allowInsecure=1&sni=fluent-gar.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@202.78.163.100:443?sni=enough-basilisk.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@185.14.47.234:443?allowInsecure=1&sni=novel-mouse.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@193.169.239.14:443?sni=emerging-weevil.rooster465.autos&type=tcp#%40SystemNebula
+trojan://ND91608427@185.244.208.13:443?sni=ace-starling.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@big-bonefish.rooster465.autos:443?allowInsecure=1&sni=big-bonefish.rooster465.autos&type=tcp#%40SystemNebula
+trojan://EQ30679154@warm-krill.rooster465.autos:443?sni=warm-krill.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@87.121.33.185:443?sni=humorous-llama.rooster465.autos&type=tcp#%40SystemNebula
+trojan://PQ05174892@35.160.249.189:443?allowInsecure=1&sni=absolute-teal.rooster465.autos&type=tcp#%40SystemNebula
+trojan://FH72359861@magnetic-caiman.rooster465.autos:443?allowInsecure=1&type=tcp#%40SystemNebula
+trojan://FH72359861@game-firefly.rooster465.autos:443?sni=game-firefly.rooster465.autos&type=tcp#%40SystemNebula
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org&type=tcp#%40SystemNebula
