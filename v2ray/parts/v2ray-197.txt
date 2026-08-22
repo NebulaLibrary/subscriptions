@@ -1,1 +1,0 @@
-vless://60ed7378-3d79-45af-a13f-2983dd2b524d@31.58.50.200:8443?flow=xtls-rprx-vision&fp=firefox&pbk=mr5AF0LFyDzYDRoYAwH6QNcHXL77-LoiwRx50ZzU8QU&security=reality&sni=tradingview.com&type=tcp#%40SystemNebula
