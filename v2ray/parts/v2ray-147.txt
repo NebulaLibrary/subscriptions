@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206c1pTWmk3dEdzOXdvZFQ3aw@155.138.136.240:443#%40SystemNebula
+ss://YWVzLTI1Ni1nY206SGk5d2sxNFZudHpHcTdrcQ@154.12.242.150:443#%40SystemNebula
+ss://YWVzLTI1Ni1nY206c1pTWmk3dEdzOXdvZFQ3aw@155.138.136.240:80#%40SystemNebula
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.151.182.197:8080#%40SystemNebula
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@154.127.56.212:65443#%40SystemNebula
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.155.113:5601#%40SystemNebula
 ss://YWVzLTI1Ni1nY206SGk5d2sxNFZudHpHcTdrcQ@154.12.242.150:80#%40SystemNebula
@@ -13,18 +17,14 @@ trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:38261?allowInsecure
 trojan://PQ05174892@wealthy-loon.rooster465.autos:443?sni=wealthy-loon.rooster465.autos&type=tcp#%40SystemNebula
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowInsecure=1&sni=www.microsoft.com&type=tcp#%40SystemNebula
 trojan://AE62539071@humorous-parakeet.rooster465.autos:443?sni=humorous-parakeet.rooster465.autos&type=tcp#%40SystemNebula
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?allowInsecure=1&sni=www.microsoft.com&type=tcp#%40SystemNebula
 trojan://AE62539071@87.121.33.185:443?sni=humorous-llama.rooster465.autos&type=tcp#%40SystemNebula
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:38261?allowInsecure=1&sni=us01.duotg.top&type=tcp#%40SystemNebula
 trojan://EQ30679154@sure-bengal.rooster465.autos:443?allowInsecure=1&sni=sure-bengal.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@choice-worm.rooster465.autos:443?allowInsecure=1&sni=choice-worm.rooster465.autos&type=tcp#%40SystemNebula
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:54657?allowInsecure=1&sni=us01.duotg.top&type=tcp#%40SystemNebula
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?allowInsecure=1&sni=www.microsoft.com&type=tcp#%40SystemNebula
 trojan://FH72359861@87.121.33.109:443?sni=national-stingray.rooster465.autos&type=tcp#%40SystemNebula
 trojan://PQ05174892@glad-roughy.rooster465.autos:443?sni=glad-roughy.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@humorous-parakeet.rooster465.autos:443?sni=humorous-parakeet.rooster465.autos&type=tcp#%40SystemNebula
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:54657?allowInsecure=1&sni=www.microsoft.com&type=tcp#%40SystemNebula
 trojan://FH72359861@87.121.33.14:443?sni=true-pony.rooster465.autos&type=tcp#%40SystemNebula
 trojan://FH72359861@87.121.33.14:443?sni=true-pony.rooster465.autos&type=tcp#%40SystemNebula
 trojan://EQ30679154@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&type=tcp#%40SystemNebula
 trojan://AE62539071@upright-bedbug.rooster465.autos:443?sni=upright-bedbug.rooster465.autos&type=tcp#%40SystemNebula
+trojan://AE62539071@dynamic-grubworm.rooster465.autos:443?sni=dynamic-grubworm.rooster465.autos&type=tcp#%40SystemNebula
