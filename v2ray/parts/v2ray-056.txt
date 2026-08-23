@@ -1,3 +1,7 @@
+trojan://EQ30679154@kind-unicorn.rooster465.autos:443#%40SystemNebula
+trojan://EQ30679154@pretty-mollusk.rooster465.autos:443#%40SystemNebula
+trojan://FH72359861@many-pangolin.rooster465.autos:443?allowInsecure=1#%40SystemNebula
+trojan://FH72359861@202.78.163.156:443?fp=chrome&sni=primary-leech.rooster465.autos#%40SystemNebula
 trojan://FH72359861@202.78.163.233:443?fp=chrome&sni=magnetic-caiman.rooster465.autos#%40SystemNebula
 trojan://EQ30679154@true-coral.rooster465.autos:443#%40SystemNebula
 trojan://FH72359861@89.39.70.120:443?sni=pro-crane.rooster465.autos#%40SystemNebula
@@ -19,12 +23,8 @@ trojan://Mehdi1234@172.64.144.251:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=pu
 trojan://ND91608427@202.78.163.148:443?allowInsecure=1&fp=chrome&sni=discrete-basilisk.rooster465.autos#%40SystemNebula
 trojan://ND91608427@185.244.208.210:443?fp=chrome&sni=upright-hamster.rooster465.autos#%40SystemNebula
 trojan://PQ05174892@34.220.224.252:443?fp=chrome&sni=smooth-sculpin.rooster465.autos#%40SystemNebula
+trojan://ND91608427@fleet-bonefish.rooster465.autos:443?allowInsecure=1&sni=fleet-bonefish.rooster465.autos#%40SystemNebula
 trojan://ND91608427@44.246.163.102:443?fp=chrome&sni=fleet-bonefish.rooster465.autos#%40SystemNebula
 trojan://PQ05174892@35.91.138.234:443?fp=chrome&sni=sure-bengal.rooster465.autos#%40SystemNebula
 trojan://PQ05174892@35.90.27.143:443?fp=chrome&sni=evident-ant.rooster465.autos#%40SystemNebula
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443#%40SystemNebula
-trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1#%40SystemNebula
-trojan://ND91608427@202.78.163.248:443?fp=chrome&sni=relaxed-gull.rooster465.autos#%40SystemNebula
-trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos#%40SystemNebula
-trojan://ND91608427@ace-starling.rooster465.autos:443#%40SystemNebula
-trojan://Telegram_healer_config@104.21.24.95:443?path=%2Ftr%2FzJi4ccv7FeEo780U%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=1V95V6TjywCyTbAHl7f7Lx8b27G.L4495eYcqmsE9he0yVoEMJFc4IBYf-4.wORkERS.DeV#%40SystemNebula
