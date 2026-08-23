@@ -1,3 +1,5 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.133.202.5:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#%40SystemNebula
+vless://bcaabca-abac-baac-dcba-aaabccacbbcb@127.0.0.1:2080?security=tls&type=tcp#%40SystemNebula
 vless://603819a3-dd65-408a-abab-15d8dc49887f@134.209.240.87:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#%40SystemNebula
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=mmad&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%40SystemNebula
 vless://64a28ed6-2238-42d9-8452-b83674f741e5@7nXKCe_VLESS:1402?security=reality&type=tcp&headerType=&path=&host=&sni=f.d&fp=chrome&pbk=ciPKFr9TEbF41ECucqPFlAaHkG54CoZ0CFfHcX3i3iI&sid=#%40SystemNebula
@@ -26,5 +28,3 @@ vless://659a9075-d5ab-4fd2-bf34-b37043fae832@108.162.194.135:443?encryption=none
 vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.49:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&type=tcp&headerType=none@ThePackageCom#%40SystemNebula
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.117:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none@ThePackageCom#%40SystemNebula
 vless://13474472-ab43-4749-be44-769321b0d683@holand.zulacdn.ir:50581?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=rY0p9bslbo1BOCOy-KL3V7sVPyp-eJv0IR6NxysFtW8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=a8d541d18fe72bc5#%40SystemNebula
-trojan://AE62539071@89.39.70.238:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=present-warthog.rooster465.autos#%40SystemNebula
-vless://c0653e7e-445b-4be6-8a26-31dd591dc670@2.144.27.100:9443?encryption=none&type=ws&security=tls&host=vip.polnejat.ir&path=%2Fnova-geo-psiphon-nl&sni=vip.polnejat.ir#%40SystemNebula

@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@it2.levikogjgfdd.ir:10901#%40SystemNebula
+trojan://EQ30679154@pretty-mollusk.rooster465.autos:443#%40SystemNebula
 trojan://FH72359861@many-pangolin.rooster465.autos:443?allowInsecure=1#%40SystemNebula
 trojan://FH72359861@202.78.163.156:443?fp=chrome&sni=primary-leech.rooster465.autos#%40SystemNebula
 trojan://FH72359861@202.78.163.233:443?fp=chrome&sni=magnetic-caiman.rooster465.autos#%40SystemNebula
@@ -26,5 +28,3 @@ trojan://ND91608427@44.246.163.102:443?fp=chrome&sni=fleet-bonefish.rooster465.a
 trojan://PQ05174892@35.91.138.234:443?fp=chrome&sni=sure-bengal.rooster465.autos#%40SystemNebula
 trojan://PQ05174892@35.90.27.143:443?fp=chrome&sni=evident-ant.rooster465.autos#%40SystemNebula
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443#%40SystemNebula
-trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1#%40SystemNebula
-trojan://ND91608427@202.78.163.248:443?fp=chrome&sni=relaxed-gull.rooster465.autos#%40SystemNebula
