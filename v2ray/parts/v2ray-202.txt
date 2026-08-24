@@ -1,4 +1,0 @@
-trojan://FH72359861@35.92.245.6:443?sni=neutral-quail.rooster465.autos&type=tcp#%40SystemNebula
-trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?allowInsecure=1&sni=static.rutube.ru&type=tcp#%40SystemNebula
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?allowInsecure=1&sni=us01.duotg.top&type=tcp#%40SystemNebula
-trojan://EQ30679154@35.91.251.124:443?allowInsecure=1&sni=sincere-gelding.rooster465.autos&type=tcp#%40SystemNebula
