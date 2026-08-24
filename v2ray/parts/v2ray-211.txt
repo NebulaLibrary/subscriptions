@@ -1,4 +1,0 @@
-trojan://EQ30679154@35.91.251.124:443?sni=sincere-gelding.rooster465.autos&type=tcp#%40SystemNebula
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org&type=tcp#%40SystemNebula
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?sni=russiapower.accesscam.org&type=tcp#%40SystemNebula
-trojan://MiTiVPN@199.232.237.245:443?allowInsecure=1&sni=google.com&type=ws#%40SystemNebula
