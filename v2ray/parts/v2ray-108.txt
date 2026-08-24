@@ -1,3 +1,5 @@
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&security=none&type=xhttp&host=nlbv2.pabloping.pro&path=pabloping#%40SystemNebula
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&type=xhttp&mode=auto&host=s1.nakosgol.com&path=/pabloping&security=none&note=@FreeOnlineVPN#%40SystemNebula
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=s1.nakosgol.com&type=xhttp#%40SystemNebula
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=s2.nakosgol.com&type=xhttp&note=@FreeOnlineVPN#%40SystemNebula
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=/pabloping/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=s5.nakosgol.com&type=xhttp#%40SystemNebula
@@ -26,5 +28,3 @@ vless://247396b2-12d9-4744-8203-9cd761a1117a@107.181.155.210:44030?encryption=no
 vless://247396b2-12d9-4744-8203-9cd761a1117a@cl.ultrrasound.com:2053?encryption=none&security=tls&sni=fra2.musichubmel.ir&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=fra2.musichubmel.ir&path=/#%40SystemNebula
 vless://247396b2-12d9-4744-8203-9cd761a1117a@cl.ultrrasound.com:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=fra2.musichubmel.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=fra2.musichubmel.ir#%40SystemNebula
 vless://247396b2-12d9-4744-8203-9cd761a1117a@cl.ultrrasound.com:2096?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=frac1.musichubmel.ir&fp=chrome&type=ws&allowInsecure=0&sni=frac1.musichubmel.ir#%40SystemNebula
-vless://247396b2-12d9-4744-8203-9cd761a1117a@forallpanel.srtongston.ir:2096?encryption=none&security=tls&sni=bahr.musichubmel.ir&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=bahr.musichubmel.ir&path=/#%40SystemNebula
-vless://247396b2-12d9-4744-8203-9cd761a1117a@soskeynets.srtongston.ir:2096?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=bahr.musichubmel.ir&fp=chrome&type=ws&allowInsecure=0&sni=bahr.musichubmel.ir#%40SystemNebula
