@@ -24,7 +24,7 @@ ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@95.170.13.47:65443#%40SystemNebula
 ss://YWVzLTI1Ni1nY206c1pTWmk3dEdzOXdvZFQ3aw@155.138.136.240:80#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.167:8080#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI@108.181.57.93:8388#%40SystemNebula
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?allowInsecure=1&sni=www.microsoft.com&type=tcp#%40SystemNebula
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:38261?allowInsecure=1&sni=us01.duotg.top&type=tcp#%40SystemNebula
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:38261?allowInsecure=1&sni=www.microsoft.com&type=tcp#%40SystemNebula
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:54657?allowInsecure=1&sni=us01.duotg.top&type=tcp#%40SystemNebula
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowInsecure=1&sni=www.microsoft.com&type=tcp#%40SystemNebula
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowInsecure=1&sni=www.microsoft.com&type=tcp#%40SystemNebula

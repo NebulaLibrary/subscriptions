@@ -1,4 +1,3 @@
-vless://a14b736b-a92a-48d6-a596-5d31f7378ded@51.161.204.242:443?flow=xtls-rprx-vision&fp=chrome&pbk=a2qGjvUPq6Nz5FTbn_MSHp-055q2h8YXqIL5VIJ5zwE&security=reality&sid=d15c17cef9b2e456&sni=www.cloudflare.com&type=raw#%40SystemNebula
 vless://8c235628-4c27-44b5-9559-7ab1d53b7ff3@34.222.2.182:50159?flow=xtls-rprx-vision&fp=chrome&pbk=SX1vaYIIZcbcfO3RrAPhYQ1FAeA7bkcDZJtEDN9pbxw&security=reality&sid=94c8a1b378da7250&sni=www.cloudflare.com&type=tcp#%40SystemNebula
 vless://4a680c6d-10b6-44ec-afbd-e2621760e347@23.172.40.60:443?flow=xtls-rprx-vision&fp=random&pbk=C7nhExS9e3_WQIDfYrGaG6ycw2jlrfSh3b-nf8eikSI&security=reality&sid=a1b2&sni=learn.microsoft.com&type=tcp#%40SystemNebula
 vless://63360c4f-875f-4c1a-a44c-3cfe4543a0de@104.64.207.134:443?fp=chrome&host=zero.csmaster.ggff.net&path=%2F&security=tls&sni=zero.csmaster.ggff.net&type=ws#%40SystemNebula
@@ -28,3 +27,4 @@ vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?flow=xtls-rprx-v
 vless://c08616f2-2677-48f0-99a3-0f9c86a5d5f7@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%40SystemNebula
 vless://dd421862-a6ba-4a96-b599-73ded29a91fd@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%40SystemNebula
 vless://feea2490-9926-41ff-90fc-4375f24bdae6@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#%40SystemNebula
+vless://3670ab0a-1af7-4f1d-9a19-8bb8ae42ec08@170.114.46.6:8080?host=zero.csmaster.ggff.net&path=%2F&security=none&type=ws#%40SystemNebula
