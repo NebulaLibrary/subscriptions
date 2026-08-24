@@ -1,7 +1,9 @@
-trojan://humanity@www.speedtest.org:443?sni=www.ignitelimit.com#%40SystemNebula
-trojan://humanity@104.20.6.134:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%40SystemNebula
-trojan://humanity@198.41.223.96:443?sni=www.ignitelimit.com#%40SystemNebula
-trojan://humanity@130.250.137.171:443?sni=www.ignitelimit.com#%40SystemNebula
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.63.82:7306#%40SystemNebula
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@139.162.139.42:7307#%40SystemNebula
+ss://YWVzLTI1Ni1nY206RldyWGN4UFpqSnhBTjg5eExncVkzQWNw@79.110.53.205:44236#%40SystemNebula
+ss://YWVzLTI1Ni1nY206RldyWGN4UFpqSnhBTjg5eExncVkzQWNw@138.199.16.135:44236#%40SystemNebula
+ss://YWVzLTI1Ni1nY206REtYZld3YzRlYnNjcFhUS3BidDg1clNI@193.29.107.197:38742#%40SystemNebula
+ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE@45.43.14.75:39772#%40SystemNebula
 trojan://humanity@104.18.152.208:443?sni=www.ignitelimit.com#%40SystemNebula
 trojan://humanity@104.16.174.37:443?sni=www.ignitelimit.com#%40SystemNebula
 trojan://humanity@172.67.149.60:443?sni=www.ignitelimit.com#%40SystemNebula
@@ -26,5 +28,3 @@ trojan://humanity@104.17.111.4:443?security=tls&type=ws&sni=www.ignitelimit.com&
 trojan://humanity@104.16.174.6:443?sni=www.ignitelimit.com#%40SystemNebula
 trojan://humanity@104.18.152.161:443?sni=www.ignitelimit.com#%40SystemNebula
 trojan://humanity@104.18.152.207:443?sni=www.ignitelimit.com#%40SystemNebula
-trojan://humanity@104.17.111.3:443?sni=www.ignitelimit.com#%40SystemNebula
-trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?sni=support.zoom.us.blackshadow.dpdns.org&type=ws&host=support.zoom.us.blackshadow.dpdns.org&path=/195.123.218.174-443#%40SystemNebula
