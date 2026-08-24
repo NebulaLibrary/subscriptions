@@ -1,6 +1,4 @@
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.218:443?flow=xtls-rprx-vision&fp=firefox&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&security=reality&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&type=tcp#%40SystemNebula
-vless://44ae52b9-76fc-444d-8e43-186b4384b80a@86.54.28.75:443?flow=xtls-rprx-vision&fp=chrome&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&security=reality&sid=1d86d17709852910&sni=www.apple.com&type=raw#%40SystemNebula
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.174:443?flow=xtls-rprx-vision&fp=firefox&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&security=reality&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&type=tcp#%40SystemNebula
-vless://b6c29ae7-4748-4049-b642-b695c0d2c776@193.58.121.95:2096?host=de-193-58.neobo-tooth.ru&path=%2F&security=none&type=ws#%40SystemNebula
-vless://4c44adcd-d4ff-48fc-a35d-8c882381a9ef@109.169.37.129:443?flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=foodnetwork.com&type=raw#%40SystemNebula
-vless://7efc901f-7862-40e8-902b-4bfad8f8ca88@213.165.40.175:2083?fp=firefox&security=tls&sni=213.165.40.175.sslip.io&type=tcp#%40SystemNebula
+trojan://FH72359861@35.92.245.6:443?sni=neutral-quail.rooster465.autos&type=tcp#%40SystemNebula
+trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?allowInsecure=1&sni=static.rutube.ru&type=tcp#%40SystemNebula
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?allowInsecure=1&sni=us01.duotg.top&type=tcp#%40SystemNebula
+trojan://EQ30679154@35.91.251.124:443?allowInsecure=1&sni=sincere-gelding.rooster465.autos&type=tcp#%40SystemNebula
