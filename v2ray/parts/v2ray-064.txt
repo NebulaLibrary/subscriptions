@@ -1,3 +1,4 @@
+trojan://humanity@104.18.9.83:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0#%40SystemNebula
 trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0#%40SystemNebula
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=kuame.missionsec.us#%40SystemNebula
 trojan://BxceQaOe@219.79.214.159:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=t.me%252Fripaojiedian#%40SystemNebula
@@ -27,4 +28,3 @@ trojan://humanity@104.18.152.152:443?allowInsecure=1&sni=www.ignitelimit.com#%40
 trojan://humanity@104.18.152.108:443?allowInsecure=1&sni=www.ignitelimit.com#%40SystemNebula
 trojan://humanity@104.18.152.219:443?allowInsecure=1&sni=www.ignitelimit.com#%40SystemNebula
 trojan://humanity@www.speedtest.org:443?allowInsecure=1&sni=www.ignitelimit.com#%40SystemNebula
-trojan://humanity@104.16.174.22:443?allowInsecure=1&sni=www.ignitelimit.com#%40SystemNebula
