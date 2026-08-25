@@ -1,5 +1,3 @@
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@20.24.44.110:28443?security=tls&sni=www.download.windowsupdate1.com#%40SystemNebula
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@91.243.81.42:28443?security=tls&sni=www.download.windowsupdate1.com#%40SystemNebula
 trojan://f033bd38-fe03-4705-883c-e45654eaa082@18.162.207.193:28443?security=tls&sni=www.download.windowsupdate1.com#%40SystemNebula
 trojan://f033bd38-fe03-4705-883c-e45654eaa082@18.162.56.130:443?security=tls&sni=www.download.windowsupdate1.com#%40SystemNebula
 trojan://f033bd38-fe03-4705-883c-e45654eaa082@202.8.9.27:28443?security=tls&sni=www.download.windowsupdate1.com#%40SystemNebula
@@ -28,3 +26,5 @@ trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.4:10826?security=tls#%4
 trojan://atKbXl2I4rKzHGiRybV7fOp%2BOCYPz%2BbO@vip-us-6.hkd4fwmg.xyz:13758?security=tls&sni=vip-us-6.hkd4fwmg.xyz#%40SystemNebula
 trojan://f033bd38-fe03-4705-883c-e45654eaa082@45.82.253.234:28443?security=tls&sni=www.download.windowsupdate1.com#%40SystemNebula
 trojan://7f0dcf73-bc93-4038-b683-c4728f06e7d7@trojannmfan5.ripwallllc.com:443?security=tls#%40SystemNebula
+trojan://Sn%2BJPr7a1JGWKxUrlhKrgTGajkOxbxUg@vip-sg-2.hkd4fwmg.vip:58277?security=tls&sni=vip-sg-2.hkd4fwmg.vip#%40SystemNebula
+trojan://f033bd38-fe03-4705-883c-e45654eaa082@45.88.148.234:28443?security=tls&sni=www.download.windowsupdate1.com#%40SystemNebula
