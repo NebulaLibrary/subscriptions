@@ -1,6 +1,8 @@
-ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMEAxNDEuOTguMTE5LjE1Njo1MDAwMw#%40SystemNebula
-ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMEA5Mi4zOC4xNzEuMTAxOjUwMDAz#%40SystemNebula
-ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMEA5Mi4zOC4xMzkuOTU6NTAwMDM#%40SystemNebula
+vless://194ad316-fd65-4e1b-a337-eb65c9ca68eb@srv-a04472.21freedom.net:443?mode=auto&path=/api/v1/89cac742&security=reality&encryption=none&pbk=XW8pwP7ijTmc1QKtMGMvJ_hcnac2GIQ14o1ALhuTSlQ&host=vk.com&fp=chrome&type=xhttp&sni=gitlab.com&sid=4aa825e50078d7ef#%40SystemNebula
+vless://19773cc6-89a3-47c6-bc10-885460cd2b7b@89.167.17.75:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40SystemNebula
+vless://19791a56-54a5-47bf-a7c7-5cb3d3dce904@t.telewebion.ir.varzesh3.com.de:443?security=reality&alpn=http/1.1&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&host=play.google.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e915#%40SystemNebula
+vless://1996007c-e7bc-464b-999b-cac28cec6c3e@138.124.125.211:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=RVj8E6YuWeOq9XzIVLQCKM39qa-Cknp-GYvVAA1UPFo&sid=72cceb78#%40SystemNebula
+vless://19a1e376-d05a-4af0-b7ef-c7d33133c2ff@Connect.0912.org:443?security=none&encryption=none&host=testspeed-foreign.tci.irir&headerType=http&type=tcp#%40SystemNebula
 ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMEA1MS4xOTUuMjE3LjIxOjUwMDAz#%40SystemNebula
 ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMEA1LjE4My4xMDAuODc6NTAwMDM#%40SystemNebula
 ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@83.229.73.120:50003#%40SystemNebula
@@ -26,5 +28,3 @@ ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@37.120.213.230:50004#%40SystemNebula
 ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@31.133.100.49:50004#%40SystemNebula
 ss://YWVzLTI1Ni1jZmI6MzEzNTc3MTYxOQ@94.20.154.38:50000#%40SystemNebula
 ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDQ1Ljg5LjIyOS4yMjM6MTUz#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0ZjpAb3Blbl92cG5z@20.211.112.115:2986#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zjp2cG5sYXc@vpnkodlary1.3utilities.com:2080#%40SystemNebula
