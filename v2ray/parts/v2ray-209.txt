@@ -23,8 +23,8 @@ hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.83.43:443?insecure=1&sni=vpn-sg-001.faster
 hy2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443?sni=pixelcast.wwwinternetvideo.click#%40SystemNebula
 hy2://16ab4d4a-fd81-4535-9b7b-346677226ce8@olp.crsmaps.com:443?#%40SystemNebula
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443?insecure=1&sni=google.com#%40SystemNebula
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.223.194.102:443#%40SystemNebula
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.246.9.69:443#%40SystemNebula
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.135.167.23:443#%40SystemNebula
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Nnlad3VVT21OZk5PbmtJWTVaemluN2JKc1plUnI0akRYV3BrWVZ0allBcz0@129.151.68.73:61312#%40SystemNebula
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?allowInsecure=1&sni=www.microsoft.com&type=tcp#%40SystemNebula
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?allowInsecure=1&sni=www.microsoft.com&type=tcp#%40SystemNebula
+trojan://EQ30679154@sincere-gelding.rooster465.autos:443?sni=sincere-gelding.rooster465.autos&type=tcp#%40SystemNebula
