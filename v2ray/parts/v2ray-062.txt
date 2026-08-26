@@ -1,5 +1,6 @@
+ss://YWVzLTI1Ni1nY206Q3pEV0lDdDFET2k4RjVqcQ@149.102.132.180:443#%40SystemNebula
+ss://YWVzLTI1Ni1nY206Q3pEV0lDdDFET2k4RjVqcQ@149.102.132.180:80#%40SystemNebula
 ss://YWVzLTI1Ni1nY206QnV0dGVyZmx5MTIzQHF3ZTk1Mjc@36.33.35.105:10006#%40SystemNebula
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#%40SystemNebula
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8000#%40SystemNebula
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8080#%40SystemNebula
 ss://YWVzLTI1Ni1nY206SGk5d2sxNFZudHpHcTdrcQ@154.12.242.150:443#%40SystemNebula
@@ -8,11 +9,12 @@ ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:443#%40SystemNebul
 ss://YWVzLTI1Ni1nY206TUJXZDlNSDBKTWgyRzVvZA@194.87.10.112:8388#%40SystemNebula
 ss://YWVzLTI1Ni1nY206Tnh2OHlwRXJSZkNTY3pENw@154.53.60.212:443#%40SystemNebula
 ss://YWVzLTI1Ni1nY206Tnh2OHlwRXJSZkNTY3pENw@154.53.60.212:80#%40SystemNebula
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%40SystemNebula
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%40SystemNebula
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%40SystemNebula
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#%40SystemNebula
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8008#%40SystemNebula
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8009#%40SystemNebula
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#%40SystemNebula
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#%40SystemNebula
 ss://YWVzLTI1Ni1nY206WHJwQThoTmpRNjdPRGRhdQ@149.102.152.25:80#%40SystemNebula
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.155.113:5601#%40SystemNebula
@@ -26,5 +28,3 @@ ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg@194.87.69.207:20998#%40SystemNebula
 ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg@194.87.69.207:40119#%40SystemNebula
 ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg@route.pcjxq.digital:20991#%40SystemNebula
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@141.164.45.187:9101#%40SystemNebula
-trojan://humanity@162.159.38.119:443?path=%2Fassignment&amp;security=tls&amp;host=www.creationlong.org&amp;type=ws&amp;sni=www.creationlong.org#%40SystemNebula
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=www.nintendogames.net#%40SystemNebula
