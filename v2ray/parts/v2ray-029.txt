@@ -1,8 +1,10 @@
+trojan://50414e45-4c5f-5a45-5553-865be6c6aed4@104.24.174.94:443?path=/stream/PANEL_ZEUS/865be6c6aed4/loc-0&security=tls&insecure=0&host=yvzagcelunqs.73927482.workers.dev&type=ws&allowInsecure=0&sni=yvzagcelunqs.73927482.workers.dev#%40SystemNebula
+trojan://50414e45-4c5f-5a45-5553-865be6c6aed4@172.67.233.165:443?path=/stream/PANEL_ZEUS/865be6c6aed4&security=tls&host=yvzagcelunqs.73927482.workers.dev&type=ws&sni=yvzagcelunqs.73927482.workers.dev#%40SystemNebula
 trojan://50414e45-4c5f-5a45-5553-865be6c6aed4@45.85.118.52:443?path=/stream/PANEL_ZEUS/865be6c6aed4/loc-1&security=tls&host=yvzagcelunqs.73927482.workers.dev&type=ws&sni=yvzagcelunqs.73927482.workers.dev#%40SystemNebula
 trojan://50414e45-4c5f-5a45-5553-92b68c3eae48@104.25.65.61:443?path=/stream/PANEL_ZEUS/92b68c3eae48/loc-1&security=tls&insecure=0&host=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev&type=ws&allowInsecure=0&sni=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev#%40SystemNebula
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#%40SystemNebula
+trojan://53c6157c-84ca-96ad-3be8-7e95f6d25264@162.159.192.1:443?host=s.blftext.workers.dev&security=tls&path=/eyJqdW5rIjoiYWxFQTBoMXhRQVIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4IjoyfQ==&allowInsecure=0&sni=s.blftext.workers.dev&insecure=0&fp=chrome&type=ws&pbk=enabled#%40SystemNebula
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tls&sni=moltbot.doctoroyy.net&allowInsecure=1#%40SystemNebula
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net#%40SystemNebula
 trojan://5cc264ad-92a8-46cc-85b0-82dca5b12faf@172.238.22.232:43102/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#%40SystemNebula
 trojan://662c065f-0495-4598-9a95-2e2fcb38b7b1@57.180.10.65:42423/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#%40SystemNebula
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#%40SystemNebula
@@ -10,7 +12,6 @@ trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?security=tls&sni
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%40SystemNebula
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%40SystemNebula
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20065?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#%40SystemNebula
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@krhtybay.catcat321.com:20061?type=raw&security=tls&sni=hk.catxstar.com&alpn=http/1.1&fp=chrome&headertype=none#%40SystemNebula
 trojan://7fb5f16d-4a73-42e6-b6c2-4f76f35af6f4@bestcdn2.868863.xyz:2087/?type=ws&host=17878361433987.206353.xyz&path=/agrbniuh&security=tls&sni=206353.xyz#%40SystemNebula
 trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=193.124.46.65#%40SystemNebula
 trojan://8r<[9'l6hAO#%40SystemNebula
@@ -27,4 +28,3 @@ trojan://ID--KANAL--JKVPN--JKVPN@23.95.77.74:22019?type=httpupgrade&path=/TELEGR
 trojan://Ldbgt4IUYv0S+5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4=@65.109.215.50:54673?security=none&type=tcp#%40SystemNebula
 trojan://MITIVPN@104.18.152.225:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e&security=tls&alpn=http/1.1&insecure=1&host=d-e-mitivpn---MiTiVPN---MiTiVPN.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=Dee---7-MiTiVPN----o.aPp-cLoud.IR#%40SystemNebula
 trojan://MITIVPN@104.19.229.21:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/de2---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=De2-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&fp=chrome&type=ws&allowInsecure=0&sni=Ddee2-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#%40SystemNebula
-trojan://MITIVPN@188.114.97.6:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-d@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=83463833-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=0&sni=95895-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#%40SystemNebula
