@@ -1,3 +1,7 @@
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#%40SystemNebula
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#%40SystemNebula
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#%40SystemNebula
+vless://SVNTEAMa@mtn.VPNPROSEC.com:80?type=ws&host=wWw.mObIlEtAk.cOm.ShOp2.qIsVn.iR.&path=/?ed=443&security=none#%40SystemNebula
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.42:2087?host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=%2Ffp%3Dchrome&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#%40SystemNebula
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.108:443?encryption=none&type=ws&path=%2F&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome#%40SystemNebula
 vless://0560982d-52d5-4768-a82a-d2388ced61ba@95.182.115.63:443?security=reality&encryption=none&pbk=_SpFMEnBhEhtCkmZRAX3qNopOq97lvQ8I3w1NLK-ek8&headerType=none&fp=chrome&spx=%2F9e0d96a668f8740&type=tcp&sni=play.google.com&sid=c1744aef2fa5e7#%40SystemNebula
@@ -24,7 +28,3 @@ vless://41e71ba7-d389-47aa-94f7-ed1f55fdbcdf@194.93.61.100:443?security=reality&
 vless://5944c048-fea1-4e19-8899-fd3dd5aa81d8@cdn6.qemitra.ir:30504?security=tls&type=ws&headerType=&path=%2Fhappy-2026-winter&host=&sni=&fp=#%40SystemNebula
 vless://5944c048-fea1-4e19-8899-fd3dd5aa81d8@cdn6.qemitra.ir:30501?security=tls&type=ws&headerType=&path=%2Fhappy-2026-winter&host=&sni=&fp=#%40SystemNebula
 vless://5944c048-fea1-4e19-8899-fd3dd5aa81d8@cdn8.qemitra.ir:443?security=tls&type=ws&headerType=&path=%2Fhappy-2026-winter&host=&sni=&fp=#%40SystemNebula
-vless://5944c048-fea1-4e19-8899-fd3dd5aa81d8@cdn9.qemitra.ir:443?security=tls&type=ws&headerType=&path=%2Fhappy-2026-winter&host=&sni=&fp=#%40SystemNebula
-vless://5944c048-fea1-4e19-8899-fd3dd5aa81d8@cdn7.qemitra.ir:443?security=tls&type=ws&headerType=&path=%2Fhappy-2026-winter&host=&sni=&fp=&allowInsecure=1#%40SystemNebula
-vless://12a6a006-59cc-49e1-8d35-df701ebe786f@web-production-624e95.up.railway.app:443?encryption=none&security=tls&type=ws&host=web-production-624e95.up.railway.app&path=/vl-ws&sni=web-production-624e95.up.railway.app&fp=chrome&alpn=http/1.1#%40SystemNebula
-vless://5944c048-fea1-4e19-8899-fd3dd5aa81d8@cdn4.qemitra.ir:443?security=tls&type=ws&headerType=&path=%2Fhappy-2026-winter&host=&sni=&fp=#%40SystemNebula
