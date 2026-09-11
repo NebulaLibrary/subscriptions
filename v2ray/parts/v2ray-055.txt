@@ -18,7 +18,9 @@ vless://711151b0-6282-453c-8393-b02b02abd6b9@tur.crocodil.ir:8735?security=reali
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.170.163.176:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#%40SystemNebula
 vless://12aa4a28-ef6a-49f2-9e16-4ad8fc34a6af@5.75.207.73:29524?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.mAwHzKOkD-IZDsIGPPQCfctKpUgPcx2K_zEIzGEkxlE&type=ws#%40SystemNebula
 vless://12aa4a28-ef6a-49f2-9e16-4ad8fc34a6af@TFast.clnet.site:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=erfanyosyour-name.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=global.fastly.com#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%40SystemNebula
+vless://12aa4a28-ef6a-49f2-9e16-4ad8fc34a6af@nnbfyhcgiiiutfc.vahidzhv.ir:20379?security=reality&encryption=mlkem768x25519plus.native.0rtt.nuL_xOMI1AYLLIcXFgTXsn2mCEOZTg6yohbwKklqdSk&pbk=sZj_UtK8nPx4R049jGyhn5mn_khqHxg6Zilpp8mlEWo&headerType=none&fp=chrome&type=tcp&sni=store-images.s-microsoft.com&sid=b472a98152b40914#%40SystemNebula
+vless://12aa4a28-ef6a-49f2-9e16-4ad8fc34a6af@nsjwiwueijeneeiejdndn.neninet.ir:20379?security=reality&encryption=mlkem768x25519plus.native.0rtt.nuL_xOMI1AYLLIcXFgTXsn2mCEOZTg6yohbwKklqdSk&pbk=sZj_UtK8nPx4R049jGyhn5mn_khqHxg6Zilpp8mlEWo&headerType=none&fp=chrome&type=tcp&sni=store-images.s-microsoft.com&sid=b472a98152b40914#%40SystemNebula
+vless://12aa4a28-ef6a-49f2-9e16-4ad8fc34a6af@nsjwiwueijeneeiejdndn.neninet.ir:42813?security=none&encryption=mlkem768x25519plus.native.0rtt.Gu-KSpH9m5bbaKh-CvzzJVA2sMSXuuYYiLL5Q85Rx3o&headerType=http&type=tcp#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#%40SystemNebula
@@ -26,5 +28,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%40SystemNebula
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#%40SystemNebula
