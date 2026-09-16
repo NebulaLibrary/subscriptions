@@ -1,3 +1,4 @@
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.187.6:22224?security=none&amp;headerType=none&amp;type=tcp&amp;encryption=none#%40SystemNebula
 ss://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?type=ws&amp;security=none&amp;encryption=none&amp;host=parsi.parsi.sbs&amp;path=%2F#%40SystemNebula
 ss://eyJhZGQiOiIyMDIuNDcuODkuMTMzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjNhMDM2MTNiLWJiYWMtNGEyMi1iZWU2LTJjOWE3NTFhMjc2MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ka2ZqaDIyMiIsInBvcnQiOiI1MzU0OCIsInBzIjoiQHYycmF5bmczIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#%40SystemNebula
 ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#%40SystemNebula
@@ -27,4 +28,3 @@ ss://4283865b-7145-44d3-9855-96298c47424d@136.244.112.46:37710?encryption=none&a
 ss://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=%2F5021201ef53f&amp;security=none&amp;encryption=none&amp;type=ws#%40SystemNebula
 ss://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?encryption=none&amp;security=none&amp;type=ws&amp;path=%2F29c8fed7ca22#%40SystemNebula
 ss://44573770-963a-41f5-a080-3cc11e4957a2@82.24.203.37:2087?encryption=none&amp;security=none&amp;type=ws&amp;path=%2F5c62e3c616d8#%40SystemNebula
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.171.238:22224?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40SystemNebula
