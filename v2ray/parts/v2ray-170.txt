@@ -1,5 +1,3 @@
-vless://32721515-985b-4773-9e70-5d2e1b88a060@212.16.92.111:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=jobinvest.ru&type=tcp#%40SystemNebula
-vless://32721515-985b-4773-9e70-5d2e1b88a060@212.16.92.112:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=jobinvest.ru&type=tcp#%40SystemNebula
 vless://329aa1be-ee6d-4d92-a8ef-c2ddac7583b1@116.204.164.30:7443?encryption=none&fp=chrome&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&path=/@Marisa_kristi&security=tls&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&type=ws#%40SystemNebula
 vless://329eeca4-c897-45a2-a7e6-0cfd83c1dce1@memphis.athforce.ir:10801?security=none&encryption=none&host=my.nth.athforce.ir&headerType=http&type=tcp#%40SystemNebula
 vless://32cecf5f-e968-1cc3-d937-a9a4c3a57a0d@69.46.46.29:443?path=/ws/32cecf5f-e968-1cc3-d937-a9a4c3a57a0d&security=tls&alpn=http/1.1&encryption=none&host=still-otter-f8a4-production.up.railway.app&fp=chrome&type=ws&sni=still-otter-f8a4-production.up.railway.app#%40SystemNebula
@@ -28,3 +26,5 @@ vless://3501f229-7cc1-bc11-278f-cfb12cf5579f@69.46.46.102:443?path=/ws/3501f229-
 vless://35323594-9ee2-4f06-ae14-3148b6950621@188.114.97.171:80?security=none&type=ws&host=ooao14004.74gwenneth.workers.dev&path=/#%40SystemNebula
 vless://35360464-29ac-4c06-93aa-f9af6d4964f4@193.134.209.62:40514?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=chrome&pbk=Tu3JZDib7rpQqzzRbr-8RnG2JoncA2y4g30GT8PBnx8&type=tcp&headerType=none#%40SystemNebula
 vless://35360464-29ac-4c06-93aa-f9af6d4964f4@193.134.209.62:40514?security=reality&encryption=none&pbk=Tu3JZDib7rpQqzzRbr-8RnG2JoncA2y4g30GT8PBnx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.paypal.com#%40SystemNebula
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=/kavir&security=tls&alpn=h2&encryption=none&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&sni=dey.lnmarketplace.net#%40SystemNebula
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=/kavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%40SystemNebula
