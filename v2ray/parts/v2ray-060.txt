@@ -1,3 +1,10 @@
+vless://120b1b13-79fb-4a3f-8d3a-8450f9a71efd@151.101.1.194:80?path=%2F&security=none&encryption=none&host=simorghfr.global.ssl.fastly.net&type=ws#%40SystemNebula
+vless://120b1b13-79fb-4a3f-8d3a-8450f9a71efd@151.101.65.57:80?path=%2F&security=none&encryption=none&host=simorghtrr.global.ssl.fastly.net&type=ws#%40SystemNebula
+vless://120b1b13-79fb-4a3f-8d3a-8450f9a71efd@199.232.78.159:80?path=%2F&security=none&encryption=none&host=simorghgr.global.ssl.fastly.net&type=ws#%40SystemNebula
+vless://29662c1f-2478-4556-a9a3-b12a6a66e148@mci.sulduz.pw:2174?security=&encryption=none&host=filimo.com&headerType=http&type=tcp#%40SystemNebula
+vless://4dd6824f-5c7c-4ff5-af3c-7981fc39513b@best16.daltoon-server.ir:35768?security=&encryption=none&host=maps.googleapis.com&headerType=http&type=tcp#%40SystemNebula
+vless://62a1146d-5c31-4ece-e613-601fe34402df@s7.beqvian.ir:2087?pcs=f45d4dcd843cac163e19a11f8462c89872f8f9baceefb4cbd7cdcd1f2b9f1a32&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=xhttp&sni=backup1.zynetrax.ir&mode=auto&path=%2FEz&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=backup1.zynetrax.ir&allowInsecure=0#%40SystemNebula
+vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#%40SystemNebula
 vless://c333e2e7-9832-482d-bfc2-ec1f88ec3130@151.101.213.199:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=ovd9.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=accounts.fastly.com#%40SystemNebula
 vless://c7c397bb-4771-4768-8f22-46b41e1acf9e@82.40.62.126:8881?security=none&encryption=none&headerType=none&type=tcp#%40SystemNebula
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.137.22:22222?encryption=none&security=none&type=tcp#%40SystemNebula
@@ -21,10 +28,3 @@ vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@54.251.239.81:26415?security=realit
 vless://d6962b1a-4701-4456-ba61-deb28c913a66@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40SystemNebula
 vless://e0ff8a9b-dad3-4671-baf4-c8d466d1eb48@185.143.233.130:2052?path=%2Feyurri&security=&encryption=none&host=afra4.nimbaha9.ir&type=ws#%40SystemNebula
 vless://fe467f51-b2cc-4b16-b50b-a78865ed3dd9@104.21.89.181:8880?type=ws&host=crimson-wind-71bc.19-5fd.workers.dev#%40SystemNebula
-vless://348c74af-6b85-48c8-8772-4cb2e9ef4d09@88.216.70.111:443?security=reality&encryption=none&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=abyssettle.net&sid=a1b2c3d4e5f6a7b8#%40SystemNebula
-vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#%40SystemNebula
-vless://8ed7cd7d-aa57-4024-8805-561ae8921284@speedtest.net:80?mode=auto&path=%2F&security=&encryption=none&host=liveistade6d6eayour-name.global.ssl.fastly.net&type=xhttp#%40SystemNebula
-vless://8ed7cd7d-aa57-4024-8805-561ae8921284@speedtest.net:80?mode=auto&path=%2F&security=none&encryption=none&host=liveistade6d6eayour-name.global.ssl.fastly.net&type=xhttp#%40SystemNebula
-vless://9acec722-150a-4e47-924e-581af675d668@0.0.0.0:7052?security=&encryption=none&type=ws#%40SystemNebula
-vless://9acec722-150a-4e47-924e-581af675d668@1f46f8cfd471970c.IROnlY4l.Ir:8080?path=%2F&security=&encryption=none&host=play.google.com&type=ws#%40SystemNebula
-vless://9acec722-150a-4e47-924e-581af675d668@813cb59c43625b2d.IROnlY4l.Ir:443?security=reality&encryption=none&pbk=pLbqDSeEe7biTe6b-w6SOLl2SiRxIBjHMfqUzuRR3Ew&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=storage-p2.googleapis.com&sid=37d86205006fe1fb#%40SystemNebula
