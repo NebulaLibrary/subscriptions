@@ -1,3 +1,6 @@
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?allowInsecure=1&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com&type=tcp#%40SystemNebula
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.114:443?allowInsecure=1&sni=learn.findconnectwithemployersandbuildprofessionalnetwork.com&type=tcp#%40SystemNebula
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?allowInsecure=1&sni=blog.nextjobopportunityandclaimyouridealrole.com&type=tcp#%40SystemNebula
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.65:443?sni=learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com&type=tcp#%40SystemNebula
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.42:443?sni=blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com&type=tcp#%40SystemNebula
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.211:443?sni=api.explorecreativejobsandenhanceyourcareerportfolio.com&type=tcp#%40SystemNebula
@@ -25,6 +28,3 @@ trojan://humanity@162.159.91.211:443?sni=www.calmlunch.com&type=ws#%40SystemNebu
 trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
 trojan://humanity@172.67.231.254:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
 trojan://humanity@104.17.121.43:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40SystemNebula
-trojan://humanity@8.6.112.206:443?sni=www.trusteeforward.com&type=ws#%40SystemNebula
-trojan://humanity@104.25.240.193:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
-trojan://humanity@172.64.231.133:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
