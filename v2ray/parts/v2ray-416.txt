@@ -1,3 +1,9 @@
+trojan://humanity@104.17.121.9:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40SystemNebula
+trojan://humanity@45.130.125.126:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40SystemNebula
+trojan://humanity@45.130.125.75:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
+trojan://humanity@104.16.7.70:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40SystemNebula
+trojan://humanity@104.21.103.254:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
+trojan://humanity@162.159.91.211:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
 trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
 trojan://humanity@172.67.231.254:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
 trojan://humanity@104.17.121.43:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#%40SystemNebula
@@ -22,9 +28,3 @@ vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?flow=xtls-rprx-v
 vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?flow=xtls-rprx-vision&fp=qq&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&security=reality&sid=68a8&sni=deepl.com&type=tcp#%40SystemNebula
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?flow=xtls-rprx-vision&fp=chrome&host=%3Fbia_telegram%40soskeynets&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com&type=tcp#%40SystemNebula
 vless://41b1c169-5905-4d98-b6a6-56896c25737c@103.106.229.37:21001?fp=chrome&pbk=HZwHZBP3x4Yo4UQiHcypRJIU_UdZY5OAapQM8RUqVAU&security=reality&sid=ab39fc68ab3dee81&sni=www.cloudflare.com&type=tcp#%40SystemNebula
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?flow=xtls-rprx-vision&fp=chrome&path=%2FXIXVPN%3Fed%3D2560&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com&type=tcp#%40SystemNebula
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.163:443?flow=xtls-rprx-vision&fp=chrome&host=%2F%3Ftelegram---marambashi---marambashi---marambashi---marambashi&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#%40SystemNebula
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.27.46.35:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#%40SystemNebula
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?flow=xtls-rprx-vision&fp=chrome&host=%2F%3Ftelegram---marambashi---marambashi---marambashi---marambashi&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com&type=tcp#%40SystemNebula
-vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@fast.145779.xyz:2053?path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws#%40SystemNebula
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?flow=xtls-rprx-vision&fp=chrome&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com&type=tcp#%40SystemNebula
