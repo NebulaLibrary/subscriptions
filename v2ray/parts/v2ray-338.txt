@@ -1,3 +1,6 @@
+vless://9e27f64b-7ae9-461b-b4c4-99696276633b@de3.voronvpn.com:443?security=reality&encryption=none&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=54861d36#%40SystemNebula
+vless://9e4ef335-b06c-4d3f-934d-cfba5d8e3f38@angelvpn.angelmh.cv:2056?security=reality&encryption=none&pbk=6_I8zzMhaLX-Jc1Ve_ldSUE_9ZbrjF2Uk2UaASB6VUI&headerType=none&fp=chrome&spx=/6ab116285f3c75c&type=tcp&flow=xtls-rprx-vision&sni=aws-dr.udemy.com&sid=81#%40SystemNebula
+vless://9e4ef335-b06c-4d3f-934d-cfba5d8e3f38@angelvpn.angelmh.cv:2056?security=reality&encryption=none&pbk=6_I8zzMhaLX-Jc1Ve_ldSUE_9ZbrjF2Uk2UaASB6VUI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws-dr.udemy.com&sid=81#%40SystemNebula
 vless://9e81276e-5d48-4238-b725-5ed2feec5f51@104.16.144.131:80?encryption=none&security=none&type=ws&host=muddy-sun-f05e-ppal03.nakojof452.workers.dev&path=/?ed=2560#%40SystemNebula
 vless://9e81276e-5d48-4238-b725-5ed2feec5f51@104.24.66.98:80?encryption=none&security=none&type=ws&host=muddy-sun-f05e-ppal03.nakojof452.workers.dev&path=/?ed=2560#%40SystemNebula
 vless://9e998501-eaae-4d7e-bbe5-6cecfaef8334@217.69.167.135:15392?mode=gun&security=reality&encryption=none&pbk=O8yFUnhj9NOtJ2eUVQTwrGk8HrkHq94QAO090azV428&fp=chrome&spx=/&type=grpc&serviceName=grpc&sni=google.com&sid=6a326909#%40SystemNebula
@@ -25,6 +28,3 @@ vless://@awlix_ir@v2.jexu.ir:40338?type=tcp&encryption=none&security=none#%40Sys
 vless://@narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#%40SystemNebula
 vless://AlfredConfig@104.17.107.134:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#%40SystemNebula
 vless://AlfredConfig@159.246.55.251:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#%40SystemNebula
-vless://AlfredConfig@164.38.155.135:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#%40SystemNebula
-vless://AlfredConfig@188.114.97.6:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#%40SystemNebula
-vless://AlfredConfig@199.181.197.176:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#%40SystemNebula
