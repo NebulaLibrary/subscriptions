@@ -1,8 +1,6 @@
-vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@5.231.28.130:443?security=reality&encryption=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=images.porsche.com&sid=1a2b3c4d#%40SystemNebula
 vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@5.231.28.130:443?security=reality&encryption=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=images.porsche.com&sid=1a2b3c4d#%40SystemNebula
 vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@5.231.45.196:443?security=reality&encryption=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=images.porsche.com&sid=1a2b3c4d#%40SystemNebula
 vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@83.141.92.190:443?&security=reality&flow=xtls-rprx-vision&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&sid=1a2b3c4d&fp=chrome&sni=images.porsche.com&type=tcp&headerType=none&host=images.porsche.com&path=/#%40SystemNebula
-vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@89.248.65.152:443?security=reality&encryption=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=images.porsche.com&sid=1a2b3c4d#%40SystemNebula
 vless://556d2515-b565-4519-9ad0-9ad6f792b6c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=prossh.octarpmta.ir&type=httpupgrade#%40SystemNebula
 vless://5583f4ac-6a07-4ce4-9a13-5d8c0abbf792@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#%40SystemNebula
 vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@144.31.215.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=c12.qwyak.ru&pbk=_KW3heutvbzbrT2m8YUKoyjj0LzRuZZRYRJ1eS3U2Tw&sid=1390632cb141834f&type=tcp&headerType=none#%40SystemNebula
@@ -28,3 +26,5 @@ vless://56795a1d-0ffd-464f-86fb-c5eddd3ecce0@p1real4.greewebservices.ir:1260?sec
 vless://56795a1d-0ffd-464f-86fb-c5eddd3ecce0@p1tun01.greewebservices.ir:38830?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=e3085d4f#%40SystemNebula
 vless://568e8786-99b5-4a26-b3af-a90e86ee0223@141.0.187.237:11443?security=reality&encryption=none&pbk=hEf0Dx035SZMYkAAst1XKk-a2qNeCx78HKoKHvvEiHE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=141.0.187.20&sid=fac7f49ce084bb51#%40SystemNebula
 vless://568e8786-99b5-4a26-b3af-a90e86ee0223@150.251.142.237:11443?security=reality&encryption=none&pbk=_fj3yllgCnLnZNTPCKDg3ckS9ljMrWYVJvr30fy3Miw&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=150.251.142.35&sid=187a61e1c662e8be#%40SystemNebula
+vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?encryption=none&security=none&type=ws&path=/29c8fed7ca22#%40SystemNebula
+vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?path=/29c8fed7ca22&security=&encryption=none&type=ws#%40SystemNebula
