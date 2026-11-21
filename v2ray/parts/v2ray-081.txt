@@ -1,5 +1,3 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.40:443?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=cdn.discovergreatjobsandadvanceyourcareer.com#%40SystemNebula
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.40:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.discovergreatjobsandadvanceyourcareer.com#%40SystemNebula
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.discovergreatjobsandadvanceyourcareer.com#%40SystemNebula
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.113:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.searchnationwidecareerchangehelperandguidancetoday.com#%40SystemNebula
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.25:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn.searchnationwidecareerchangehelperandguidancetoday.com#%40SystemNebula
@@ -28,3 +26,5 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-cl7123.shopingggg.ir:443?securi
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-cl7123.shopingggg.ir:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#%40SystemNebula
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-cl8093.shopingggg.ir:443?security=tls&headerType=none&type=tcp&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#%40SystemNebula
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-nl1218.shopingggg.ir:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.indyourperfectremotetechjobfromthecomfortofhome.com#%40SystemNebula
+trojan://12012@47.242.93.89:12012?allowInsecure=1&sni=ali-hk.b-gfw.cfd#%40SystemNebula
+trojan://123456@34.80.15.95:443/?type=tcp&security=tls&sni=tw.ctt25.uk&fp=chrome#%40SystemNebula
