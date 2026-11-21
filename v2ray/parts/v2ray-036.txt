@@ -18,8 +18,6 @@ vless://8344360f-0349-4784-a19f-33fd92e89389@sync.2ml.bid:443?mode=gun&security=
 vless://97be5ac0-dae3-43c1-aae8-3fcb7b130c59@englandssihcwpocj.whooisthebest.ir:10000?security=reality&encryption=none&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=cd0a1986719e44c8#%40SystemNebula
 vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@104.24.31.89:443?encryption=none&security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&fp=chrome&type=ws&host=rayan-007.nastaran.dpdns.org&path=%2F#%40SystemNebula
 vless://c3abfda2-9261-4173-a8dc-afe269a15491@185.248.141.233:443?mode=stream-one&path=%2Fimg%2Fcache%2Fv8%2FFr4kNt%2Fseg&security=reality&encryption=none&pbk=PKzmCLsjYi2KGjojE0QLaT0r_PWoDd2VVHEobRtf62Q&fp=firefox&type=xhttp&sni=img.tg-english.ru&sid=1c9b760681e407d8#%40SystemNebula
-vless://f0d6aa7c-0b34-4b68-9af8-1ea5e0b39bdc@yd.2.hhhhh.eu.org:443?security=tls&sni=ssj-wkg.pages.dev&fp=chrome&type=ws&path=%2F&host=ssj-wkg.pages.dev#%40SystemNebula
-vless://f6215299-2964-49ea-a66e-e44996602af5@104.16.146.25:2053?path=%2F1riCYxfBjE&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=i.bartsimpson1341.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=i.bartsimpson1341.workers.dev#%40SystemNebula
 ss://YWVzLTI1Ni1nY206enU2cVRLampyTjhxSnBmbldhN2s0Wldq@194.110.115.93:44208#%40SystemNebula
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2QDExOC4xMDcuMjQ0LjExMzo0NDU=#%40SystemNebula
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#%40SystemNebula
@@ -28,3 +26,5 @@ ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.190.158:445#%40SystemNebula
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:6379#%40SystemNebula
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.230:6379#%40SystemNebula
 ss://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.241.45:38033#%40SystemNebula
+ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDE0Ni43MC4yNy4xMjo0MDA5Mw==#%40SystemNebula
+ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@37.120.236.147:40093#%40SystemNebula
