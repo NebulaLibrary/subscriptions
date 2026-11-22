@@ -1,3 +1,7 @@
+vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@104.24.30.89:443?sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&type=ws&host=rayan-007.nastaran.dpdns.org&path=%2Ffp%3Dchrome&security=tls#%40SystemNebula
+vless://bc591bd5-3fc9-9f3e-b194-939100000004@a2c.ir:443?type=ws&security=tls&fp=chrome&host=flow-turbo-727.deloy10120.workers.dev#%40SystemNebula
+vless://cced2d3b-9840-4579-a6b3-5de365f3bf50@epam.com:443?type=ws&path=%252F&host=wallweb6.pages.dev&security=tls&sni=wallweb6.pages.dev&fp=chrome#%40SystemNebula
+vless://cced2d3b-9840-4579-a6b3-5de365f3bf50@spacex.com:443?sni=wallweb6.pages.dev&type=ws&host=wallweb6.pages.dev&path=%2Ffp%3Dchrome&security=tls#%40SystemNebula
 vless://dbbed131-4ae8-4297-a102-438a2e19b0d9@104.24.225.89:443?security=tls&fp=chrome&sni=ghzo7q51sn2b5e2i1670v7dmx.pages.dev&type=ws&headerType=none&host=ghzo7q51sn2b5e2i1670v7dmx.pages.dev&path=%2Fvl%2Fc5R0DRvdSoEZO90UjW3StIJxLpFWZod%3Fed%3D2560#%40SystemNebula
 vless://e53eacb6-cd30-4964-a57c-febcb5151b98@172.67.74.177:443?encryption=none&security=tls&sni=wallweb-4r0.pages.dev&fp=chrome&type=ws&host=wallweb-4r0.pages.dev&path=%2Ffp%3Dchrome#%40SystemNebula
 vless://e818a20d-9bcd-4744-9061-ca51b9c8aeea@cambridge.org:443?fp=chrome&host=wallweb-4ez.pages.dev&path=%2F&security=tls&sni=wallweb-4ez.pages.dev&type=ws#%40SystemNebula
@@ -24,7 +28,3 @@ vless://40992c2a-513e-4837-9594-23411fd42afd@64.227.67.30:443?encryption=none&he
 vless://40992c2a-513e-4837-9594-23411fd42afd@68.183.212.173:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#%40SystemNebula
 vless://488f41fb-b1e6-4b21-9206-837d016167cb@188.225.32.175:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=8rdhihFgU72DVkhH6ROS9j2WyNc_spuiGXrT_YvNJ0M&security=reality&sid=f51bc11ebd9f2835&sni=contract.starsov.pro&type=raw#%40SystemNebula
 vless://6f1afd5d-9613-0001-b884-b52389da00c2@176.108.244.162:443?encryption=none&fp=firefox&security=tls&sni=ohyjf-ru-65sb.my-fade.cloud&type=tcp#%40SystemNebula
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#%40SystemNebula
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.39.131:443?mode=gun&security=reality&encryption=none&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&fp=firefox&type=grpc&serviceName=204adda7e3da&sni=717252g.nl8.h1clayd.click&sid=d3bd772514c87d28#%40SystemNebula
-vless://dc40b457-239d-493e-ba98-5e6e9b358597@mojigr.fusetea.ir:1102?encryption=none&security=reality&type=xhttp&headerType=none&path=%2F&mode=packet-up&sni=www.aparat.com&fp=chrome&pbk=r753xovnUQvFw0toamiB3UsmgR33o8SXswOK_HrKrmU&sid=886cff912766c2d1#%40SystemNebula
-vless://23060b1f-d87a-43f7-a070-8b51e1da4972@199.232.129.147:443?mode=auto&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=V2shop-speed.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40SystemNebula
