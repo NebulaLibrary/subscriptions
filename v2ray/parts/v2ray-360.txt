@@ -1,6 +1,4 @@
 vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@48.102.173.24:444?encryption=none&fp=chrome&path=/stream/updates/a66d7902&security=tls&sni=neplay603.gangtype.com&type=ws#%40SystemNebula
-vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@48.102.173.24:444?encryption=none&security=tls&sni=neplay603.gangtype.com&fp=chrome&type=ws&host=neplay603.gangtype.com&path=/stream/updates/a66d7902#%40SystemNebula
-vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@48.102.173.24:444?path=/stream/updates/a66d7902&security=tls&encryption=none&host=neplay603.gangtype.com&fp=chrome&type=ws&sni=neplay603.gangtype.com#%40SystemNebula
 vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@48.102.173.24:444?path=/stream/updates/a66d7902&security=tls&encryption=none&insecure=0&host=neplay603.gangtype.com&fp=chrome&type=ws&allowInsecure=0&sni=neplay603.gangtype.com#%40SystemNebula
 vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@48.102.173.24:444?path=/stream/updates/a66d7902?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&encryption=none&insecure=0&host=neplay603.gangtype.com&fp=chrome&type=ws&allowInsecure=0&sni=neplay603.gangtype.com#%40SystemNebula
 vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@48.102.173.24:444?path=/stream/updates/a66d7902?ed#%40SystemNebula
@@ -28,3 +26,5 @@ vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@185.126.93.226:443?encryption=none&
 vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@185.126.93.227:443?encryption=none&type=xhttp&headerType=auto&path=/api/v1/&security=tls&fp=chrome&sni=tg1.cdnphotos.org#%40SystemNebula
 vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?encryption=none&type=xhttp&headerType=auto&path=/api/v1/&security=tls&fp=chrome&sni=tg1.cdnphotos.org#%40SystemNebula
 vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=/api/v1/&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#%40SystemNebula
+vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=/api/v1/?ed#%40SystemNebula
+vless://f0696c33-61de-42c7-ba69-c0b8cd57b79e@167.233.47.127:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40SystemNebula

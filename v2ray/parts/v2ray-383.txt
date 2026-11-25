@@ -1,15 +1,10 @@
-ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@202.50.253.27:19999#%40SystemNebula
-ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@202.50.253.72:19999#%40SystemNebula
-ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@79.127.184.104:19999#%40SystemNebula
-ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@79.137.99.183:19999#%40SystemNebula
-ss://aes-256-gcm:itzvpn@321@107.161.160.28:8388#%40SystemNebula
-ss://chacha20-ietf-poly1305:QCXDxuDlTTMD7jtgHUjIoj@193.29.139.212:8080#%40SystemNebula
 ss://chacha20-ietf-poly1305:_c43uV0__ztFhshnuY4RvhVOC2FgxCjA@dns27.m3hrzd.ir:8044#%40SystemNebula
 ss://chacha20-ietf-poly1305:gg4ze2bpu0wsy6s6@bbomb.okamii1.ir:1008#%40SystemNebula
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@98.98.79.198:8080#%40SystemNebula
-ss://eyJhZGQiOiAiNjcuMjIwLjk1LjMiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgInBvcnQiOiAiMTgwMDAiLCAic2N5IjogImF1dG8iLCAidiI6ICIyIiwgIm5ldCI6ICJyYXciLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJub25lIiwgInBzIjogIkBuZWtvcGluZ2JvdF8zNTYzMyBcdWQ4M2NcdWRmMGQgXHUyNmExXHVmZTBmIn0=#%40SystemNebula
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0=@3.10.140.166:443?type=tcp#%40SystemNebula
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKVVhzeTc4ZFNzNlJPa2FzaWttb2FM@104.238.140.45:11051#%40SystemNebula
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.71.179.221:443#%40SystemNebula
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMmJhODM0NjgyYzNmNzdkOWI3ZTQ4NTFlMzhhYzE4Yg@3.146.200.226:2083?#%40SystemNebula
-trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s1.mitivpn.de.ssl.global.fastly.com.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s1.mitivpn.de.ssl.global.fastly.co.iranpoems.ir#%40SystemNebula
 trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site#%40SystemNebula
 trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sdde.ssdl.globdal.fastdly.net.mitivpn.site#%40SystemNebula
 trojan://mitivpn@199.232.78.101:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/D-e2@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40SystemNebula
@@ -28,3 +23,8 @@ trojan://nzrc4ma4087c1ukr@188.114.96.1:2083?path=/WWEiIlL225IiiILl&security=tls&
 trojan://nzrc4ma4087c1ukr@188.114.96.4:2083?path=/WWEiIlL225IiiILl&security=tls&insecure=0&host=dl1.rahetejarat.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=dl2.rahetejarat.com#%40SystemNebula
 trojan://nzrc4ma4087c1ukr@188.114.96.5:2083?path=/WWEiIlL225IiiILl&security=tls&insecure=0&host=dl1.rahetejarat.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=dl2.rahetejarat.com#%40SystemNebula
 trojan://og85o9QeVVvtMD2sxPjO@sonau.yaremonta.loc.cc:8444?security=none&headerType=&type=tcp#%40SystemNebula
+trojan://pHLdtRnEC5stYZvt9GqMyMYx215AskPW@sw100.marshonet.store:8228/?type=grpc&serviceName=trgrpc&security=tls&sni=sw100.marshonet.store&alpn=h2&fp=chrome#%40SystemNebula
+trojan://poimnap@alireza.karamoz1.ir:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=alireza.karamoz1.ir#%40SystemNebula
+trojan://pu0149u56dhl4t43@shop.raadshop.bond:8447?extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&mode=auto&path=/1d236330ba&pbk=XriFROPBSExFRv1woiPKt6tmBn1AW8UPSVnk6jqG1Rk&security=reality&sid=5200238f5ec02cd0&sni=dl.google.com&spx=/f87520c3783261d&type=xhttp&x_padding_bytes=100-1000#%40SystemNebula
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#%40SystemNebula
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#%40SystemNebula

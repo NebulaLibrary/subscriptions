@@ -1,7 +1,3 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?sni=blog.connectingpeoplewithgreatjobs.com&type=tcp#%40SystemNebula
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?sni=learn.connectingpeoplewithgreatjobs.com&type=tcp#%40SystemNebula
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?sni=api.connectingpeoplewithgreatjobs.com&type=tcp#%40SystemNebula
-trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?allowInsecure=1&type=tcp#%40SystemNebula
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?allowInsecure=1&sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com&type=tcp#%40SystemNebula
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.218:443?sni=learn.discoverfreshgraduatejobsstartyourprofessionaljourney.com&type=tcp#%40SystemNebula
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.224:443?sni=resources.discoverfreshgraduatejobsstartyourprofessionaljourney.com&type=tcp#%40SystemNebula
@@ -28,3 +24,7 @@ trojan://humanity@104.27.0.1:443?sni=www.calmlunch.com&type=ws#%40SystemNebula
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&type=tcp#%40SystemNebula
 trojan://humanity@188.114.97.6:443?sni=www.trusteeforward.com&type=ws#%40SystemNebula
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?fp=chrome&path=%2F&security=false&type=ws#%40SystemNebula
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.102:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#%40SystemNebula
+vless://f46182d1-e13b-47d3-97e2-fa5426a93e7c@45.132.75.213:2053?fp=safari&pbk=TpWeZocgNOygOhMo0l7oJawPu7STkn9D-SOa0UppcyY&security=reality&sid=cd7e85995ae2afc9&sni=www.cloudflare.com&type=tcp#%40SystemNebula
+vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?flow=xtls-rprx-vision&fp=random&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&security=reality&sid=e692a8250d2e2fd0&sni=www.intel.com&type=tcp#%40SystemNebula
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@103.148.73.173:8443?path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&security=tls&sni=ty986gfazs.cainiaohub.xyz&type=ws#%40SystemNebula
